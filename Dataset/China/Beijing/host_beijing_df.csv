@@ -1,0 +1,2064 @@
+host_id,host_name,host_since,host_location,host_response_time,host_response_rate,host_acceptance_rate,host_is_superhost,host_neighbourhood,host_listings_count,host_has_profile_pic,host_identity_verified
+14311129,Andrew,2014-04-15,"Beijing, Beijing, China",,,63.0,False,,1,True,True
+25729513,Joel,2015-01-07,China,within an hour,100.0,100.0,False,Shichahai,10,True,True
+32187257,May,2015-04-29,China,within an hour,93.0,100.0,False,Fang Zhuang,6,True,True
+35607486,Janice,2015-06-12,China,within an hour,100.0,100.0,False,,1,True,True
+22147091,Shaojie,2014-10-05,China,within an hour,100.0,100.0,True,Third Road Jucun/Liucun,3,True,True
+36474626,李磊,2015-06-22,China,within an hour,100.0,100.0,True,Wangfujing/Dongdan,1,True,True
+37119837,Shinefan,2015-06-30,China,within an hour,100.0,84.0,True,,5,True,True
+37454239,Annie,2015-07-04,China,within an hour,100.0,80.0,True,Xicheng,4,True,True
+40336063,Cherry,2015-08-02,China,,,40.0,False,,1,True,True
+43464691,宸,2015-09-06,"Beijing, Beijing, China",within an hour,93.0,100.0,False,Dong Si,0,True,True
+44037550,曹家四合院,2015-09-12,China,within an hour,100.0,100.0,False,Xicheng,23,True,True
+13604427,Iris,2014-03-27,China,within an hour,100.0,100.0,True,,13,True,True
+416762968,帝,2021-08-04,CN,,,,False,,8,True,True
+61938486,曹阳,2016-03-07,China,,,80.0,False,,5,True,True
+63217473,Xu,2016-03-16,China,within an hour,100.0,63.0,True,,6,True,True
+56925319,松林,2016-02-01,China,within an hour,100.0,50.0,False,,2,True,True
+36244397,赛,2015-06-20,"Beijing, Beijing, China",within an hour,100.0,100.0,True,,4,True,True
+69299389,思洋,2016-04-28,China,within an hour,100.0,100.0,False,,1,True,True
+64987062,史群勇,2016-03-29,China,within an hour,100.0,100.0,False,,2,True,True
+27395637,Alice Yaping,2015-02-08,China,within an hour,100.0,100.0,True,,8,True,True
+61712853,小磊,2016-03-05,China,,,100.0,False,,3,True,True
+29090596,Meizi,2015-03-10,China,within a few hours,100.0,100.0,True,,2,True,True
+76033312,Jane,2016-06-05,China,within an hour,100.0,90.0,False,,6,True,True
+67263311,水源,2016-04-14,China,within a day,100.0,81.0,False,,4,True,True
+49301694,Naomi,2015-11-17,China,within an hour,100.0,100.0,False,,1,True,True
+81428114,嘉,2016-07-03,China,within an hour,100.0,100.0,True,,4,True,True
+81857010,萌,2016-07-05,China,within an hour,100.0,100.0,True,,10,True,True
+84016061,Haiying,2016-07-16,China,,,100.0,False,,1,True,True
+85215983,杨,2016-07-21,China,within an hour,100.0,100.0,True,,1,True,True
+54614042,樱桃,2016-01-14,China,within an hour,100.0,100.0,False,,2,True,True
+95781135,Zheng-Nan,2016-09-18,China,within an hour,90.0,100.0,False,,5,True,True
+82226936,丘山里,2016-07-07,China,,,100.0,False,,1,True,True
+99756248,七七,2016-10-15,China,within an hour,100.0,100.0,True,,3,True,True
+101486461,Yang,2016-10-27,China,,,33.0,False,,2,True,True
+103164795,鹏,2016-11-09,China,within an hour,100.0,100.0,True,,7,True,True
+103771767,晓欢,2016-11-14,China,within an hour,100.0,100.0,True,,1,True,True
+103773788,Yang,2016-11-15,China,within an hour,100.0,100.0,False,,1,True,True
+106672991,John Lennon,2016-12-08,China,within an hour,100.0,100.0,False,,2,True,True
+108068724,杉,2016-12-21,China,within an hour,100.0,100.0,False,,3,True,True
+108158691,思哲,2016-12-22,"Huairou, Beijing, China",within a day,50.0,33.0,False,,1,True,True
+45688878,Wine,2015-10-03,China,within an hour,100.0,100.0,False,,1,True,True
+110730118,静,2017-01-10,China,within an hour,100.0,100.0,False,,7,True,True
+111471679,涓涓细流,2017-01-14,China,within an hour,100.0,100.0,False,,1,True,True
+114242022,小小,2017-01-31,China,within an hour,100.0,100.0,True,,3,True,True
+119404803,磊,2017-03-06,China,within an hour,100.0,88.0,False,,1,True,True
+116809362,张,2017-02-17,China,,,67.0,True,,3,True,True
+121658903,永霞,2017-03-20,China,within an hour,100.0,100.0,False,,1,True,True
+124389976,浩洋,2017-04-05,China,within an hour,100.0,100.0,True,,4,True,True
+108692274,迪,2016-12-27,China,within an hour,100.0,99.0,True,,20,True,True
+125117738,菲,2017-04-10,China,within an hour,100.0,100.0,False,,0,True,True
+125459934,小姜,2017-04-12,China,within an hour,100.0,100.0,False,,3,True,True
+125739532,峪景小院,2017-04-13,China,,,90.0,False,,1,True,True
+126349894,丹,2017-04-17,China,within an hour,100.0,100.0,False,,1,True,True
+88919216,赫,2016-08-09,China,within an hour,100.0,100.0,False,,1,True,True
+128651522,赵佳丽,2017-05-03,China,within an hour,100.0,100.0,False,,1,True,True
+100475533,Tom,2016-10-20,China,within a few hours,100.0,100.0,False,,6,True,True
+67308995,海臣,2016-04-15,China,within an hour,100.0,,False,,1,True,True
+95234816,惠玲,2016-09-15,CN,,,100.0,False,,1,True,True
+130692348,红伟,2017-05-17,China,within an hour,100.0,100.0,False,,1,True,True
+130262828,Jason,2017-05-14,China,within an hour,100.0,100.0,True,,1,True,True
+133323536,惠英,2017-06-04,China,within an hour,100.0,100.0,False,,9,True,True
+134875637,琳,2017-06-13,China,,,100.0,False,,1,True,True
+135736523,惠娟,2017-06-18,China,within an hour,100.0,50.0,False,,3,True,True
+115127016,自己,2017-02-06,China,,,100.0,False,,3,True,True
+77378878,Xiaoxiao,2016-06-12,China,within an hour,75.0,100.0,True,,1,True,True
+115155510,亮,2017-02-06,China,a few days or more,0.0,,False,,1,True,True
+139552122,银辉,2017-07-10,"Beijing, Beijing, China",within an hour,100.0,100.0,False,呼家楼,4,True,True
+80373198,Cong,2016-06-27,China,within a few hours,100.0,100.0,False,,2,True,True
+141953666,灵山月隐,2017-07-23,China,,,,False,,1,True,True
+143674767,陈,2017-08-01,China,within an hour,100.0,100.0,False,,4,True,True
+144889065,超,2017-08-07,China,,,100.0,False,,1,True,True
+144918878,畅,2017-08-08,China,,,100.0,False,,1,True,True
+143501938,松,2017-07-31,China,within a few hours,100.0,100.0,True,,5,True,True
+145343517,终于见到你,2017-08-10,"Beijing, Beijing, China",within an hour,100.0,100.0,True,,7,True,True
+145908264,鑫,2017-08-14,China,,,100.0,False,,3,True,True
+146724852,桐浩,2017-08-19,China,,,100.0,False,Wangjing,4,True,True
+147608108,秀蕾,2017-08-25,China,within an hour,100.0,100.0,False,,1,True,True
+25253071,Kathy,2014-12-27,China,within a day,100.0,100.0,True,,2,True,True
+149025721,冯瑞华,2017-09-04,China,within an hour,100.0,100.0,False,,2,True,True
+149168920,葵,2017-09-04,China,within an hour,100.0,98.0,True,Jinsong/Panjiayuan,1,True,True
+105643172,Li,2016-11-29,CN,,,100.0,False,,5,True,True
+149217819,爱娟,2017-09-05,China,within an hour,100.0,100.0,True,,11,True,True
+77669327,Sandy,2016-06-14,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,15,True,True
+150252939,伟,2017-09-12,China,within an hour,100.0,100.0,True,,5,True,True
+126999701,Ye,2017-04-22,China,,,50.0,False,,1,True,True
+151019773,国奥乡居长城别院,2017-09-17,"Beijing, Beijing, China",within an hour,100.0,89.0,False,,5,True,True
+151463256,淑卿,2017-09-20,China,within an hour,100.0,100.0,False,,5,True,True
+43986556,可凡,2015-09-12,China,within an hour,100.0,94.0,True,,16,True,True
+92200397,新才,2016-08-27,China,,,67.0,False,,1,True,True
+95773633,Magiceros,2016-09-18,China,a few days or more,0.0,75.0,False,,2,True,True
+152770230,璐,2017-10-01,China,,,,False,,1,True,True
+152928539,Fang,2017-10-02,China,within an hour,100.0,100.0,False,,1,True,True
+145076742,搪瓷缸小院,2017-08-08,China,within an hour,100.0,100.0,False,,2,True,True
+12100784,欢,2014-02-10,China,,,100.0,False,,6,True,True
+153683050,娟,2017-10-07,China,within a day,100.0,100.0,True,,3,True,True
+153897271,金龙,2017-10-09,China,within an hour,100.0,100.0,True,,3,True,True
+155181754,述明,2017-10-18,China,,,,False,,2,True,True
+36176545,宇文 Lauren,2015-06-19,China,within an hour,100.0,100.0,False,,4,True,True
+46069213,Lanny,2015-10-08,"Beijing, Beijing, China",,,100.0,False,Chaoyang,1,True,True
+157720122,芒果,2017-11-06,China,within an hour,100.0,100.0,False,,2,True,True
+160815518,德勤,2017-12-01,China,within an hour,100.0,100.0,False,,8,True,True
+18658886,Stars,2014-07-22,China,within an hour,100.0,86.0,True,,37,True,True
+160781579,原乡里,2017-11-30,China,a few days or more,0.0,100.0,False,,6,True,True
+160660203,Summer,2017-11-29,China,within an hour,100.0,100.0,True,,3,True,True
+93443710,林,2016-09-04,China,within an hour,100.0,97.0,False,,1,True,True
+148891823,莹,2017-09-03,China,within an hour,100.0,100.0,False,,10,True,True
+164544034,近山小筑,2017-12-27,China,within an hour,100.0,100.0,False,,1,True,True
+165325002,瑞才,2018-01-02,China,within an hour,100.0,100.0,True,,4,True,True
+165986854,帆,2018-01-05,China,within an hour,100.0,100.0,False,,1,True,True
+169630053,舍,2018-01-24,"Miyun, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+167475535,王木匠,2018-01-13,China,,,100.0,False,,1,True,True
+171589619,光宿,2018-02-04,China,within an hour,100.0,99.0,True,Zhuang,5,True,True
+171947285,建红,2018-02-06,China,within an hour,100.0,100.0,True,,3,True,True
+128102413,小菜,2017-04-29,China,within a few hours,71.0,33.0,False,,1,True,True
+147452824,微微,2017-08-24,China,within an hour,100.0,93.0,True,,1,True,True
+137186490,静,2017-06-26,China,within an hour,100.0,94.0,True,Haidian,2,True,True
+177273579,磊,2018-03-08,China,within an hour,100.0,100.0,False,,1,True,True
+177816938,Kang,2018-03-11,China,within an hour,100.0,100.0,True,,1,True,True
+177963175,鑫,2018-03-12,China,within an hour,100.0,100.0,True,,5,True,True
+171714494,曹,2018-02-04,CN,within an hour,100.0,100.0,False,,1,True,True
+117540676,向外民宿,2017-02-21,China,within an hour,100.0,100.0,True,Sanlitun,12,True,True
+75855634,Hui,2016-06-05,China,within a few hours,100.0,94.0,True,,2,True,True
+171345863,帕德,2018-02-02,China,within an hour,100.0,100.0,False,,7,True,True
+35109652,Man-Man,2015-06-06,China,within an hour,100.0,100.0,False,,1,True,True
+182322703,翔,2018-04-04,China,within an hour,100.0,100.0,True,,1,True,True
+14063290,Xiaojia,2014-04-09,China,within an hour,100.0,67.0,False,,1,True,True
+138337107,奕涵,2017-07-03,China,within an hour,100.0,100.0,False,,1,True,True
+180855929,初,2018-03-27,China,a few days or more,0.0,100.0,False,,4,True,True
+182945440,红升,2018-04-07,CN,,,100.0,False,,1,True,True
+183015051,至真,2018-04-07,China,within a day,100.0,100.0,False,,6,True,True
+105068589,杨洁,2016-11-24,China,within an hour,100.0,100.0,False,,2,True,True
+183517186,小京,2018-04-10,China,,,100.0,False,,1,True,True
+180104890,桂华,2018-03-23,China,within an hour,100.0,100.0,False,,4,True,True
+138993926,庭栖,2017-07-06,China,within an hour,100.0,100.0,False,,11,True,True
+183781830,崔,2018-04-11,China,within an hour,100.0,100.0,True,,3,True,True
+184309300,小芬,2018-04-14,China,within an hour,100.0,100.0,False,,1,True,True
+35515924,楠,2015-06-10,China,within a few hours,100.0,97.0,False,,3,True,True
+168896213,永远,2018-01-20,China,within an hour,100.0,100.0,True,,1,True,True
+184695801,Senya,2018-04-16,China,within an hour,100.0,100.0,True,,10,True,True
+142040332,宇,2017-07-23,China,within an hour,100.0,100.0,True,,5,True,True
+181077628,Chenguang,2018-03-28,China,,,100.0,True,,7,True,True
+185088502,晓娇,2018-04-18,China,within an hour,100.0,100.0,False,,1,True,True
+184698679,梦喆,2018-04-16,China,within an hour,70.0,100.0,False,,5,True,True
+160411460,海波,2017-11-28,China,,,75.0,False,Shichahai,59,True,True
+186196315,秀立,2018-04-25,China,,,100.0,False,,3,True,True
+141284516,奕彤,2017-07-19,China,within an hour,100.0,91.0,False,,2,True,True
+183249083,佳,2018-04-09,China,within an hour,100.0,100.0,False,,1,True,True
+187262198,伟,2018-05-01,China,within an hour,100.0,100.0,True,,2,True,True
+187386039,文凯,2018-05-01,China,within an hour,100.0,100.0,True,,13,True,True
+185609454,沈,2018-04-22,China,within an hour,100.0,100.0,False,,1,True,True
+77438867,小伟,2016-06-13,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+96567337,木下新一,2016-09-24,China,within an hour,67.0,100.0,False,,1,True,True
+120858542,雪,2017-03-15,China,,,94.0,False,,1,True,True
+188070293,爽,2018-05-06,China,within an hour,100.0,100.0,False,,2,True,True
+61237298,洋洋,2016-03-02,China,within an hour,100.0,100.0,False,,1,True,True
+188308794,亮,2018-05-07,China,within an hour,100.0,100.0,True,,1,True,True
+188452673,郑春芝,2018-05-08,China,within an hour,100.0,77.0,False,,3,True,True
+188787048,竞超,2018-05-09,China,within an hour,100.0,100.0,False,,1,True,True
+188848587,洁,2018-05-10,China,within an hour,80.0,100.0,False,,1,True,True
+189270854,一涵,2018-05-12,China,within an hour,100.0,100.0,True,,1,True,True
+188777150,大宅门静雅居,2018-05-09,China,within an hour,86.0,100.0,True,,4,True,True
+189454474,辉,2018-05-14,China,within an hour,100.0,100.0,False,,9,True,True
+189818218,张宏伟,2018-05-15,China,,,100.0,False,,1,True,True
+31791656,李,2015-04-23,China,within an hour,100.0,100.0,True,,1,True,True
+190238399,春杰,2018-05-18,China,within an hour,100.0,100.0,False,,1,True,True
+190424657,明红,2018-05-19,China,within an hour,100.0,100.0,False,,4,True,True
+182572024,小伟,2018-04-05,China,within an hour,100.0,83.0,False,,2,True,True
+101821482,蒋,2016-10-30,China,within an hour,100.0,100.0,False,,1,True,True
+191291276,Delia,2018-05-23,China,within an hour,100.0,100.0,False,,2,True,True
+189920840,春芝,2018-05-16,China,within an hour,100.0,100.0,False,,5,True,True
+110094570,幸运小屋,2017-01-06,China,within an hour,100.0,99.0,True,,2,True,True
+191489129,光,2018-05-25,China,within an hour,100.0,100.0,True,Sanlitun,6,True,True
+51975556,王燕,2015-12-22,China,within an hour,100.0,93.0,False,Qianmen,6,True,True
+191705540,磊,2018-05-26,CN,within an hour,88.0,33.0,False,,1,True,True
+91780111,Hui,2016-08-25,China,within an hour,100.0,76.0,False,,1,True,True
+192679238,煜姐姐,2018-05-31,China,,,100.0,True,,4,True,True
+192631231,冬玲,2018-05-31,China,,,100.0,False,,19,True,True
+148866795,Yu Long,2017-09-02,China,,,100.0,False,,2,True,True
+176442727,琪,2018-03-03,China,within an hour,100.0,88.0,True,,1,True,True
+193338657,言,2018-06-03,China,within an hour,86.0,100.0,False,,1,True,True
+193826261,晨光,2018-06-06,China,within an hour,100.0,100.0,False,,1,True,True
+194187751,节气山房,2018-06-07,China,within an hour,100.0,100.0,False,,7,True,True
+194446873,晓飞,2018-06-09,China,within an hour,100.0,86.0,False,,1,True,True
+105081052,卢二光,2016-11-25,China,within a day,83.0,100.0,True,,2,True,True
+152176709,Andrew,2017-09-26,China,within an hour,100.0,94.0,False,,14,True,True
+191127166,雷,2018-05-23,"Fangshan, Beijing, China",,,100.0,True,,2,True,True
+189027204,永顺,2018-05-11,China,within a few hours,100.0,100.0,False,,4,True,True
+182174810,Katie,2018-04-03,China,within an hour,100.0,100.0,True,,2,True,True
+195577442,淑丽,2018-06-14,China,within an hour,100.0,100.0,False,,5,True,True
+183710819,尹,2018-04-11,CN,within an hour,100.0,100.0,False,,1,True,True
+196266913,淑珍,2018-06-17,China,,,100.0,False,,1,True,True
+145453217,李,2017-08-11,China,,,100.0,True,,1,True,True
+67998390,长城四季,2016-04-19,China,within an hour,100.0,100.0,True,,3,True,True
+137392605,仕林,2017-06-27,China,,,100.0,False,,3,True,True
+197403613,华姐,2018-06-22,China,within an hour,100.0,100.0,True,,12,True,True
+198342900,婷,2018-06-27,China,within an hour,100.0,100.0,True,,5,True,True
+198922271,勤,2018-06-29,China,,,92.0,False,,1,True,True
+199011387,何翔,2018-06-30,China,,,82.0,False,,2,True,True
+159447416,庆旭,2017-11-20,China,,,,False,,1,True,True
+191376596,Maggie,2018-05-24,China,within an hour,100.0,100.0,False,,1,True,True
+199439102,立志,2018-07-02,China,within a few hours,100.0,100.0,False,,4,True,True
+185586927,季秀侠,2018-04-22,China,within an hour,100.0,100.0,True,,5,True,True
+200750662,丽雯,2018-07-08,China,within an hour,100.0,100.0,False,,1,True,True
+201402078,军杰,2018-07-10,CN,,,100.0,False,,1,True,True
+149208562,森岚民宿,2017-09-05,China,within an hour,100.0,99.0,True,,21,True,True
+185108508,郭丽苹,2018-04-19,China,within an hour,100.0,100.0,False,,3,True,True
+43576681,Jiayue,2015-09-07,China,,,90.0,False,,1,True,True
+189900928,明,2018-05-16,China,within an hour,100.0,67.0,False,,3,True,True
+106575024,佳强,2016-12-08,CN,,,50.0,False,,1,True,True
+168983864,枫,2018-01-20,China,within an hour,100.0,100.0,True,,6,True,True
+23609934,Yuan Yuan,2014-11-11,China,,,100.0,False,,1,True,True
+204613802,胡玉,2018-07-23,CN,,,100.0,False,,1,True,True
+206048635,晓,2018-07-29,China,within an hour,100.0,100.0,False,,2,True,True
+206556055,妙阳,2018-08-01,China,within a day,93.0,95.0,False,,4,True,True
+206164564,桃子,2018-07-30,China,within an hour,100.0,100.0,True,,8,True,True
+206652810,薇,2018-08-01,China,within an hour,100.0,25.0,False,,2,True,True
+207462902,金峰,2018-08-05,China,,,100.0,False,,1,True,True
+207947081,浩,2018-08-07,China,within an hour,100.0,100.0,True,,4,True,True
+208203591,华亭,2018-08-08,China,a few days or more,0.0,100.0,False,,1,True,True
+208335029,哇撒,2018-08-08,China,,,100.0,False,,3,True,True
+208166015,Flower,2018-08-08,China,within a few hours,100.0,100.0,False,,1,True,True
+206627778,超,2018-08-01,China,within an hour,100.0,100.0,True,,10,True,True
+206077423,思鹏,2018-07-30,CN,,,100.0,False,,1,True,True
+209708106,津梅,2018-08-15,China,within an hour,100.0,100.0,False,,6,True,True
+54153027,洪 Henry,2016-01-11,China,within an hour,100.0,88.0,True,,1,True,True
+203519246,晓芳,2018-07-19,China,,,100.0,False,,1,True,True
+169216826,草莓味的大揭揭,2018-01-22,China,within an hour,100.0,100.0,False,,1,True,True
+210283910,甫燕,2018-08-18,China,within a few hours,100.0,100.0,False,,5,True,True
+180381138,小辉,2018-03-24,China,within an hour,100.0,100.0,True,,4,True,True
+210882088,蓝庭,2018-08-21,China,within an hour,100.0,100.0,False,,6,True,True
+208581311,一天,2018-08-09,China,,,100.0,False,Xuanwu,2,True,True
+206798109,杏子,2018-08-02,China,within an hour,100.0,98.0,True,,1,True,True
+210696335,英,2018-08-20,CN,,,100.0,False,,1,True,True
+211459203,永生,2018-08-24,China,,,100.0,False,,1,True,True
+211754282,东妮,2018-08-25,China,within an hour,100.0,100.0,False,,2,True,True
+31044155,Xi,2015-04-11,China,,,100.0,False,,1,True,True
+206879790,耳机,2018-08-02,China,within an hour,100.0,95.0,True,,1,True,True
+146207061,听心花宿,2017-08-15,China,within an hour,100.0,100.0,False,,5,True,True
+110778122,田,2017-01-10,China,within an hour,80.0,98.0,False,,9,True,True
+212805687,寅,2018-08-31,China,within an hour,100.0,,False,,1,True,True
+212948743,一路向南,2018-09-01,China,within an hour,100.0,100.0,False,,9,True,True
+207477161,哈李,2018-08-05,China,within an hour,100.0,100.0,True,,1,True,True
+214630481,排亮,2018-09-10,China,within an hour,100.0,100.0,False,,6,True,True
+144512796,青山明月,2017-08-05,China,,,100.0,False,,1,True,True
+215299746,树云,2018-09-14,China,within an hour,100.0,100.0,True,,3,True,True
+215516258,苗,2018-09-15,China,,,92.0,True,,3,True,True
+99486906,水源民宿•灿,2016-10-13,China,within an hour,97.0,94.0,False,,17,True,True
+215854507,顺康,2018-09-17,China,within an hour,100.0,100.0,True,,3,True,True
+85031887,仲伯,2016-07-21,China,,,100.0,False,,1,True,True
+216135087,慧敏,2018-09-18,China,,,100.0,False,,1,True,True
+142963844,Amélie,2017-07-28,China,,,100.0,True,,2,True,True
+191349312,思,2018-05-24,China,within an hour,100.0,100.0,True,,1,True,True
+168042768,方,2018-01-15,China,within an hour,100.0,100.0,True,,3,True,True
+208039729,晶合,2018-08-07,China,within an hour,100.0,100.0,False,Xuanwu,2,True,True
+216720530,小晋,2018-09-22,China,within an hour,100.0,100.0,False,,1,True,True
+217327492,浩翔,2018-09-25,China,within an hour,100.0,50.0,False,,1,True,True
+217166502,孙芸,2018-09-25,China,within an hour,100.0,100.0,True,,4,True,True
+217418565,管家,2018-09-26,China,within an hour,100.0,100.0,False,,2,True,True
+209935648,杰,2018-08-16,China,within an hour,93.0,72.0,False,,2,True,True
+217755193,爽,2018-09-28,China,within an hour,100.0,100.0,True,,1,True,True
+217851450,斌,2018-09-29,CN,within a day,100.0,100.0,False,,17,True,True
+217859759,徐占莲农家院,2018-09-29,China,within an hour,100.0,100.0,False,,1,True,True
+217898917,Yu,2018-09-29,China,within an hour,100.0,89.0,True,,1,True,True
+215129968,方舟,2018-09-13,China,,,100.0,False,,1,True,True
+217906606,安康,2018-09-29,China,within an hour,100.0,100.0,True,,6,True,True
+92913313,果果,2016-09-01,China,within an hour,100.0,100.0,True,,5,True,True
+214912749,吕逸然,2018-09-11,China,within a few hours,100.0,100.0,False,,1,True,True
+218571543,俊香,2018-10-03,CN,,,100.0,False,,1,True,True
+218586938,十渡聚祥达民宿,2018-10-03,China,within an hour,100.0,100.0,True,,11,True,True
+218512520,独处,2018-10-02,China,within an hour,100.0,100.0,False,,1,True,True
+218791870,Mona,2018-10-04,China,,,100.0,False,,1,True,True
+218869491,高克,2018-10-05,China,within an hour,100.0,95.0,False,,1,True,True
+209676615,雅妹儿,2018-08-15,China,within an hour,100.0,100.0,False,,1,True,True
+219162689,健,2018-10-06,China,within an hour,100.0,100.0,True,,1,True,True
+219068792,航天,2018-10-06,CN,,,25.0,False,,2,True,True
+144706805,磊,2017-08-07,China,,,100.0,False,,1,True,True
+219396369,秀兰,2018-10-08,China,within a day,100.0,100.0,False,,5,True,True
+218688287,艳明,2018-10-03,China,within an hour,100.0,100.0,True,,3,True,True
+116779708,Kapher,2017-02-17,China,within an hour,100.0,100.0,False,,1,True,True
+210093149,佳南,2018-08-17,China,within an hour,100.0,100.0,False,,1,True,True
+220864285,浩诚,2018-10-16,China,within an hour,100.0,100.0,False,,1,True,True
+20557420,Kaixiang,2014-08-26,China,within an hour,100.0,100.0,True,,2,True,True
+221519137,刘,2018-10-19,CN,,,100.0,False,,1,True,True
+219648769,Lavita,2018-10-09,China,within an hour,100.0,100.0,False,,3,True,True
+222693489,梅姐,2018-10-26,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+184577485,嘉仲,2018-04-16,China,within an hour,100.0,100.0,True,,4,True,True
+222981770,斯琪,2018-10-28,China,within an hour,100.0,100.0,True,,5,True,True
+224214968,林中雾,2018-11-04,China,within an hour,100.0,100.0,False,,1,True,True
+137757004,Ihome平谷耿家院子,2017-06-29,"Chaoyang, Beijing, China",within an hour,100.0,100.0,True,,4,True,True
+61783704,Ada,2016-03-06,China,within an hour,100.0,100.0,False,,2,True,True
+114732187,崴,2017-02-03,China,within an hour,100.0,100.0,False,,1,True,True
+225834548,Frederic,2018-11-15,China,within an hour,100.0,100.0,True,,1,True,True
+215442130,晓帅,2018-09-14,China,,,0.0,False,,2,True,True
+226127344,桔,2018-11-16,China,within an hour,100.0,100.0,False,,2,True,True
+84624498,Fong,2016-07-19,China,within a day,100.0,100.0,False,,1,True,True
+226909525,姗,2018-11-21,China,within an hour,100.0,100.0,True,,10,True,True
+227830271,晓娇,2018-11-27,CN,within a day,50.0,100.0,False,,1,True,True
+228306918,林,2018-11-29,"Beijing, Beijing, China",within an hour,100.0,100.0,True,,13,True,True
+208237063,轶锋,2018-08-08,China,within an hour,100.0,100.0,True,,1,True,True
+226779399,克,2018-11-21,CN,,,100.0,False,,0,True,True
+216287675,爱矾,2018-09-19,China,within an hour,100.0,50.0,False,,6,True,True
+230008147,丁爱菊,2018-12-10,CN,,,,False,,3,True,True
+182325304,垚力,2018-04-04,China,within a few hours,86.0,83.0,False,,3,True,True
+230861609,益多,2018-12-15,CN,within an hour,100.0,100.0,False,,1,True,True
+217759117,板泉之野,2018-09-28,China,,,100.0,False,,2,True,True
+226618361,E家美宿,2018-11-20,China,within an hour,95.0,100.0,False,Liuliqiao/Lize Bridge,14,True,True
+215261636,晓月,2018-09-13,China,within an hour,100.0,100.0,True,,1,True,True
+190659783,俊,2018-05-20,China,within an hour,100.0,100.0,False,,1,True,True
+194872205,鑫,2018-06-11,China,within an hour,100.0,77.0,True,,6,True,True
+147633984,哲,2017-08-25,"Beijing, Beijing, China",a few days or more,33.0,100.0,False,,1,True,True
+233592874,萍,2019-01-01,China,within an hour,100.0,100.0,False,,3,True,True
+234522145,勇,2019-01-05,China,within an hour,100.0,100.0,False,,1,True,True
+87901773,老王,2016-08-04,CN,,,100.0,False,,1,True,True
+67571675,慢,2016-04-17,China,within an hour,100.0,100.0,True,,1,True,True
+233579555,清孔雀,2019-01-01,China,within an hour,100.0,99.0,True,,14,True,True
+237551513,香梅,2019-01-19,China,within an hour,100.0,100.0,False,,1,True,True
+179539719,耿,2018-03-20,China,within an hour,100.0,100.0,False,,1,True,True
+238433111,硕,2019-01-23,China,within an hour,100.0,100.0,True,,6,True,True
+170294901,花儿,2018-01-28,China,,,100.0,True,,14,True,True
+239668390,陈,2019-01-28,CN,within an hour,100.0,100.0,False,,1,True,True
+234024433,Dennis,2019-01-03,China,within an hour,100.0,100.0,True,,1,True,True
+66197375,Yi,2016-04-07,China,a few days or more,0.0,100.0,False,,1,True,True
+60351139,晓青,2016-02-25,China,within an hour,91.0,100.0,True,,1,True,True
+131463534,Ladystory8,2017-05-22,China,within an hour,100.0,100.0,False,,5,True,True
+188668938,亮,2018-05-09,China,within an hour,100.0,100.0,False,,2,True,True
+160059194,心心,2017-11-25,China,within an hour,100.0,100.0,False,,1,True,True
+75873378,建莉,2016-06-05,"Beijing, Beijing, China",,,100.0,False,,2,True,True
+241155484,龙庆峡印象民宿,2019-02-05,China,within an hour,100.0,100.0,False,,5,True,True
+243198874,刘佳,2019-02-14,China,within an hour,100.0,100.0,False,,1,True,True
+244083389,花开,2019-02-19,China,within an hour,100.0,100.0,False,,1,True,True
+244479910,Art,2019-02-21,China,a few days or more,6.0,97.0,False,Shilipu,4,True,True
+233281900,振东,2018-12-30,China,within an hour,100.0,75.0,False,,7,True,True
+230762858,梁子,2018-12-15,China,,,100.0,False,,1,True,True
+246550427,思建,2019-03-03,China,within an hour,100.0,100.0,True,,1,True,True
+163766664,三三,2017-12-23,China,within an hour,100.0,100.0,False,,1,True,True
+237938882,金生,2019-01-20,China,,,100.0,False,,2,True,True
+141674704,UTime,2017-07-21,China,within an hour,96.0,97.0,False,,7,True,True
+246084742,锟,2019-02-28,China,within an hour,100.0,25.0,False,,2,True,True
+46840971,Stey,2015-10-18,China,within an hour,99.0,100.0,True,Wangfujing/Dongdan,3,True,True
+86520158,祥叔,2016-07-28,China,within an hour,100.0,100.0,True,,3,True,True
+249124240,毓琦,2019-03-15,China,within a day,100.0,99.0,False,Dongzhimen,10,True,True
+249365374,双,2019-03-17,China,within a day,100.0,50.0,False,,1,True,True
+249574527,新潮宿,2019-03-18,China,within an hour,100.0,100.0,True,,6,True,True
+118809147,玥,2017-03-02,China,,,100.0,False,,1,True,True
+248763189,国金,2019-03-14,China,within an hour,100.0,100.0,False,,1,True,True
+250466616,玟军,2019-03-22,"Huairou District, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+250526093,初见臻选,2019-03-22,China,within an hour,100.0,100.0,False,Chaoyang,18,True,True
+250818523,先生,2019-03-24,China,within an hour,100.0,100.0,False,,1,True,True
+165407716,Rongrong,2018-01-02,China,within an hour,100.0,100.0,False,,4,True,True
+251212181,伟涛,2019-03-25,China,within an hour,100.0,100.0,False,,4,True,True
+211310888,玉如,2018-08-23,China,,,100.0,False,,1,True,True
+98775302,杜海利,2016-10-08,"Yanqing, Beijing, China",,,100.0,False,,2,True,True
+251686186,金弘杨,2019-03-28,China,within an hour,100.0,96.0,False,,9,True,True
+251677103,志平,2019-03-28,CN,within an hour,100.0,100.0,False,,2,True,True
+251077176,山,2019-03-25,China,within an hour,100.0,100.0,False,,2,True,True
+251661854,小康,2019-03-27,China,,,100.0,True,,1,True,True
+252255598,蕊,2019-03-31,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+252286894,笛,2019-03-31,"Huairou, Beijing, China",,,,False,,1,True,True
+252306454,超,2019-03-31,China,within an hour,100.0,100.0,False,,1,True,True
+144684882,PeiyingLau,2017-08-06,China,within an hour,100.0,98.0,True,,9,True,True
+250241366,琼兰,2019-03-21,China,within an hour,100.0,92.0,False,,14,True,True
+224871232,Emily,2018-11-08,China,within an hour,100.0,100.0,True,,4,True,True
+250862877,焱,2019-03-24,China,within an hour,100.0,100.0,True,,1,True,True
+66853077,Heather,2016-04-12,China,within an hour,100.0,87.0,True,,3,True,True
+144765511,秉茹,2017-08-07,CN,within an hour,80.0,100.0,False,,1,True,True
+246127150,萌,2019-03-01,China,within an hour,100.0,100.0,True,,2,True,True
+243838842,晓琳,2019-02-18,"Yanqing, Beijing, China",within a few hours,100.0,89.0,False,,18,True,True
+32301673,Sally,2015-04-30,China,within an hour,88.0,100.0,True,,1,True,True
+167888242,杨海舰,2018-01-15,China,within an hour,100.0,100.0,True,,1,True,True
+253752591,希希,2019-04-07,China,within an hour,100.0,100.0,False,,1,True,True
+62595471,He,2016-03-12,China,,,100.0,False,,1,True,True
+128034930,连锁,2017-04-28,China,within an hour,100.0,100.0,True,,1,True,True
+253602677,晓霞,2019-04-06,China,,,,False,,2,True,True
+205384209,悦珊,2018-07-26,"Yanqing District, Beijing, China",within an hour,67.0,100.0,False,,2,True,True
+254190283,云霞草堂,2019-04-08,CN,,,100.0,False,,1,True,True
+254227763,118****709,2019-04-09,China,within an hour,100.0,100.0,False,,2,True,True
+197914852,月,2018-06-25,China,within an hour,100.0,100.0,True,,3,True,True
+91232524,Christina,2016-08-22,China,within an hour,100.0,100.0,False,,1,True,True
+254423201,163****141,2019-04-09,China,within an hour,100.0,100.0,True,,4,True,True
+246912399,青霖,2019-03-04,China,within an hour,100.0,100.0,False,,2,True,True
+241195421,小院大姐,2019-02-05,China,within an hour,100.0,100.0,False,,1,True,True
+248753876,亚娜,2019-03-13,CN,,,100.0,False,,2,True,True
+255537440,伯鑫,2019-04-13,China,within an hour,100.0,100.0,False,,1,True,True
+250258100,馥郁,2019-03-21,China,within an hour,100.0,100.0,True,,9,True,True
+255671249,世佳,2019-04-13,China,within an hour,100.0,100.0,True,,2,True,True
+216831253,赵海菊,2018-09-23,China,,,100.0,False,,7,True,True
+47672470,影,2015-10-29,China,,,100.0,True,,4,True,True
+255918921,亚军,2019-04-15,CN,,,100.0,False,,1,True,True
+168632872,Yu,2018-01-18,China,within an hour,100.0,100.0,False,,1,True,True
+256018079,月明,2019-04-15,China,,,100.0,False,,1,True,True
+166565636,静,2018-01-08,China,within an hour,67.0,100.0,False,,2,True,True
+255971999,舍,2019-04-15,China,within an hour,100.0,100.0,False,,6,True,True
+188229944,子安,2018-05-06,China,a few days or more,0.0,100.0,False,,7,True,True
+256164959,书生,2019-04-16,China,within an hour,100.0,100.0,False,,2,True,True
+256209312,郝儿,2019-04-16,CN,within a day,75.0,50.0,False,,1,True,True
+255895937,婷婷,2019-04-15,China,within an hour,100.0,83.0,True,,1,True,True
+197875129,Cofa,2018-06-25,China,within an hour,100.0,100.0,False,,1,True,True
+226787710,合舍,2018-11-21,"Shunyi, Beijing, China",within an hour,100.0,0.0,False,,1,True,True
+46811611,Si,2015-10-17,China,,,63.0,True,,1,True,True
+256148061,德民,2019-04-16,China,within an hour,100.0,100.0,False,,0,True,True
+256622853,代雨,2019-04-18,China,,,100.0,False,,1,True,True
+256738588,小菲,2019-04-19,China,within an hour,100.0,100.0,True,,4,True,True
+209918111,严宝温,2018-08-16,China,within an hour,100.0,100.0,False,,3,True,True
+255313795,全利,2019-04-12,CN,,,50.0,False,,1,True,True
+256974444,小红,2019-04-20,CN,within an hour,90.0,67.0,False,,1,True,True
+257121648,孙孙孙,2019-04-21,CN,,,100.0,False,,1,True,True
+257142737,齐,2019-04-21,China,within an hour,100.0,100.0,True,,4,True,True
+257249123,悦欣居,2019-04-21,China,within an hour,100.0,100.0,False,,7,True,True
+257252979,Aaron,2019-04-21,China,within an hour,100.0,100.0,False,,1,True,True
+202718002,寓鉴,2018-07-16,China,,,96.0,True,,2,True,True
+202654661,金成,2018-07-16,"Huairou District, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+255754979,丹,2019-04-14,China,within an hour,100.0,100.0,True,,2,True,True
+235868327,云霞,2019-01-11,China,within an hour,100.0,100.0,False,,1,True,True
+257474229,余楠,2019-04-22,CN,,,100.0,False,,1,True,True
+257577517,桂平,2019-04-23,China,within an hour,100.0,,False,,1,True,True
+257580384,于于,2019-04-23,China,within an hour,100.0,100.0,False,,1,True,True
+253178933,竹里看山民宿,2019-04-04,China,within an hour,100.0,100.0,False,,1,True,True
+10304629,Aming,2013-11-27,China,within an hour,100.0,94.0,True,,1,True,True
+256770032,SonGy,2019-04-19,"Dongcheng, Beijing, China",,,,False,,5,True,True
+243231892,子月,2019-02-15,China,within an hour,100.0,100.0,False,,2,True,True
+257760365,迎新,2019-04-24,China,within an hour,100.0,100.0,True,,4,True,True
+257500168,磊,2019-04-23,China,a few days or more,0.0,,False,,2,True,True
+257891239,秀娟,2019-04-24,China,within an hour,100.0,100.0,False,,1,True,True
+257911805,增福,2019-04-25,China,within an hour,100.0,100.0,False,,2,True,True
+257920095,润莉,2019-04-25,China,within an hour,100.0,100.0,True,,6,True,True
+251942718,茜茜,2019-03-29,China,within an hour,100.0,100.0,False,,2,True,True
+257991555,小伟,2019-04-25,CN,within a day,100.0,75.0,False,,1,True,True
+257990415,建利,2019-04-25,China,within an hour,100.0,100.0,False,,1,True,True
+223490177,春天花舍小筑,2018-10-31,China,,,100.0,False,,1,True,True
+181194191,念,2018-03-28,China,within an hour,100.0,100.0,False,,1,True,True
+257351531,小瓜,2019-04-22,China,within an hour,100.0,100.0,True,,4,True,True
+79207098,露,2016-06-22,China,within an hour,100.0,100.0,False,,4,True,True
+258281906,锲而不舍,2019-04-26,China,within an hour,100.0,100.0,False,,2,True,True
+258362478,小虎,2019-04-27,China,within an hour,100.0,,False,,1,True,True
+187472458,洛尔,2018-05-02,China,within a day,100.0,100.0,True,,1,True,True
+257723601,大玮,2019-04-24,China,within an hour,100.0,100.0,False,,3,True,True
+258461335,良春,2019-04-27,China,within an hour,100.0,100.0,True,,3,True,True
+258674060,海洋,2019-04-28,China,within an hour,100.0,100.0,True,,8,True,True
+203461534,艳华,2018-07-19,China,,,100.0,False,,7,True,True
+258692257,明玥,2019-04-29,CN,within an hour,100.0,100.0,False,,3,True,True
+147292650,Rania,2017-08-22,China,within a day,80.0,100.0,False,,1,True,True
+258931030,建丽,2019-04-30,CN,,,50.0,False,,2,True,True
+93088334,白梨,2016-09-02,China,within an hour,100.0,97.0,False,,18,True,True
+259307899,小丹,2019-05-01,CN,,,100.0,False,,1,True,True
+169271127,昌浩,2018-01-22,China,within an hour,67.0,100.0,False,,1,True,True
+154522972,津渡·北京,2017-10-14,China,,,100.0,True,,1,True,True
+209666517,赵彤,2018-08-15,China,within an hour,100.0,100.0,False,,1,True,True
+104630456,依黛,2016-11-21,China,within an hour,100.0,100.0,False,,1,True,True
+257038161,建,2019-04-20,China,within an hour,100.0,100.0,True,,3,True,True
+259574416,老家小居,2019-05-03,China,within an hour,100.0,100.0,False,,2,True,True
+9767323,Hongyin,2013-11-02,China,within an hour,100.0,100.0,True,,1,True,True
+161081896,楠,2017-12-03,China,within an hour,100.0,100.0,True,,1,True,True
+114493318,Gao,2017-02-02,China,,,100.0,False,,1,True,True
+259760026,海鸥,2019-05-04,China,within an hour,100.0,100.0,True,,2,True,True
+259831671,璐瑶,2019-05-04,China,,,100.0,False,,2,True,True
+62483625,Yue,2016-03-11,China,within an hour,100.0,100.0,False,,1,True,True
+239247749,金,2019-01-27,China,within an hour,100.0,80.0,False,,2,True,True
+64442693,Fei,2016-03-25,China,within an hour,100.0,100.0,True,,1,True,True
+257096341,十渡紫藤佳苑,2019-04-21,CN,,,55.0,False,,4,True,True
+260093356,朗诗乡居,2019-05-06,China,within an hour,100.0,100.0,False,,8,True,True
+260157375,仟 辰,2019-05-06,China,,,80.0,False,,1,True,True
+115137035,跃辉,2017-02-06,China,within an hour,100.0,100.0,False,,1,True,True
+207157860,鑫,2018-08-03,China,,,100.0,False,,3,True,True
+259208693,麻将,2019-05-01,"Fengtai Qu, Beijing Shi, China",within an hour,100.0,100.0,True,Fang Zhuang,13,True,True
+224419309,丽姣,2018-11-06,China,within an hour,100.0,100.0,False,,1,True,True
+260576100,Mina,2019-05-08,China,within an hour,100.0,100.0,False,,1,True,True
+260691174,王一泽,2019-05-08,"Yanqing, Beijing, China",,,75.0,False,,1,True,True
+261462551,志林,2019-05-12,China,within an hour,100.0,100.0,True,,6,True,True
+43390615,成品,2015-09-05,China,within an hour,100.0,100.0,True,,6,True,True
+261753987,继东,2019-05-14,China,,,100.0,False,,1,True,True
+261919142,伟,2019-05-15,China,,,100.0,False,,1,True,True
+260060328,博,2019-05-05,China,within an hour,100.0,100.0,True,,5,True,True
+261965008,留长,2019-05-15,CN,,,100.0,False,,1,True,True
+262005001,新盈,2019-05-15,China,,,100.0,False,,1,True,True
+132565015,桃子,2017-05-30,China,within an hour,100.0,99.0,True,,6,True,True
+255497835,文杰,2019-04-13,China,,,,False,,1,True,True
+261004420,志国,2019-05-10,China,within an hour,100.0,100.0,False,,1,True,True
+262208535,巧灵,2019-05-16,CN,,,100.0,False,,1,True,True
+262326276,伟,2019-05-16,China,within an hour,100.0,100.0,False,,1,True,True
+261923547,俊松,2019-05-15,China,within an hour,100.0,100.0,False,,1,True,True
+262339690,小征,2019-05-17,China,within an hour,100.0,100.0,True,,3,True,True
+85983323,归隐仙居,2016-07-25,CN,within a day,52.0,100.0,True,,10,True,True
+99002291,云青舍,2016-10-09,China,,,100.0,False,,2,True,True
+213052241,周,2018-09-01,CN,,,100.0,True,,3,True,True
+257492608,艳红,2019-04-23,China,within an hour,100.0,100.0,False,,1,True,True
+261068172,波,2019-05-10,China,within an hour,100.0,100.0,False,,1,True,True
+107429600,Anmu,2016-12-16,China,within an hour,100.0,100.0,True,Shuangjing,7,True,True
+193240141,栾齐,2018-06-03,China,within an hour,100.0,100.0,False,,1,True,True
+220671445,东升,2018-10-15,China,within an hour,100.0,100.0,False,,4,True,True
+260086078,昊,2019-05-06,China,within an hour,100.0,100.0,True,,1,True,True
+263107423,二超儿,2019-05-20,China,within an hour,100.0,100.0,False,,2,True,True
+155613842,Jiajun,2017-10-21,China,,,100.0,True,,1,True,True
+263138798,小漫,2019-05-21,China,within a few hours,100.0,100.0,False,,1,True,True
+263142611,女士,2019-05-21,CN,,,,False,,1,True,True
+258924245,桂荣,2019-04-30,China,within an hour,86.0,100.0,False,,2,True,True
+263358453,秉财,2019-05-22,China,within an hour,100.0,100.0,False,,2,True,True
+198188489,白,2018-06-26,CN,,,100.0,False,,1,True,True
+42379239,元丰,2015-08-24,China,within a few hours,100.0,100.0,False,,1,True,True
+263109339,乐,2019-05-20,China,within an hour,100.0,100.0,True,,6,True,True
+256943213,海燕,2019-04-20,China,,,,False,,1,True,True
+135222407,李,2017-06-15,China,within an hour,99.0,100.0,True,Fengtai,92,True,True
+263579595,晴溪,2019-05-23,China,within an hour,100.0,100.0,False,,6,True,True
+112553182,振,2017-01-21,China,within an hour,100.0,100.0,False,,1,True,True
+171711110,广贤,2018-02-04,China,within an hour,100.0,100.0,True,,28,True,True
+203697398,郭嘉兴,2018-07-20,China,within an hour,100.0,100.0,False,,3,True,True
+264186699,阪泉墅园,2019-05-26,China,,,100.0,False,,3,True,True
+264271096,少娟,2019-05-26,China,,,100.0,False,,1,True,True
+189635918,吉庆,2018-05-14,China,within an hour,100.0,100.0,False,,2,True,True
+264408929,桂明,2019-05-27,China,within an hour,100.0,100.0,False,,5,True,True
+264071702,伴月山舍,2019-05-25,China,within an hour,100.0,67.0,False,,5,True,True
+258927763,小齐,2019-04-30,CN,within an hour,100.0,100.0,False,,14,True,True
+264043656,68号院•墅舍小院,2019-05-25,CN,,,,False,,1,True,True
+256749674,瑶,2019-04-19,China,within an hour,100.0,100.0,True,,1,True,True
+265174009,立民,2019-05-30,China,within an hour,100.0,50.0,False,,1,True,True
+265180201,丽竹,2019-05-30,China,within an hour,100.0,100.0,False,,1,True,True
+257780553,好梦居,2019-04-24,China,within an hour,100.0,95.0,True,,5,True,True
+265347358,莎拉,2019-05-31,China,within an hour,100.0,99.0,True,,1,True,True
+265545149,冉冉,2019-06-01,China,within a few hours,60.0,100.0,False,,1,True,True
+265548508,文娇,2019-06-01,China,within an hour,100.0,100.0,False,,1,True,True
+259398565,蒋,2019-05-02,China,within an hour,100.0,,False,,3,True,True
+265893599,灏,2019-06-02,China,within an hour,100.0,100.0,True,,5,True,True
+265938087,风,2019-06-03,China,within an hour,100.0,100.0,True,,2,True,True
+229797082,敏懿,2018-12-09,China,within an hour,100.0,100.0,True,,1,True,True
+158487828,峰,2017-11-12,China,within an hour,100.0,67.0,False,,1,True,True
+245256533,媛,2019-02-25,CN,within an hour,71.0,57.0,False,,2,True,True
+266378882,晓峰,2019-06-04,China,within an hour,100.0,99.0,False,Dahongmen,7,True,True
+265106404,大隐于世-合宿,2019-05-30,"Yanqing District, Beijing, China",within a few hours,100.0,100.0,False,,3,True,True
+266447032,茶华园清悠小院民宿石墙石屋,2019-06-05,China,within an hour,100.0,100.0,False,,9,True,True
+266451778,抱朴守拙,2019-06-05,China,within an hour,100.0,100.0,False,,1,True,True
+266676475,兵,2019-06-06,CN,,,100.0,False,,1,True,True
+266898917,紫藤花舍,2019-06-07,China,within an hour,75.0,100.0,False,,1,True,True
+266212669,九州星宿,2019-06-04,China,within an hour,100.0,100.0,False,,5,True,True
+68002459,京华,2016-04-19,China,within a few hours,100.0,100.0,False,,1,True,True
+212922197,安,2018-09-01,China,within an hour,100.0,100.0,False,,1,True,True
+267038394,杨洋,2019-06-07,China,within an hour,100.0,100.0,False,,1,True,True
+267096056,晓霞,2019-06-08,CN,,,100.0,False,,2,True,True
+267266400,瀚,2019-06-09,China,within an hour,100.0,64.0,False,,1,True,True
+76877144,凸凸,2016-06-10,China,within an hour,100.0,100.0,True,,5,True,True
+257724155,风,2019-04-24,China,within an hour,100.0,100.0,False,,3,True,True
+82364913,Frank,2016-07-07,China,within an hour,100.0,97.0,True,,1,True,True
+262885768,秀丽,2019-05-19,China,,,100.0,False,,1,True,True
+214252684,Phoebe,2018-09-08,China,within an hour,100.0,100.0,True,,1,True,True
+267720925,艳明,2019-06-10,China,within an hour,100.0,100.0,True,,2,True,True
+267777276,亚男,2019-06-11,China,within an hour,100.0,100.0,False,,1,True,True
+266638117,羽,2019-06-05,CN,a few days or more,0.0,83.0,False,,8,True,True
+264182017,雯,2019-05-26,China,,,100.0,False,,2,True,True
+267996850,也,2019-06-12,China,within an hour,100.0,100.0,False,,2,True,True
+268019567,和荔,2019-06-12,China,,,100.0,False,,1,True,True
+260084824,晓茜,2019-05-06,CN,within an hour,100.0,100.0,False,,2,True,True
+268248101,晓红,2019-06-13,China,,,100.0,True,,2,True,True
+256946860,Anna,2019-04-20,China,within an hour,100.0,100.0,False,,1,True,True
+268307223,顺心,2019-06-13,CN,within a day,50.0,100.0,False,,1,True,True
+172656094,墅苑,2018-02-10,China,within an hour,100.0,100.0,False,,2,True,True
+268041468,志杰,2019-06-12,"Yanqing, Beijing, China",,,100.0,False,,2,True,True
+264864152,想,2019-05-29,China,,,40.0,False,,7,True,True
+218834456,张俊杰,2018-10-04,China,within an hour,100.0,96.0,False,,1,True,True
+258304202,爱娟,2019-04-27,China,,,100.0,False,,1,True,True
+265346347,燕燕,2019-05-31,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,2,True,True
+268973198,跃川,2019-06-16,China,within an hour,100.0,100.0,False,,1,True,True
+145753396,首文,2017-08-13,China,within an hour,100.0,94.0,False,Bei Tai Ping Zhuang,12,True,True
+257243884,Yuki,2019-04-21,CN,within an hour,100.0,100.0,False,,1,True,True
+212900339,段新星,2018-08-31,China,,,,False,,1,True,True
+263792767,Stey,2019-05-24,China,within an hour,100.0,99.0,True,,2,True,True
+269445971,民宿,2019-06-18,China,within an hour,96.0,100.0,False,,3,True,True
+177988686,房东小伍丫,2018-03-12,China,within an hour,100.0,100.0,False,,4,True,True
+269676883,辉,2019-06-19,China,within an hour,100.0,75.0,False,,2,True,True
+115124392,苏,2017-02-06,China,within an hour,100.0,100.0,True,,4,True,True
+268415762,康,2019-06-13,China,within a few hours,100.0,100.0,False,,1,True,True
+269752079,HeLI,2019-06-19,China,within an hour,80.0,100.0,False,,6,True,True
+269659164,阔,2019-06-19,CN,within an hour,100.0,40.0,False,,1,True,True
+189188224,振羽,2018-05-12,China,within an hour,100.0,100.0,False,,1,True,True
+255338685,李丽,2019-04-12,China,within an hour,100.0,100.0,False,,1,True,True
+270137081,耿先生,2019-06-20,China,within an hour,100.0,100.0,False,,1,True,True
+270619699,淼,2019-06-22,China,,,33.0,False,,1,True,True
+270646695,世杰,2019-06-23,China,within a few hours,100.0,100.0,False,,1,True,True
+199003875,小川,2018-06-30,"Huairou, Beijing, China",a few days or more,0.0,100.0,False,,1,True,True
+270849905,长梅,2019-06-23,China,within an hour,89.0,100.0,True,,2,True,True
+268304391,明,2019-06-13,China,within an hour,100.0,100.0,False,,1,True,True
+125498323,Chun,2017-04-12,China,within an hour,100.0,75.0,False,,2,True,True
+270972352,军华,2019-06-24,China,within an hour,100.0,100.0,False,,2,True,True
+270514117,宗礼,2019-06-22,China,within an hour,90.0,100.0,False,,2,True,True
+178756134,少峰,2018-03-16,China,within an hour,100.0,100.0,True,,1,True,True
+112824012,涛,2017-01-23,China,within an hour,100.0,99.0,True,Chaoyang,7,True,True
+233427917,亿,2018-12-30,China,within an hour,100.0,88.0,False,,1,True,True
+271139953,十渡晓敏别墅,2019-06-24,China,within an hour,100.0,100.0,True,,4,True,True
+271442583,雪,2019-06-26,China,within a day,100.0,50.0,False,,2,True,True
+268663074,川路缘,2019-06-14,China,within an hour,100.0,100.0,False,Jian Wai Da Jie,8,True,True
+95774139,Ray,2016-09-18,China,within an hour,100.0,98.0,True,,5,True,True
+263171243,先生,2019-05-21,CN,,,33.0,False,,2,True,True
+210638594,木土,2018-08-20,China,within an hour,100.0,100.0,False,,1,True,True
+271788559,辉,2019-06-27,China,within an hour,100.0,99.0,False,Ahn Jung,32,True,True
+271518784,Xiue,2019-06-26,China,a few days or more,0.0,80.0,False,,2,True,True
+270602244,梅子,2019-06-22,China,within an hour,100.0,100.0,True,,7,True,True
+272159220,荣光吉顺农家院,2019-06-29,China,within an hour,100.0,100.0,False,,1,True,True
+272241074,春金,2019-06-29,China,within an hour,100.0,100.0,True,,1,True,True
+272397448,艾米,2019-06-30,China,,,100.0,False,,1,True,True
+269507210,凯(Kevin),2019-06-18,China,within an hour,100.0,100.0,True,,1,True,True
+201227893,赵先生,2018-07-10,China,within an hour,100.0,100.0,True,,2,True,True
+60602887,杜,2016-02-27,China,within an hour,100.0,100.0,False,,1,True,True
+182336783,石峡仙子,2018-04-04,"Beijing, Beijing, China",within a day,100.0,,False,,10,True,True
+209496128,梅 原乡quality,2018-08-14,"Yanqing, Beijing, China",,,,False,,2,True,True
+271154825,洪福苑客栈,2019-06-24,"Miyun Qu, Beijing Shi, China",within an hour,100.0,86.0,False,,1,True,True
+272896204,洛溪,2019-07-02,"Beijing, Beijing, China",a few days or more,0.0,70.0,False,,7,True,True
+91127580,Mingyang,2016-08-21,China,within an hour,100.0,100.0,True,,1,True,True
+264608123,月,2019-05-27,China,within an hour,100.0,100.0,False,,4,True,True
+273530802,岚,2019-07-04,CN,,,,False,,1,True,True
+272010966,彤,2019-06-28,CN,,,100.0,False,,1,True,True
+273692849,娟,2019-07-05,China,,,100.0,False,,5,True,True
+273801787,安静做自己,2019-07-05,China,within an hour,100.0,100.0,False,,1,True,True
+190558658,王浩楠,2018-05-20,China,within an hour,100.0,100.0,False,,1,True,True
+274083645,依悠居，欢迎您入住 (Phone number hidden by Airbnb),2019-07-06,China,within an hour,100.0,,False,,1,True,True
+258133311,丕申,2019-04-26,China,within an hour,100.0,83.0,False,,1,True,True
+139991968,畅,2017-07-12,China,,,100.0,False,,1,True,True
+274642795,佳丽,2019-07-08,CN,within an hour,100.0,,False,,1,True,True
+138266027,鸿震,2017-07-03,"Huairou, Beijing, China",,,,False,,2,True,True
+274408032,民宿,2019-07-08,China,within an hour,97.0,100.0,False,Wukesong,5,True,True
+273880761,培,2019-07-05,China,within an hour,100.0,100.0,False,,1,True,True
+194873840,立楠,2018-06-11,"Huairou, Beijing, China",,,,False,,1,True,True
+274689179,院,2019-07-09,China,within an hour,100.0,100.0,False,,2,True,True
+51212501,Ivan,2015-12-13,China,within a day,90.0,59.0,True,,1,True,True
+274960522,太后小筑,2019-07-10,China,within an hour,100.0,100.0,False,,2,True,True
+275004548,世园八达岭龙庆峡房车露营地香村逸栈,2019-07-10,China,,,100.0,False,,2,True,True
+274724139,媛媛,2019-07-09,China,within an hour,100.0,100.0,False,,3,True,True
+96544066,函数,2016-09-24,China,,,100.0,False,,1,True,True
+210050550,林栖小院,2018-08-17,China,within an hour,100.0,100.0,True,,1,True,True
+259538620,晓杰,2019-05-03,China,within an hour,100.0,100.0,False,,1,True,True
+275683246,佳,2019-07-13,CN,a few days or more,0.0,100.0,False,,2,True,True
+194661621,ZZhao,2018-06-10,China,within an hour,100.0,100.0,True,,2,True,True
+99368138,秋子,2016-10-12,China,,,100.0,False,,1,True,True
+275702505,房东继成,2019-07-13,China,within an hour,100.0,100.0,False,,2,True,True
+111207539,Simeng,2017-01-12,China,within an hour,100.0,100.0,False,,2,True,True
+80197646,立娜,2016-06-27,China,within a few hours,100.0,100.0,False,,1,True,True
+269101632,小锋,2019-06-16,China,within an hour,100.0,100.0,False,,4,True,True
+275903741,迎迎,2019-07-14,China,within an hour,100.0,100.0,True,,1,True,True
+275970079,平,2019-07-14,China,within an hour,100.0,100.0,True,,2,True,True
+274772515,阿雅,2019-07-09,China,within an hour,100.0,100.0,True,,1,True,True
+276155023,明杰,2019-07-15,China,within an hour,100.0,100.0,True,,7,True,True
+276215509,雨晴,2019-07-15,CN,,,,False,,1,True,True
+275625253,超,2019-07-12,CN,,,100.0,False,,1,True,True
+233274107,健,2018-12-30,China,within an hour,100.0,100.0,False,,2,True,True
+267299779,栗香农家,2019-06-09,China,,,,False,,1,True,True
+123009037,I Can,2017-03-28,China,within an hour,80.0,100.0,False,,1,True,True
+276493274,雪芹,2019-07-16,China,within an hour,100.0,100.0,True,,1,True,True
+276668390,雨荷,2019-07-16,China,,,100.0,False,,1,True,True
+276250473,阿杜,2019-07-15,China,,,,False,,2,True,True
+269374459,惠茹,2019-06-17,China,,,75.0,False,,1,True,True
+277067998,芳芳,2019-07-18,China,within an hour,100.0,100.0,False,,1,True,True
+273661458,舍,2019-07-04,China,within an hour,99.0,100.0,False,Zhuang,1,True,True
+277335476,古北水镇,2019-07-19,China,within an hour,100.0,100.0,True,,1,True,True
+226805198,Brian,2018-11-21,China,within an hour,100.0,97.0,True,,6,True,True
+277560218,恩喆,2019-07-20,CN,,,100.0,False,,3,True,True
+152198416,蓝兮,2017-09-26,China,within an hour,100.0,100.0,False,,1,True,True
+278062647,鸣,2019-07-22,China,within an hour,100.0,100.0,True,,1,True,True
+206645498,Frank,2018-08-01,China,within an hour,100.0,100.0,False,,6,True,True
+278338806,青岭小筑,2019-07-22,China,,,100.0,False,,1,True,True
+278421834,富华,2019-07-23,China,within an hour,100.0,100.0,False,Sanlitun,2,True,True
+28028322,Chuan,2015-02-19,China,,,100.0,False,,1,True,True
+245733404,韩,2019-02-27,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+278769859,鹏,2019-07-24,China,within an hour,100.0,100.0,False,,1,True,True
+278897550,故里民宿,2019-07-24,China,,,100.0,False,,3,True,True
+279296255,腊梅,2019-07-25,China,,,100.0,False,,4,True,True
+248965278,菜菜,2019-03-15,China,,,100.0,False,,1,True,True
+259150451,淑珍,2019-05-01,CN,,,100.0,False,,1,True,True
+191294130,维娜,2018-05-23,China,within a day,67.0,100.0,False,,1,True,True
+280521092,鹏,2019-07-30,CN,,,,False,,1,True,True
+280784332,尚,2019-07-30,China,within an hour,100.0,85.0,False,,1,True,True
+248787699,晨彤,2019-03-14,China,,,100.0,False,,1,True,True
+27450974,Grace,2015-02-09,China,within an hour,100.0,100.0,True,,4,True,True
+167100064,磊,2018-01-10,China,within an hour,80.0,44.0,False,,11,True,True
+281049328,钍晶晶,2019-07-31,China,within a few hours,80.0,100.0,True,,2,True,True
+281195201,浩,2019-07-31,China,within an hour,100.0,100.0,False,,1,True,True
+281560280,百皕居民宿,2019-08-01,CN,,,100.0,False,,2,True,True
+268711174,山里人家民宿,2019-06-15,"Huairou, Beijing, China",within an hour,100.0,100.0,False,,6,True,True
+274469413,春涧-伴山居,2019-07-08,China,within an hour,100.0,100.0,False,,1,True,True
+279612836,明,2019-07-27,China,within an hour,100.0,98.0,False,Chongwenmen,8,True,True
+251941487,Kally,2019-03-29,China,within an hour,86.0,100.0,False,,1,True,True
+260175771,亚轩,2019-05-06,China,within an hour,100.0,100.0,False,,1,True,True
+282313816,缘居,2019-08-04,China,,,100.0,False,,1,True,True
+282634404,振溟,2019-08-04,China,within an hour,75.0,100.0,False,,4,True,True
+282771631,独钓寒江雪,2019-08-05,China,within an hour,100.0,100.0,False,,1,True,True
+282622273,国强,2019-08-04,China,within an hour,100.0,100.0,False,,2,True,True
+283452669,巴旦木,2019-08-06,China,within an hour,100.0,100.0,False,,2,True,True
+283544848,闲人,2019-08-07,China,within an hour,60.0,33.0,False,,1,True,True
+137056552,老腊,2017-06-26,China,within an hour,100.0,100.0,False,,5,True,True
+168025924,无,2018-01-15,China,within an hour,100.0,,False,,1,True,True
+172493787,太阳花,2018-02-09,China,within an hour,100.0,96.0,False,,1,True,True
+284895881,刘胜杰,2019-08-12,China,,,100.0,False,,1,True,True
+275943636,春海,2019-07-14,China,within an hour,100.0,100.0,False,,1,True,True
+282628649,玉霞,2019-08-04,China,,,100.0,False,,6,True,True
+284939324,晓清,2019-08-12,China,within an hour,100.0,100.0,False,,1,True,True
+126045196,娟子,2017-04-16,China,within an hour,100.0,91.0,False,,2,True,True
+282415996,明珠,2019-08-04,China,within an hour,100.0,98.0,True,,5,True,True
+284912287,永利,2019-08-12,China,within an hour,100.0,100.0,False,,1,True,True
+196944355,艺,2018-06-20,China,within an hour,100.0,95.0,True,Dongzhimen,11,True,True
+143876397,王彤,2017-08-02,China,,,100.0,False,,3,True,True
+285545503,莹,2019-08-14,China,within a day,56.0,100.0,False,,4,True,True
+283642947,琳,2019-08-07,China,,,100.0,False,,1,True,True
+257263188,李然,2019-04-22,China,,,100.0,False,,1,True,True
+283542199,坤,2019-08-07,China,within an hour,100.0,100.0,False,,2,True,True
+285212486,存亮,2019-08-13,China,,,50.0,False,,1,True,True
+286270140,丽华,2019-08-16,China,within an hour,100.0,100.0,False,,1,False,True
+286533936,文娟,2019-08-17,China,within an hour,100.0,100.0,True,,1,True,True
+282011829,刀刀,2019-08-03,China,within a few hours,100.0,60.0,False,,1,True,True
+260899812,Janne,2019-05-09,China,within a few hours,100.0,100.0,True,,1,True,True
+286559542,黄女士,2019-08-17,China,,,100.0,False,,1,True,True
+286835169,尚阳,2019-08-18,China,within an hour,100.0,100.0,False,,1,True,True
+286304830,艳冬,2019-08-16,China,within an hour,100.0,100.0,False,,5,True,True
+286872269,丽娜,2019-08-18,China,within a day,100.0,100.0,False,,1,True,True
+287024524,文铮,2019-08-19,China,a few days or more,0.0,100.0,False,,1,True,True
+136852890,Anita,2017-06-25,China,within an hour,100.0,100.0,True,,1,True,True
+287257056,军,2019-08-19,CN,within a few hours,75.0,100.0,False,,1,True,True
+287296401,晓博,2019-08-20,China,within an hour,100.0,100.0,True,,4,True,True
+287278035,四蓉,2019-08-20,China,within an hour,100.0,100.0,False,,1,True,True
+287795447,贾· 先森,2019-08-21,China,within an hour,100.0,100.0,True,,1,True,True
+267060200,佳,2019-06-07,CN,,,,False,,1,True,True
+233579064,Vivian,2019-01-01,China,within an hour,100.0,100.0,True,Dongzhimen,15,True,True
+253423696,杨,2019-04-05,CN,,,100.0,False,,2,True,True
+283812980,青山,2019-08-07,China,within an hour,100.0,100.0,True,,1,True,True
+288627580,洋,2019-08-24,China,within an hour,100.0,97.0,True,,3,True,True
+288078875,有凤,2019-08-22,China,,,100.0,False,,1,True,True
+109177064,Shaohua,2016-12-30,China,within an hour,100.0,100.0,False,,1,True,True
+288828575,张禹,2019-08-25,China,within an hour,100.0,100.0,False,,1,True,True
+289066005,江昆,2019-08-26,China,within an hour,100.0,60.0,False,,1,True,True
+107400497,Snail,2016-12-15,China,within a few hours,100.0,80.0,True,,3,True,True
+289024527,还乡民宿,2019-08-26,China,within a few hours,100.0,100.0,False,,3,True,True
+184979756,八达岭之小鹿悠悠,2018-04-18,China,within an hour,100.0,100.0,True,,12,True,True
+289735602,大哥,2019-08-27,CN,,,,False,,1,True,True
+64587368,Yan,2016-03-27,China,within an hour,100.0,95.0,True,,1,True,True
+289948823,跃宁,2019-08-28,China,,,,False,,1,True,True
+290241376,振林,2019-08-30,China,within an hour,100.0,100.0,True,Qianmen,9,True,True
+289807182,晓明,2019-08-28,China,within a day,100.0,100.0,True,,1,True,True
+290856093,鑫,2019-09-01,CN,within an hour,100.0,100.0,True,,1,True,True
+287144949,祁艳华,2019-08-19,China,,,100.0,False,,2,True,True
+71240688,Jhome,2016-05-10,China,,,67.0,True,,1,True,True
+98599751,拥金,2016-10-07,China,within an hour,100.0,100.0,True,,1,True,True
+196954557,鲁艳,2018-06-21,China,within an hour,100.0,100.0,True,,1,True,True
+291664362,一山一墅,2019-09-03,China,within an hour,100.0,100.0,False,,1,True,True
+216937754,秋梅,2018-09-23,China,within a few hours,100.0,100.0,False,,2,True,True
+204340431,源悦小院,2018-07-22,China,within an hour,100.0,100.0,True,,1,True,True
+292431151,红,2019-09-05,China,within an hour,100.0,100.0,False,,1,True,True
+131301839,祎一,2017-05-21,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+242405753,文龙,2019-02-10,China,within an hour,100.0,86.0,False,,1,True,True
+292464529,淑侦,2019-09-06,China,within an hour,100.0,91.0,True,,2,True,True
+292493469,晶,2019-09-06,China,within a few hours,100.0,,False,,1,True,True
+292745892,腾飞,2019-09-06,China,within an hour,100.0,100.0,False,,5,True,True
+292770721,家,2019-09-07,China,within an hour,100.0,100.0,False,,3,True,True
+292794953,峰,2019-09-07,China,within an hour,100.0,97.0,False,Shichahai,14,True,True
+175757311,尘客,2018-02-27,China,within an hour,100.0,100.0,True,,3,True,True
+292850036,华,2019-09-07,China,,,100.0,False,,2,True,True
+293059711,冬东,2019-09-08,China,within an hour,100.0,100.0,False,,1,True,True
+293058912,Daria,2019-09-08,China,a few days or more,0.0,100.0,False,,2,True,True
+137249482,嫚,2017-06-27,China,within an hour,100.0,100.0,False,,1,True,True
+293063277,孙志斌,2019-09-08,China,,,100.0,True,,1,True,True
+222471921,怡,2018-10-24,China,within an hour,100.0,100.0,True,,4,True,True
+228987116,阳阳,2018-12-04,China,within an hour,100.0,100.0,True,,1,True,True
+266008048,金龙,2019-06-03,China,within a few hours,100.0,100.0,False,,1,True,True
+277017986,老头,2019-07-18,CN,within a few hours,100.0,100.0,False,,1,True,True
+293727622,Kelly,2019-09-10,China,within an hour,100.0,100.0,True,,4,True,True
+293330056,彩蓠轰趴娱乐庄园婚礼求婚包场生日paty家庭聚会公司培训专场,2019-09-09,China,within an hour,100.0,100.0,False,,1,True,True
+146429974,钠锐,2017-08-17,China,,,100.0,False,,1,True,True
+264722454,雪娇,2019-05-28,China,within an hour,100.0,100.0,False,,1,True,True
+281622058,婧钰,2019-08-02,China,within an hour,100.0,100.0,False,,4,True,True
+224117133,Zibo,2018-11-04,China,within an hour,100.0,100.0,True,,1,True,True
+293612656,太阳照常升起,2019-09-10,China,,,100.0,True,,1,True,True
+294257345,瑶,2019-09-12,CN,within an hour,100.0,100.0,False,,3,True,True
+294448346,海武,2019-09-13,China,within an hour,100.0,100.0,True,,4,True,True
+154285653,辉,2017-10-12,"Daxing, Beijing, China",within a few hours,86.0,67.0,False,,1,True,True
+294780164,阳光味道,2019-09-13,China,within an hour,100.0,100.0,True,,1,True,True
+110084341,芳,2017-01-05,CN,,,50.0,False,,1,True,True
+295054609,宝节,2019-09-15,China,,,100.0,False,,9,True,True
+295364415,安超,2019-09-16,China,within an hour,100.0,100.0,False,,1,True,True
+295330424,财奴,2019-09-16,CN,,,100.0,False,,1,True,True
+271400996,燕子,2019-06-25,China,within an hour,100.0,99.0,True,,1,True,True
+246118482,会霞,2019-03-01,"Shunyi, Beijing, China",,,,False,,1,True,True
+296002678,礼煜,2019-09-18,CN,,,0.0,False,Huaxiang,7,True,True
+290023199,晓乐,2019-08-29,"Changping, Beijing, China",,,33.0,False,,1,True,True
+296235980,Dsjxdksg,2019-09-19,China,within an hour,97.0,100.0,True,,2,True,True
+296254983,园冶,2019-09-19,China,within an hour,100.0,93.0,True,,2,True,True
+284437693,经天纬地,2019-08-10,CN,within an hour,100.0,100.0,True,,1,True,True
+286542695,海玲,2019-08-17,China,within an hour,100.0,83.0,False,,9,True,True
+296420155,曹东杰,2019-09-19,China,within an hour,100.0,100.0,False,,1,True,True
+141302555,睿,2017-07-19,China,within an hour,100.0,100.0,True,Sanlitun,2,True,True
+296465214,曉de,2019-09-20,China,within an hour,100.0,100.0,False,,8,True,True
+140511419,Eco,2017-07-15,China,within an hour,100.0,100.0,True,,1,True,True
+293993287,✨闪闪✨,2019-09-11,China,,,,False,,1,True,True
+247958292,齐,2019-03-10,China,within an hour,100.0,100.0,False,,1,True,True
+294432759,雲霁,2019-09-12,China,within an hour,100.0,100.0,True,,1,True,True
+217655654,长城脚下的店小二,2018-09-27,China,within an hour,100.0,100.0,True,,2,True,True
+296661324,核桃树下,2019-09-21,China,within an hour,100.0,100.0,False,,1,True,True
+215973561,倞,2018-09-18,China,within an hour,100.0,100.0,True,,5,True,True
+295990612,刘,2019-09-18,China,,,100.0,False,,2,True,True
+251672740,半山伴水,2019-03-28,China,within a few hours,100.0,63.0,True,,5,True,True
+286545918,双营古城,2019-08-17,China,within an hour,100.0,100.0,True,Third Road Jucun/Liucun,3,True,True
+250250783,一只小白兔,2019-03-21,CN,within an hour,100.0,0.0,False,,2,True,True
+297529969,阿雅,2019-09-24,China,within an hour,100.0,100.0,False,Wai Avenue,7,True,True
+297571008,旭旭,2019-09-24,CN,,,100.0,False,,4,True,True
+297585163,建新,2019-09-24,China,within an hour,100.0,100.0,False,,1,False,True
+297626855,Sunny,2019-09-24,China,within a few hours,88.0,100.0,False,,2,True,True
+297654152,金刚无双,2019-09-24,China,within an hour,100.0,100.0,True,,1,True,True
+79661850,百菇园,2016-06-24,"Shunyi, Beijing, China",within an hour,100.0,75.0,False,,2,True,True
+297773300,竹简民宿,2019-09-24,China,within an hour,100.0,100.0,True,,15,True,True
+297799208,桂华,2019-09-25,China,within an hour,100.0,100.0,False,,1,True,True
+61218333,宁,2016-03-02,China,within an hour,100.0,100.0,False,,1,True,True
+141871057,大愉海棠民宿,2017-07-22,China,within an hour,100.0,100.0,False,,1,True,True
+297870446,清孔雀时光小院,2019-09-25,China,within an hour,100.0,100.0,True,,1,True,True
+298068874,清清,2019-09-26,China,within an hour,100.0,100.0,False,,1,True,True
+68156668,依瑶,2016-04-20,CN,within a few hours,80.0,78.0,False,,1,True,True
+298097039,古北水镇美食人家,2019-09-26,China,within an hour,100.0,100.0,False,,1,True,True
+297249006,君龙,2019-09-22,"Beijing, Beijing, China",,,,False,,4,True,True
+283558450,静观云居,2019-08-07,"Fangshan District, Beijing, China",,,100.0,False,,3,True,True
+295962627,妈妈嘉,2019-09-18,China,within a day,61.0,65.0,False,Liang Ma Qiao/Sanyuanqiao,5,True,True
+298517110,许延龙,2019-09-28,CN,,,100.0,False,,1,True,True
+173176106,静,2018-02-13,China,,,100.0,False,,1,True,True
+298545000,Ann,2019-09-28,"Chaoyang, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+298576999,我宿,2019-09-28,China,within an hour,100.0,100.0,False,,1,True,True
+195339432,泓波,2018-06-13,China,within a few hours,83.0,100.0,False,,4,True,True
+37447089,然,2015-07-03,"Beijing, Beijing, China",,,100.0,False,,6,True,True
+203665967,博,2018-07-20,China,within an hour,100.0,100.0,True,,1,True,True
+210849082,阿罗哈,2018-08-21,China,within an hour,100.0,100.0,False,,2,True,True
+298940982,用户0539,2019-09-30,China,within an hour,100.0,100.0,True,,8,True,True
+259525814,且驻小院-欢迎咨询,2019-05-03,China,within an hour,100.0,100.0,True,,5,True,True
+297250845,用户9198,2019-09-22,China,within a day,100.0,100.0,False,,1,True,True
+299264910,首都机场别墅整租温泉酒店,2019-10-01,China,within an hour,100.0,40.0,False,,1,True,True
+271247588,海霞,2019-06-25,China,within an hour,80.0,100.0,False,,1,True,True
+176655492,琪越,2018-03-04,China,within an hour,100.0,100.0,True,,1,True,True
+299486120,杰,2019-10-02,China,a few days or more,0.0,100.0,False,,2,True,True
+299633552,宋先生,2019-10-03,China,within a few hours,100.0,100.0,False,,2,True,True
+299427769,丹丹,2019-10-02,China,,,100.0,False,,1,True,True
+299687034,建霞,2019-10-03,China,within an hour,100.0,100.0,False,,1,False,True
+258057847,金生,2019-04-25,China,,,100.0,False,,1,True,True
+299972361,蕊,2019-10-04,CN,,,0.0,False,,1,True,True
+298934996,芳,2019-09-30,China,within an hour,100.0,100.0,False,,1,True,True
+295975014,俊伟,2019-09-18,China,within an hour,100.0,100.0,False,,1,True,True
+272340496,Clsj000,2019-06-29,China,within an hour,100.0,100.0,True,,6,True,True
+300266141,群,2019-10-05,China,within an hour,100.0,100.0,False,,7,True,True
+235368317,晓伶,2019-01-09,China,,,,False,,1,True,True
+300472692,金梅,2019-10-06,CN,,,100.0,False,,1,True,True
+278090914,张真真,2019-07-22,CN,within an hour,100.0,50.0,False,Wai Avenue,6,True,True
+67275344,王福庆,2016-04-15,China,within an hour,100.0,100.0,False,,3,True,True
+300874747,甜,2019-10-08,China,,,100.0,False,,1,True,True
+297504488,文娟,2019-09-23,"Beijing, Beijing, China",,,0.0,False,Liang Ma Qiao/Sanyuanqiao,6,True,True
+300886297,心,2019-10-08,China,within an hour,100.0,100.0,False,,1,True,True
+73638833,司,2016-05-23,China,within an hour,100.0,100.0,True,,2,True,True
+300904635,崇元,2019-10-08,CN,within an hour,100.0,100.0,False,,1,True,True
+296324233,铁军,2019-09-19,China,within an hour,100.0,100.0,True,,3,True,True
+140141346,立昕,2017-07-12,"Huairou Qu, Beijing Shi, China",within an hour,100.0,75.0,False,,4,True,True
+293657190,张洁,2019-09-10,China,within an hour,100.0,100.0,False,,1,True,True
+296001902,亚朵酒店,2019-09-18,China,within an hour,100.0,100.0,False,Dong Si,0,True,True
+297533374,9527有绝招,2019-09-24,China,within an hour,100.0,96.0,True,Xuhui,213,True,True
+20036354,Mingzhe,2014-08-14,China,,,99.0,True,Dongzhimen,0,True,True
+301782639,桦,2019-10-12,China,within an hour,100.0,100.0,False,,1,True,True
+199837789,Min,2018-07-04,China,within an hour,100.0,100.0,False,,4,True,True
+82092064,曼,2016-07-06,China,within a day,100.0,100.0,False,,1,True,True
+302271800,椿湫寄舍,2019-10-14,China,within an hour,100.0,100.0,False,,1,True,True
+302493854,田里花间,2019-10-15,China,within an hour,100.0,100.0,False,,7,True,True
+303169298,超群,2019-10-18,China,within an hour,100.0,100.0,False,,1,True,True
+303420402,古北水镇人间花海雾灵山简舍精品民宿,2019-10-20,China,,,100.0,False,,2,True,True
+143803334,Bing,2017-08-01,China,within an hour,100.0,100.0,True,,1,True,True
+303751853,北京   绅士,2019-10-21,China,,,100.0,False,,1,True,True
+297518949,宏伟,2019-09-24,CN,,,0.0,False,Huaxiang,6,True,True
+299660141,洪云,2019-10-03,China,,,100.0,False,,1,True,True
+281628235,柳,2019-08-02,CN,,,,False,,1,True,True
+304021541,郭,2019-10-23,China,within an hour,100.0,100.0,False,,11,True,True
+183248156,泽,2018-04-09,China,,,100.0,False,,1,True,True
+99588539,远,2016-10-14,China,within an hour,100.0,97.0,True,,3,True,True
+267481031,玮,2019-06-09,China,within an hour,100.0,100.0,True,,2,True,True
+304982332,Zjzcy00,2019-10-28,China,within an hour,100.0,93.0,False,,1,True,True
+305383144,雅,2019-10-29,China,within an hour,100.0,75.0,False,,3,True,True
+305394836,喜,2019-10-30,China,within an hour,100.0,80.0,False,,5,True,True
+304616645,逸隐山舍,2019-10-26,China,within an hour,97.0,100.0,False,,17,True,True
+4984459,Nancy,2013-02-06,China,within an hour,100.0,100.0,True,,1,True,True
+306722755,建光,2019-11-04,"Yanqing Qu, Beijing Shi, China",within an hour,100.0,100.0,False,,3,True,True
+306408979,大圣,2019-11-03,China,,,100.0,False,,1,True,True
+307116769,淡然轩,2019-11-05,China,,,100.0,False,,1,True,True
+279963730,斯蒂温,2019-07-28,CN,,,100.0,False,,1,True,True
+307308668,晓霞,2019-11-05,China,within an hour,90.0,100.0,True,,1,True,True
+151734972,辰光,2017-09-23,China,within an hour,100.0,99.0,True,,1,True,True
+224757091,原乡里,2018-11-08,China,,,,False,,8,True,True
+306382591,漫山慢水 ·,2019-11-03,"Huairou, Beijing, China",within an hour,86.0,80.0,False,,4,True,True
+308213041,阿如,2019-11-09,China,within an hour,99.0,100.0,False,Sanlitun,6,True,True
+54457651,Amber,2016-01-13,China,within an hour,100.0,96.0,False,,15,True,True
+309073576,会芳,2019-11-12,China,within an hour,100.0,100.0,False,,1,True,True
+244665084,打磨厂共享际,2019-02-22,China,within an hour,100.0,99.0,False,,2,True,True
+309221489,小明,2019-11-13,CN,,,,False,,1,True,True
+300721063,王加阳,2019-10-07,China,within a day,100.0,100.0,False,,2,True,True
+73267984,少洁,2016-05-22,China,within an hour,100.0,89.0,False,,1,True,True
+309829236,庆,2019-11-15,China,within an hour,100.0,71.0,False,,1,True,True
+309855031,Joy,2019-11-15,China,within an hour,100.0,100.0,True,,0,True,True
+15948183,纯,2014-05-25,厦门鼓浪屿,a few days or more,0.0,100.0,False,,3,True,True
+180677674,Monica,2018-03-26,China,within an hour,100.0,100.0,False,,1,True,True
+300867332,秋英,2019-10-08,China,within an hour,100.0,100.0,True,,8,True,True
+217858553,隐居乡里,2018-09-29,China,within an hour,100.0,75.0,False,,3,True,True
+309939038,蕊,2019-11-16,China,,,,False,,2,True,True
+310598088,Wohkoon者行孙青年旅舍(国子监店),2019-11-19,China,within an hour,87.0,100.0,False,Shichahai,7,True,True
+310977241,认证手机用户1823,2019-11-20,China,,,,False,,4,True,True
+260310274,千里,2019-05-07,CN,a few days or more,33.0,100.0,True,Fang Zhuang,5,True,True
+309693485,乐,2019-11-15,China,within an hour,100.0,100.0,False,Fang Zhuang,9,True,True
+274997744,明,2019-07-10,China,,,100.0,True,,1,True,True
+214568215,玉花,2018-09-10,China,,,,False,,1,True,True
+187787774,山,2018-05-04,China,within an hour,100.0,100.0,True,,2,True,True
+308238349,葫芦爹,2019-11-09,CN,within an hour,100.0,100.0,False,,4,True,True
+312504400,欢,2019-11-27,China,within an hour,90.0,100.0,False,Dongcheng,9,True,True
+247134457,威,2019-03-06,CN,a few days or more,0.0,75.0,False,,2,True,True
+258347392,宇飞,2019-04-27,China,within an hour,100.0,100.0,True,,3,True,True
+151452219,莉,2017-09-20,China,within an hour,100.0,100.0,True,,2,True,True
+92254507,四禾居四合院客栈,2016-08-28,China,within an hour,97.0,100.0,False,Xicheng,23,True,True
+310598105,Wohkoon者行孙青年旅舍(建国门)店,2019-11-19,China,a few days or more,40.0,83.0,False,Wai Avenue,11,True,True
+313701742,云海,2019-12-02,China,within an hour,100.0,100.0,False,,2,True,True
+310576688,奎百宜中心,2019-11-18,China,within an hour,80.0,96.0,False,,5,True,True
+126986731,春华,2017-04-22,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+315710542,鑫福格小院,2019-12-08,CN,within an hour,100.0,100.0,False,,1,True,True
+316078812,初心小院,2019-12-10,CN,,,,False,,1,True,True
+316673782,依山依舍,2019-12-12,China,within an hour,100.0,100.0,True,,1,True,True
+296827067,焦岩,2019-09-21,China,within an hour,100.0,100.0,True,,2,True,True
+318632841,海绪,2019-12-18,CN,,,100.0,False,,2,True,True
+261667079,咔咔,2019-05-13,China,within a few hours,100.0,100.0,True,,1,True,True
+318869864,京韵,2019-12-18,China,within an hour,100.0,100.0,True,Qianmen,15,True,True
+318610055,认证手机用户2250,2019-12-17,CN,within an hour,100.0,100.0,False,,1,True,True
+319564646,敏敏,2019-12-21,CN,,,,False,,1,True,True
+127847418,Ocean,2017-04-27,China,within an hour,94.0,100.0,True,Shilipu,11,True,True
+316763327,泽,2019-12-12,China,within an hour,90.0,100.0,False,,1,True,True
+38399076,Manu,2015-07-13,"Beijing, Beijing, China",within a day,50.0,33.0,False,,1,True,True
+320151548,薇,2019-12-23,China,within an hour,100.0,33.0,False,,3,True,True
+290946907,续,2019-09-02,CN,within an hour,100.0,100.0,False,,1,True,True
+260096774,贺,2019-05-06,China,within a few hours,100.0,100.0,False,,1,True,True
+322891766,幽,2019-12-30,China,,,100.0,False,,1,True,True
+322962478,王雪,2019-12-31,China,within an hour,100.0,100.0,False,,1,True,True
+323043454,克利,2019-12-31,CN,,,100.0,False,,1,True,True
+323268112,赫,2020-01-01,China,,,100.0,False,,1,True,True
+292083680,如是我闻,2019-09-05,China,,,100.0,False,,1,True,True
+319509499,刚,2019-12-21,CN,,,100.0,False,,1,True,True
+218304906,我是 (Hidden By Airbnb) 倩,2018-10-01,China,,,100.0,False,,1,True,True
+323803552,然,2020-01-02,China,within a day,100.0,67.0,False,,1,True,True
+233300613,胤达,2018-12-30,China,,,,False,,1,True,True
+320818588,东方美人,2019-12-25,China,within an hour,90.0,100.0,True,Wangfujing/Dongdan,1,True,True
+101164013,淑清,2016-10-25,China,,,,False,,7,True,True
+324723156,炳科,2020-01-05,"Chaoyang Qu, Beijing Shi, China",,,,False,Wai Avenue,1,True,True
+161779554,Daniel,2017-12-07,China,,,100.0,False,,1,True,True
+325208372,民宿主人,2020-01-07,China,within an hour,100.0,92.0,False,,1,True,True
+325545033,磊,2020-01-08,China,within an hour,100.0,100.0,False,,9,True,True
+325150888,洋,2020-01-07,CN,within an hour,100.0,100.0,False,,1,True,True
+326169925,银琪,2020-01-10,"Yanqing, Beijing, China",,,50.0,False,,1,True,True
+254428518,曦,2019-04-09,China,within a day,90.0,100.0,False,Sanlitun,1,True,True
+326920982,认证手机用户8679,2020-01-12,China,within an hour,100.0,100.0,True,,1,True,True
+58020479,司马台下,2016-02-09,China,within an hour,100.0,100.0,True,,2,True,True
+327305002,慕·时光,2020-01-14,China,within an hour,100.0,100.0,False,,1,True,True
+221836945,Tiger,2018-10-21,China,,,,False,,1,True,True
+208943571,瑞青,2018-08-11,China,,,100.0,False,,2,True,True
+328832998,DECENY Gary.Xu,2020-01-18,China,,,100.0,False,,1,True,True
+329182255,平原,2020-01-19,China,within a few hours,100.0,100.0,False,,1,True,True
+329599695,爱娟,2020-01-21,CN,a few days or more,0.0,80.0,False,,1,True,True
+329515657,修慧,2020-01-21,China,within an hour,100.0,100.0,False,,1,True,True
+330089194,锎,2020-01-22,China,within an hour,100.0,100.0,False,,1,True,True
+330104080,快乐天使,2020-01-23,CN,,,100.0,True,,1,True,True
+317327397,波妞喜欢宗介,2019-12-14,China,within an hour,100.0,100.0,True,,1,True,True
+333341570,于窝窝,2020-02-04,China,within an hour,100.0,100.0,False,,1,True,True
+114804445,Sun,2017-02-04,China,within an hour,75.0,100.0,True,,3,True,True
+333326169,三卅,2020-02-04,CN,,,91.0,False,,5,True,True
+340144424,墨客居 电话 (Phone number hidden by Airbnb),2020-03-04,China,,,100.0,False,,1,True,True
+297258445,北京临空新国展亚朵酒店,2019-09-23,CN,,,,False,,0,True,True
+341087865,百里乡居&闲山精品酒店,2020-03-10,China,within an hour,86.0,100.0,False,,7,True,True
+76327323,明辉,2016-06-07,China,,,,False,,8,True,False
+340871275,北京亦庄荣京西街亚朵酒店,2020-03-08,CN,a few days or more,0.0,0.0,False,,0,True,True
+297254588,张,2019-09-22,CN,,,0.0,False,,4,True,True
+297243562,蕙,2019-09-22,CN,a few days or more,0.0,,False,,0,True,True
+341063398,志刚,2020-03-10,CN,,,0.0,False,,5,True,True
+342358266,Danica-Y,2020-03-24,China,within an hour,97.0,100.0,False,,2,True,True
+342656471,认证手机用户0161,2020-03-28,CN,,,0.0,False,,1,True,True
+342658852,剑,2020-03-28,CN,a few days or more,33.0,100.0,False,,1,True,True
+342791798,淑艳民宿,2020-03-30,China,,,100.0,False,,1,True,True
+342800040,达哥,2020-03-30,China,,,100.0,False,,1,True,True
+103782181,Alice,2016-11-15,China,within an hour,100.0,100.0,True,,1,True,True
+81582553,刘刘,2016-07-04,China,within an hour,100.0,100.0,False,,1,True,True
+254241643,路,2019-04-09,CN,,,100.0,False,,2,True,True
+116375584,曹氚,2017-02-14,China,within a few hours,100.0,100.0,False,,0,True,True
+241401110,隐,2019-02-06,China,within an hour,100.0,99.0,True,,2,True,True
+321234096,小烐同学 Plus,2019-12-26,CN,,,100.0,False,,1,True,True
+308625851,依依,2019-11-11,"Beijing, Beijing, China",within an hour,90.0,100.0,False,,1,True,True
+344841576,认证手机用户6628,2020-04-28,China,within an hour,100.0,100.0,False,,1,True,True
+118632370,鹿,2017-03-01,China,within an hour,100.0,100.0,False,,1,True,True
+345510144,莹,2020-05-06,CN,,,100.0,True,,1,True,True
+49050041,Jessie,2015-11-14,China,within an hour,100.0,100.0,True,,9,True,True
+298256017,霞,2019-09-27,China,within a day,100.0,100.0,False,,1,True,True
+311503639,俊男,2019-11-22,China,within an hour,100.0,100.0,False,,3,True,True
+345675918,睿泽民宿,2020-05-08,China,,,100.0,False,,1,True,True
+345749699,心态好,2020-05-09,CN,,,100.0,False,,1,True,True
+184923699,翼,2018-04-18,"Miyun District, Beijing, China",,,100.0,False,,1,True,True
+58248924,Wei,2016-02-10,China,within a few hours,100.0,93.0,False,,1,True,True
+346416991,大隐于世富春山居,2020-05-16,CN,a few days or more,0.0,,False,,5,True,True
+346196464,认证手机用户4080,2020-05-13,China,within an hour,100.0,100.0,False,,1,True,True
+345085700,池浩轩,2020-05-01,China,within an hour,100.0,100.0,False,,1,True,True
+346714498,尐様ﾙ,2020-05-18,China,within an hour,100.0,100.0,False,,2,True,True
+222912576,Zb,2018-10-27,China,within an hour,100.0,100.0,False,,1,True,True
+346443299,蓝茶,2020-05-16,China,within an hour,100.0,100.0,False,,1,True,True
+346933485,辰,2020-05-20,China,within a day,100.0,100.0,True,,1,True,True
+347098234,飞行员舒克,2020-05-22,China,within a few hours,100.0,100.0,False,,1,True,True
+347250566,娜,2020-05-23,China,within an hour,100.0,100.0,True,,4,True,True
+187831817,小鑫,2018-05-04,China,within an hour,100.0,100.0,True,,3,True,True
+288013079,荣小姐,2019-08-22,China,within an hour,100.0,100.0,False,,5,True,True
+179111940,潘多拉,2018-03-18,China,within an hour,100.0,100.0,False,,1,True,True
+347614550,荣小姐的院子,2020-05-26,China,within an hour,100.0,98.0,True,,11,True,True
+347704876,臻舍,2020-05-26,CN,,,100.0,False,,1,True,True
+335205319,晓慧,2020-02-11,China,within a day,89.0,100.0,True,,12,True,True
+298239597,良栖山院,2019-09-27,China,within an hour,100.0,,False,,1,True,True
+265943931,小麦,2019-06-03,China,within an hour,80.0,75.0,False,,1,True,True
+143872440,乐晴民宿,2017-08-02,China,within an hour,100.0,96.0,True,,1,True,True
+347876750,建,2020-05-28,China,,,0.0,False,,1,True,True
+329525615,晓雪,2020-01-21,China,,,100.0,False,,1,True,True
+157854482,凌龙,2017-11-07,China,within an hour,100.0,100.0,False,,1,True,True
+169032720,海利,2018-01-21,China,within an hour,100.0,100.0,True,,1,True,True
+347830866,红,2020-05-27,China,within an hour,100.0,100.0,False,,2,True,True
+271414737,韩,2019-06-25,CN,,,100.0,False,,1,True,True
+348414600,薯条Dad,2020-06-02,China,,,100.0,False,,1,True,True
+347753476,椰舍,2020-05-27,China,within an hour,100.0,97.0,True,,2,True,True
+348504428,Looooo,2020-06-02,China,within an hour,100.0,100.0,False,,1,True,True
+259734351,纪萍,2019-05-04,CN,,,,False,,3,True,True
+243090045,达子,2019-02-14,China,within an hour,100.0,100.0,False,,2,True,True
+348790470,贺,2020-06-05,China,within an hour,100.0,100.0,True,,1,True,True
+344427506,认证手机用户1101,2020-04-22,China,within an hour,100.0,100.0,False,,1,True,True
+349125718,阿莲,2020-06-08,China,,,50.0,False,,1,True,True
+349251533,L1u 66,2020-06-08,China,within an hour,100.0,100.0,False,,3,True,True
+349284098,荣公子,2020-06-09,China,within an hour,100.0,100.0,False,,1,True,True
+349295791,房东茹茹,2020-06-09,China,within an hour,100.0,100.0,True,,1,True,True
+349300963,陌离,2020-06-09,CN,,,100.0,False,,1,True,True
+264888162,花林间民宿,2019-05-29,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+238622300,度假别墅小慢,2019-01-24,China,within an hour,100.0,99.0,False,,194,True,True
+132047578,王,2017-05-26,China,,,100.0,False,,1,True,True
+349691992,十渡山水小院,2020-06-11,China,within an hour,100.0,100.0,True,,2,True,True
+349720248,清净快乐,2020-06-12,China,,,,False,,2,True,True
+107596501,庶卜,2016-12-17,China,,,100.0,False,,1,True,True
+349740132,香,2020-06-12,China,within an hour,100.0,100.0,True,,2,True,True
+349011938,遇见小屋,2020-06-07,China,within an hour,100.0,86.0,False,,1,True,True
+349871746,蒋秋利,2020-06-13,China,within an hour,100.0,100.0,True,,1,True,True
+181912799,Min,2018-04-02,China,within an hour,75.0,100.0,True,,1,True,True
+350236609,朱学荣民俗户,2020-06-15,China,,,100.0,False,,1,True,True
+350118032,文奇,2020-06-15,China,within an hour,100.0,100.0,True,,8,True,True
+350627087,晓倩,2020-06-18,China,within an hour,100.0,92.0,False,,1,True,True
+350776595,研,2020-06-19,"Beijing, Beijing, China",within an hour,100.0,100.0,True,,1,True,True
+351286658,风,2020-06-22,China,within an hour,100.0,100.0,True,,1,True,True
+351644957,翠平,2020-06-24,China,within an hour,100.0,,False,,5,True,True
+215264353,徐涛,2018-09-13,CN,,,100.0,False,,1,True,True
+352641108,朴宿小院,2020-06-30,China,within an hour,100.0,100.0,True,,1,True,True
+182570537,伟,2018-04-05,China,within an hour,100.0,100.0,True,,11,True,True
+327665048,赵利波,2020-01-15,CN,within an hour,100.0,100.0,False,,1,True,True
+352882234,青龙峡/怀北滑雪场，雁栖湖，团建，聚会，烧烤，Ktv.圣泉水湾精品民宿,2020-07-01,China,,,,False,,2,True,True
+345726015,擦石匠,2020-05-08,China,within an hour,100.0,,False,,7,True,True
+325862833,诗He远方,2020-01-09,China,within an hour,100.0,97.0,True,,1,True,True
+353213802,园,2020-07-03,China,within an hour,100.0,100.0,False,,1,True,True
+344861852,拾夕山舍,2020-04-28,China,within an hour,100.0,100.0,True,,9,True,True
+166301137,十甽⑩嵄•约一,2018-01-07,China,a few days or more,40.0,100.0,False,,2,True,True
+283116446,Yrlj,2019-08-06,China,within an hour,100.0,100.0,True,,2,True,True
+349692358,嘉嘉,2020-06-11,China,within an hour,100.0,100.0,True,,1,True,True
+353173523,北京福润自游自在,2020-07-03,China,within a few hours,100.0,50.0,False,,1,True,True
+328031855,观山雅居,2020-01-16,China,within an hour,100.0,,False,,1,True,True
+311990085,彬,2019-11-25,China,within an hour,100.0,100.0,False,,1,True,True
+353985898,Xinyun,2020-07-06,China,within an hour,100.0,100.0,True,,5,True,True
+351320088,云朵,2020-06-22,China,within an hour,100.0,100.0,True,,7,True,True
+354268839,Thomas,2020-07-07,CN,,,100.0,True,,1,True,True
+354578443,Stey,2020-07-08,China,within an hour,100.0,100.0,True,,4,True,True
+293107365,宇鹏,2019-09-08,China,within an hour,100.0,100.0,False,,3,True,True
+324788232,小明,2020-01-06,"Beijing, Beijing, China",within a few hours,100.0,100.0,False,,1,True,True
+355010447,华,2020-07-09,China,,,100.0,False,,1,True,True
+355648831,老栗树,2020-07-11,China,within an hour,100.0,100.0,False,,2,True,True
+355869721,燕子,2020-07-12,China,,,100.0,False,,1,True,True
+353013985,琪,2020-07-02,CN,,,100.0,False,,1,True,True
+356476909,博,2020-07-15,China,,,100.0,False,,1,True,True
+356288147,Tom,2020-07-14,China,within an hour,100.0,100.0,False,,9,True,True
+356535316,栗树山,2020-07-15,China,within an hour,100.0,100.0,False,,1,True,True
+349592011,Miy,2020-06-11,China,within an hour,100.0,100.0,False,,3,True,True
+356661612,吕,2020-07-16,China,,,100.0,False,,1,True,True
+356912854,凭栏小筑,2020-07-17,China,,,100.0,False,,1,True,True
+356994628,认证手机用户5562,2020-07-17,China,within an hour,100.0,100.0,False,,1,True,True
+220030543,椰子妹妹,2018-10-11,China,within an hour,100.0,100.0,False,,1,True,True
+357074543,文致,2020-07-18,China,within an hour,100.0,100.0,True,,1,True,True
+357147461,认证手机用户3779,2020-07-18,China,within a day,100.0,75.0,False,,1,True,True
+254230997,薇薇安,2019-04-09,China,within an hour,100.0,100.0,True,,1,True,True
+356722484,亚如,2020-07-16,China,,,100.0,True,,1,True,True
+357344639,无琐室,2020-07-20,China,within an hour,60.0,100.0,True,,1,True,True
+345660341,思佳,2020-05-08,"Beijing, Beijing, China",,,100.0,False,,0,True,True
+357373131,北京柏树湖庄园,2020-07-20,China,within an hour,100.0,100.0,False,,2,True,True
+301612833,宇臣,2019-10-11,China,,,100.0,False,,1,True,True
+243824802,冬,2019-02-18,China,,,100.0,False,,1,True,True
+355916152,邑城山居民宿,2020-07-12,China,within an hour,100.0,,False,,1,True,True
+94524400,Ping,2016-09-10,China,within an hour,100.0,100.0,False,,1,True,True
+358346764,Ivy,2020-07-25,"Pinggu District, Beijing, China",within an hour,100.0,100.0,True,,0,True,True
+358481558,凡间民宿,2020-07-26,China,,,100.0,False,,1,True,True
+103082213,嘉璐,2016-11-09,China,,,100.0,False,,1,True,True
+358747972,畅,2020-07-27,CN,within an hour,100.0,100.0,True,,8,True,True
+358771307,灵兮·境,2020-07-27,China,,,100.0,True,,1,True,True
+358784037,洪春,2020-07-27,China,within an hour,100.0,50.0,False,,2,True,True
+258339088,明月,2019-04-27,CN,,,91.0,False,,3,True,True
+162619052,Barbarala33,2017-12-14,China,within an hour,100.0,100.0,True,,2,True,True
+358899535,伟,2020-07-27,China,within an hour,100.0,100.0,False,,1,True,True
+349177570,Jie,2020-06-08,China,within an hour,100.0,100.0,True,,1,True,True
+359138103,鸿程美庐,2020-07-29,China,,,100.0,False,,1,True,True
+122823044,马,2017-03-27,China,,,100.0,False,,1,True,True
+353381940,月鹏,2020-07-04,CN,,,100.0,False,,1,True,True
+124502538,海棠,2017-04-06,China,within a few hours,100.0,95.0,True,,2,True,True
+117406171,虔金,2017-02-21,China,within an hour,100.0,100.0,False,,4,True,True
+359578628,宿夕,2020-07-30,China,within an hour,100.0,100.0,False,,2,True,True
+356909842,认证手机用户7409,2020-07-17,China,,,100.0,False,望京街道,1,True,True
+359765418,静宇,2020-08-01,China,within an hour,100.0,100.0,False,,5,True,True
+211966575,营城里,2018-08-27,China,,,100.0,False,,1,True,True
+146715051,造梦者,2017-08-19,China,,,100.0,False,,1,True,True
+88658674,晓峰,2016-08-08,China,within an hour,100.0,100.0,True,,1,True,True
+110903550,瑾,2017-01-11,China,within an hour,100.0,100.0,False,,1,True,True
+360130941,丽萍,2020-08-03,China,within an hour,100.0,100.0,False,,1,True,True
+326924660,梦想,2020-01-12,China,within an hour,100.0,67.0,False,,2,True,True
+45317146,Rovincy,2015-09-28,China,within an hour,100.0,100.0,True,,1,True,True
+208967704,彩军,2018-08-12,CN,,,100.0,False,,4,True,True
+360440873,认证手机用户1023,2020-08-04,China,within a day,67.0,100.0,False,,1,True,True
+225386540,Rumin,2018-11-12,China,within an hour,100.0,91.0,False,,1,True,True
+103883656,丽筠,2016-11-15,China,,,50.0,False,,1,True,True
+87759552,Erica,2016-08-03,China,within an hour,100.0,100.0,True,,2,True,True
+262535224,洋,2019-05-18,CN,,,100.0,False,,1,True,True
+360803539,博文,2020-08-06,CN,,,,False,,1,True,True
+358963579,轰趴达人,2020-07-28,China,within an hour,100.0,100.0,False,,1,True,True
+151211982,冉,2017-09-19,China,within an hour,100.0,100.0,True,,2,True,True
+360395953,认证手机用户6815,2020-08-04,China,within an hour,100.0,100.0,False,,1,True,True
+360968004,认证手机用户4349,2020-08-07,China,within a few hours,100.0,100.0,False,,3,True,True
+361025570,房山土著,2020-08-07,China,within an hour,100.0,0.0,False,,1,True,True
+59103531,俊锋,2016-02-17,China,within an hour,100.0,100.0,False,,2,True,True
+57578798,子雄,2016-02-05,China,within an hour,100.0,100.0,True,,2,True,True
+361013232,墨童庄主,2020-08-07,China,within an hour,100.0,100.0,False,,2,True,True
+361278970,迎春,2020-08-09,China,within a day,50.0,100.0,False,,1,True,True
+358956376,白河川张秀兰农家院,2020-07-28,China,within an hour,100.0,100.0,False,,2,True,True
+207541022,彧寒,2018-08-05,China,,,,False,,1,True,True
+361671359,爱萍,2020-08-10,China,within an hour,100.0,100.0,False,,1,True,True
+361692958,Lan岚·墅趴35轰趴民宿,2020-08-11,China,within an hour,100.0,100.0,False,,1,True,True
+361716286,女士,2020-08-11,China,within a day,50.0,100.0,False,,1,True,True
+250067752,攀,2019-03-20,China,within an hour,100.0,100.0,True,,3,True,True
+125524688,Liting丽婷,2017-04-12,"Beijing, Beijing, China",within an hour,100.0,100.0,True,,1,True,True
+103514013,雪,2016-11-13,China,within an hour,100.0,100.0,False,,6,True,True
+143999956,Leeshichao,2017-08-02,China,within an hour,100.0,98.0,True,,9,True,True
+140666036,莉莉,2017-07-16,China,within an hour,100.0,100.0,False,,1,True,True
+57941544,Jie,2016-02-08,China,,,,False,,2,True,True
+362336959,海军,2020-08-14,China,within an hour,100.0,100.0,False,,1,True,True
+362235419,认证手机用户4349,2020-08-13,China,within an hour,100.0,100.0,True,,1,True,True
+362613832,霆,2020-08-15,China,,,100.0,False,,1,True,True
+362131074,俩宝贝儿,2020-08-13,CN,within an hour,100.0,100.0,False,,1,True,True
+362710001,喇叭沟门原始森林乡村民宿,2020-08-16,China,within an hour,100.0,100.0,False,,1,True,True
+310335368,战江,2019-11-17,China,within an hour,100.0,100.0,True,,9,True,True
+362784783,认证手机用户8007,2020-08-16,China,,,50.0,False,,1,True,True
+361878509,如心,2020-08-11,China,within an hour,98.0,100.0,True,Wu Ke Song,10,True,True
+363077991,致青春,2020-08-18,China,within an hour,100.0,100.0,False,,1,True,True
+344549246,奋斗的青春，刘根发 (Phone number hidden by Airbnb),2020-04-24,CN,,,100.0,False,,0,True,True
+304814615,库,2019-10-27,China,within an hour,100.0,96.0,True,,2,True,True
+363285120,雷瑞颖,2020-08-19,CN,,,,False,,1,True,True
+363341655,殊轩精品民宿,2020-08-19,China,within an hour,100.0,100.0,False,,3,True,True
+363378926,那山那水那家民宿,2020-08-19,"Yanqing District, Beijing, China",,,0.0,False,,1,True,True
+363387136,认证手机用户3658,2020-08-19,China,within an hour,100.0,100.0,False,,3,True,True
+356837311,青卜,2020-07-17,"Beijing, Beijing, China",within a few hours,100.0,100.0,False,,1,True,True
+363481261,小芳,2020-08-20,China,within an hour,100.0,100.0,False,,1,True,True
+363259436,小隐,2020-08-19,China,within an hour,100.0,100.0,True,,3,True,True
+363918512,喇叭沟白桦林满院民宿,2020-08-23,China,within an hour,100.0,100.0,False,,1,True,True
+284440184,文玉,2019-08-10,China,within an hour,100.0,100.0,True,,2,True,True
+364170539,认证手机用户5992,2020-08-24,China,within an hour,100.0,100.0,False,,1,True,True
+364259912,宗昊,2020-08-24,China,within an hour,100.0,100.0,False,,1,True,True
+364293390,罗罗,2020-08-25,China,within a few hours,100.0,100.0,False,,1,True,True
+364449449,十渡紫藤佳苑,2020-08-26,"Fangshan District, Beijing, China",within an hour,100.0,100.0,False,,2,True,True
+211835546,琛,2018-08-26,China,within an hour,100.0,100.0,False,,1,True,True
+364601027,大有民宿,2020-08-27,China,within an hour,100.0,100.0,False,,2,True,True
+346709215,延城攻略,2020-05-18,China,within an hour,100.0,100.0,True,,12,True,True
+364615255,那点时光,2020-08-27,China,within an hour,100.0,100.0,False,,1,True,True
+359354113,恬逸舍,2020-07-29,China,within an hour,100.0,100.0,False,,4,True,True
+178364736,冬冬阳,2018-03-14,China,within an hour,100.0,100.0,True,,1,True,True
+364807979,华,2020-08-28,China,,,100.0,False,,1,True,True
+364899421,认证手机用户7776,2020-08-29,China,within an hour,100.0,75.0,False,,1,True,True
+353338807,震,2020-07-04,China,within an hour,100.0,100.0,False,,1,True,True
+365204117,村度民宿,2020-08-31,China,,,100.0,False,,1,True,True
+33429321,宅,2015-05-15,China,within an hour,100.0,100.0,True,,1,True,True
+349253879,文涛,2020-06-08,China,within an hour,100.0,100.0,False,,1,True,True
+365373593,润茹,2020-09-01,China,within an hour,100.0,100.0,False,,1,True,True
+115283280,Follow Me君君,2017-02-07,China,within an hour,100.0,94.0,False,,6,True,True
+364804468,淑云,2020-08-28,China,,,100.0,False,,2,True,True
+365516760,Mickey,2020-09-01,China,within an hour,100.0,100.0,False,,2,True,True
+365526048,泽晶,2020-09-01,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+365533776,小李,2020-09-02,China,within an hour,100.0,100.0,True,,2,True,True
+294904470,Na,2019-09-14,China,within an hour,99.0,100.0,True,,10,True,True
+65996338,竹子家,2016-04-06,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+126724182,葭,2017-04-20,China,within an hour,100.0,100.0,False,,1,True,True
+364093468,认证手机用户0320,2020-08-23,China,within an hour,100.0,100.0,False,,1,True,True
+157220269,多乐河公社,2017-11-03,China,within an hour,100.0,92.0,False,,4,True,True
+366329274,志丹,2020-09-07,CN,within an hour,100.0,100.0,False,,1,True,True
+366323706,垚鑫,2020-09-07,China,,,100.0,False,,1,True,True
+145800957,圈圈⑰7⑩0㉑㉚〇,2017-08-13,China,within an hour,100.0,100.0,False,,1,True,True
+366341001,东,2020-09-07,China,within a few hours,96.0,100.0,False,,2,True,True
+363390131,北京尚隐居精品民宿,2020-08-19,China,within an hour,100.0,100.0,False,,8,True,True
+144894320,佩璇,2017-08-08,China,within a few hours,100.0,100.0,False,,1,True,True
+366321312,认证手机用户7699,2020-09-07,China,within an hour,100.0,100.0,False,,3,True,True
+366840225,圆圆,2020-09-10,China,,,,False,,1,True,True
+41716556,胜利,2015-08-17,China,within an hour,100.0,100.0,False,,1,True,True
+366859003,雪杰,2020-09-10,China,,,100.0,False,,1,True,True
+367023057,芳,2020-09-11,China,within an hour,100.0,100.0,True,,1,True,True
+335252201,Quinn,2020-02-11,"Beijing, Beijing, China",,,67.0,False,,1,True,True
+131272085,梁大宝,2017-05-21,China,within an hour,100.0,80.0,False,,1,True,True
+367033084,古北水镇兴福居民宿,2020-09-11,CN,within an hour,100.0,100.0,False,,1,True,True
+265101780,栖隐小院,2019-05-30,China,,,100.0,False,,1,True,True
+367289057,强,2020-09-13,China,within an hour,100.0,100.0,False,,1,True,True
+367316989,亚军,2020-09-13,China,within an hour,100.0,100.0,False,,1,True,True
+367033076,京小仙,2020-09-11,China,within a few hours,100.0,100.0,True,,6,True,True
+367454099,中国福院儿,2020-09-14,China,within a few hours,100.0,100.0,True,,4,True,True
+131403073,山南舍,2017-05-22,China,within a day,80.0,100.0,False,,1,True,True
+345439357,东明,2020-05-05,China,within an hour,100.0,100.0,False,,1,True,True
+367475400,认证手机用户6149,2020-09-14,China,within an hour,100.0,,False,,1,True,True
+366484178,认证手机用户0399,2020-09-08,China,,,100.0,False,,3,True,True
+49963806,Abby,2015-11-26,China,within an hour,100.0,91.0,False,,1,True,True
+357788092,●湯圓小院儿● 北京十渡,2020-07-22,China,within an hour,100.0,100.0,False,,1,True,True
+366081825,逸楠,2020-09-05,China,within an hour,100.0,100.0,False,,1,True,True
+277065592,洋洋,2019-07-18,"Beijing, Beijing, China",,,0.0,False,,1,True,True
+361761289,景超,2020-08-11,CN,within an hour,100.0,,False,,1,True,True
+367764428,认证手机用户5065,2020-09-16,CN,,,100.0,False,,1,True,True
+226960246,管家-小小親,2018-11-22,China,within an hour,100.0,100.0,True,,2,True,True
+360129066,王,2020-08-03,China,within an hour,100.0,100.0,False,,1,True,True
+367944212,原来是三秋呀,2020-09-17,China,within an hour,100.0,60.0,False,,1,True,True
+85447442,民宿小主,2016-07-23,China,within an hour,100.0,100.0,False,,9,True,True
+279420666,A. 大牌馆,2019-07-26,China,,,,False,,1,True,True
+364810074,岩,2020-08-28,CN,,,100.0,False,,1,True,True
+261968568,幽居山行民宿,2019-05-15,CN,within an hour,100.0,100.0,False,,5,True,True
+368109091,王同学,2020-09-18,China,,,100.0,False,,1,True,True
+282046322,张鑫,2019-08-03,China,within an hour,100.0,50.0,False,,1,True,True
+368104119,享,2020-09-18,China,within an hour,100.0,100.0,False,,1,True,True
+368217019,认证手机用户5850,2020-09-19,China,,,100.0,False,,1,True,True
+368225408,芳华,2020-09-19,CN,within an hour,100.0,100.0,False,,1,True,True
+367410289,山里小院,2020-09-13,China,within an hour,100.0,100.0,False,,1,True,True
+367122400,永涛,2020-09-11,China,within an hour,100.0,100.0,False,,5,True,True
+297367964,采薇山舍,2019-09-23,China,within an hour,100.0,100.0,True,,3,True,True
+198953062,小幽,2018-06-30,CN,,,,False,,1,True,True
+282105131,海小姐,2019-08-03,China,within an hour,100.0,40.0,False,,1,True,True
+348518381,荣华,2020-06-03,China,within an hour,100.0,100.0,True,,4,True,True
+293006203,一哲,2019-09-07,China,,,100.0,False,,1,True,True
+368525952,书合,2020-09-21,China,within a day,80.0,100.0,False,,1,True,True
+284638276,月月,2019-08-11,China,within an hour,100.0,100.0,False,,1,True,True
+271225263,文,2019-06-25,China,within an hour,100.0,100.0,False,,1,True,True
+368668553,悠然小院•精品民宿,2020-09-22,China,within an hour,100.0,100.0,False,,2,True,True
+368672437,北京欢聚堂客栈,2020-09-22,China,within an hour,100.0,100.0,False,,1,True,True
+89849948,阳光之家,2016-08-14,"Beijing, Beijing, China",within an hour,100.0,99.0,False,,1,True,True
+178952212,素時山居,2018-03-17,China,within an hour,100.0,100.0,False,,1,True,True
+363766648,哈喽娜娜,2020-08-22,China,within an hour,100.0,100.0,False,,1,True,True
+368809172,认证手机用户3372,2020-09-22,China,within an hour,100.0,95.0,True,,2,True,True
+122129801,Cy,2017-03-22,China,within an hour,100.0,100.0,False,,1,True,True
+114966760,汐韬,2017-02-05,China,,,100.0,False,,1,True,True
+368833032,尼古拉斯 舞男,2020-09-23,"Huairou District, Beijing, China",,,100.0,False,,1,True,True
+259942442,雪雄,2019-05-05,CN,,,100.0,False,,1,True,True
+248850901,桐,2019-03-14,China,within an hour,100.0,100.0,True,,1,True,True
+223585894,大圆子,2018-10-31,China,within an hour,100.0,100.0,True,,1,True,True
+369022576,子骏龍坤度假别墅,2020-09-24,China,within an hour,100.0,100.0,False,,1,True,True
+30030394,大王,2015-03-26,China,within an hour,100.0,100.0,True,,17,True,True
+300694224,Annie,2019-10-07,China,,,100.0,False,,1,True,True
+368968955,认证手机用户5516,2020-09-23,China,,,100.0,False,,2,True,True
+369335187,隗(十渡日兴农家院),2020-09-26,China,,,100.0,False,,5,True,True
+369449848,房东雪原,2020-09-26,China,,,80.0,False,,1,True,True
+369454866,陌客民宿,2020-09-26,China,within an hour,100.0,83.0,False,,1,True,True
+362741914,认证手机用户0179,2020-08-16,China,within an hour,100.0,100.0,False,,4,True,True
+285489111,宿多多,2019-08-13,China,a few days or more,0.0,86.0,False,,179,True,True
+348893822,阡陌屋舍,2020-06-06,China,,,100.0,False,,1,True,True
+217188017,麦芽民宿,2018-09-25,China,within an hour,100.0,100.0,True,,7,True,True
+369530303,认证手机用户9067,2020-09-27,CN,within a few hours,100.0,100.0,False,,1,True,True
+363559675,汤河小糖糖,2020-08-20,CN,within an hour,100.0,100.0,False,,1,True,True
+369603253,永占,2020-09-27,China,,,100.0,False,,1,True,True
+369617529,京,2020-09-28,China,within a few hours,100.0,100.0,False,,1,True,True
+369621751,建军,2020-09-28,CN,,,100.0,False,,2,True,True
+369641631,海霞,2020-09-28,China,,,100.0,False,,1,True,True
+231630120,舒尧,2018-12-20,China,within an hour,100.0,100.0,True,,1,True,True
+369728248,一叁二客栈的船长,2020-09-28,China,within an hour,100.0,100.0,False,,1,True,True
+299012147,用户3995,2019-09-30,China,within an hour,100.0,100.0,False,,1,True,True
+369933895,大米,2020-09-30,China,within an hour,100.0,100.0,False,,1,True,True
+369965807,默,2020-09-30,China,within a few hours,100.0,88.0,False,,2,True,True
+370109921,驿路栗花,2020-10-01,China,within an hour,100.0,100.0,False,,3,True,True
+370208271,认证手机用户2768,2020-10-01,CN,,,,False,,1,True,True
+369589554,水清,2020-09-27,China,,,100.0,False,,1,True,True
+370273006,森林,2020-10-02,CN,,,100.0,False,,1,True,True
+370129174,范姐,2020-10-01,China,within an hour,100.0,100.0,False,,1,True,True
+370417377,认证手机用户8005,2020-10-03,China,within an hour,100.0,100.0,False,,1,True,True
+368364525,认证手机用户5138,2020-09-20,China,within an hour,100.0,94.0,False,,2,True,True
+370580445,青,2020-10-04,China,,,86.0,False,,2,True,True
+161663386,Lena,2017-12-07,China,within an hour,100.0,100.0,False,,1,True,True
+210611416,安莉,2018-08-19,China,,,100.0,False,,3,True,True
+371216054,杜志彬,2020-10-08,China,,,100.0,False,,1,True,True
+371345446,丽舍公寓(北京常营地铁站店),2020-10-10,China,within an hour,100.0,98.0,False,Guo Mao,5,True,True
+368724799,认证手机用户0501,2020-09-22,China,within an hour,100.0,100.0,False,,1,True,True
+369536798,怡水庭,2020-09-27,China,within an hour,100.0,100.0,False,,2,True,True
+367034366,红太阳农庄,2020-09-11,China,within an hour,100.0,67.0,False,,1,True,True
+371226875,认证手机用户3860,2020-10-09,CN,,,100.0,False,,1,True,True
+370400352,爽,2020-10-03,China,within a day,100.0,100.0,False,,6,True,True
+371706585,林,2020-10-12,China,within an hour,100.0,96.0,True,,1,True,True
+346958867,仁杰,2020-05-21,China,within an hour,100.0,100.0,False,,0,True,True
+371749567,认证手机用户6016,2020-10-13,"Beijing, Beijing, China",within a few hours,100.0,100.0,False,,1,True,True
+371870898,靖,2020-10-14,China,within an hour,100.0,100.0,False,,5,True,True
+370538700,山尚民宿,2020-10-04,China,within an hour,100.0,100.0,True,,1,True,True
+372155898,认证手机用户0509,2020-10-16,China,within a few hours,70.0,83.0,False,,3,True,True
+184844163,乐章,2018-04-17,China,within an hour,100.0,100.0,True,,1,True,True
+372161716,房东米妈,2020-10-16,China,,,100.0,False,,1,True,True
+105087295,旭,2016-11-25,,a few days or more,0.0,100.0,False,,1,True,True
+372599913,认证手机用户2639,2020-10-19,China,within an hour,100.0,100.0,False,,1,True,True
+337181274,观渡•有岸,2020-02-18,China,within an hour,100.0,96.0,False,,4,True,True
+370182980,海鲸花蜂蜜-王金花,2020-10-01,China,,,100.0,False,,1,True,True
+372628597,认证手机用户8739,2020-10-20,CN,,,100.0,False,,1,True,True
+371890484,钱多多,2020-10-14,China,within an hour,89.0,100.0,False,,1,True,True
+191122113,云沙居,2018-05-23,China,within an hour,100.0,100.0,False,,1,True,True
+351291310,Ysss0108,2020-06-22,China,within an hour,100.0,100.0,False,,5,True,True
+71631541,彬,2016-05-12,China,within an hour,100.0,,False,,1,True,True
+156132813,也行,2017-10-25,China,within an hour,100.0,96.0,True,,1,True,True
+72947407,媛,2016-05-19,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+308717904,拉,2019-11-11,China,within an hour,100.0,100.0,True,,1,True,True
+151507679,李掌柜,2017-09-21,China,within an hour,100.0,100.0,False,,1,True,True
+359396285,石头,2020-07-30,China,within an hour,100.0,100.0,True,,0,False,True
+373823728,琳,2020-10-30,China,within an hour,100.0,100.0,True,,5,True,True
+373297210,认证手机用户9250,2020-10-25,China,within a few hours,71.0,83.0,False,,2,True,True
+111664870,陆,2017-01-15,China,within an hour,100.0,100.0,False,,1,True,True
+367714762,超,2020-09-15,China,within an hour,100.0,100.0,True,,2,True,True
+374738749,佳兴,2020-11-07,China,within an hour,100.0,96.0,True,,1,True,True
+39370105,Xiaoxing,2015-07-23,"Cologne, North Rhine-Westphalia, Germany",within a few hours,100.0,94.0,True,,1,True,True
+371000451, 沸点,2020-10-07,China,within an hour,100.0,100.0,False,,1,True,True
+239869035,Shirley,2019-01-29,China,within an hour,91.0,76.0,True,,37,True,True
+222480988,幸秋,2018-10-24,China,within an hour,100.0,94.0,True,,9,True,True
+359824171,那年遇见,2020-08-01,China,within an hour,83.0,89.0,False,,4,True,True
+375593464,林琪,2020-11-14,China,within an hour,100.0,100.0,False,,1,True,True
+375604837,艾米丽1,2020-11-14,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+281377245,尚官壹号,2019-08-01,China,within an hour,100.0,100.0,False,,3,True,True
+236014065,梦颖,2019-01-12,China,within an hour,100.0,100.0,True,,69,True,True
+375798462,木石,2020-11-15,China,within an hour,100.0,97.0,True,,1,True,True
+369168749,超,2020-09-24,China,,,100.0,False,,1,True,True
+314936441,咖啡先生,2019-12-06,China,,,,False,,1,True,True
+349115171,密恋小栈,2020-06-08,China,within an hour,100.0,100.0,False,,1,True,True
+190280936,东昊,2018-05-18,China,within an hour,100.0,100.0,False,,1,True,True
+29032831,巴图,2015-03-09,China,within an hour,100.0,93.0,False,,1,True,True
+186449560,度,2018-04-26,China,within an hour,100.0,97.0,True,,28,True,True
+232285060,铭,2018-12-24,"Changping District, Beijing, China",,,100.0,False,,1,True,True
+228981503,丽丽,2018-12-03,China,within an hour,100.0,,False,,2,True,True
+366311867,向梅,2020-09-06,China,within an hour,100.0,100.0,True,,1,True,True
+320542712,萍水相逢,2019-12-24,CN,a few days or more,0.0,100.0,False,,1,True,True
+260626528,晓双,2019-05-08,China,within an hour,100.0,100.0,False,,0,True,True
+377546697,志财,2020-11-29,China,within an hour,100.0,100.0,True,,2,True,True
+377559091,婷婷,2020-11-29,China,within an hour,100.0,100.0,False,,1,True,True
+43680898,通,2015-09-08,China,within an hour,100.0,100.0,True,,1,True,True
+249372497,孙奇,2019-03-17,China,within an hour,100.0,100.0,False,,1,True,True
+377610876,认证手机用户8556,2020-11-30,China,within an hour,100.0,100.0,False,,1,True,True
+377764660,S家,2020-12-01,China,within an hour,100.0,95.0,True,,1,True,True
+218408135,燕红,2018-10-02,CN,,,100.0,False,,2,True,True
+134543690,子航,2017-06-11,"London, England, United Kingdom",within an hour,100.0,100.0,True,,2,True,True
+307364826,云端小筑,2019-11-06,CN,within a few hours,100.0,80.0,False,,3,True,True
+377919474,十渡霁月民宿,2020-12-02,CN,within an hour,100.0,100.0,False,,1,True,True
+378049436,杨胜玉,2020-12-03,China,within an hour,100.0,100.0,False,,1,True,True
+112637243,有关,2017-01-22,China,within an hour,100.0,100.0,True,,6,True,True
+378575660,认证手机用户1897,2020-12-07,China,within an hour,100.0,100.0,False,,1,True,True
+378567961,岚山苑私汤民宿,2020-12-07,China,within an hour,100.0,100.0,True,,6,True,True
+79464618,片儿,2016-06-23,China,,,100.0,True,,1,True,True
+170136241,凯峰,2018-01-27,China,within an hour,100.0,100.0,True,,2,True,True
+283623591,晗霏舍民宿,2019-08-07,China,within an hour,100.0,100.0,True,,1,True,True
+365529921,弢,2020-09-02,China,within an hour,100.0,96.0,True,,2,True,True
+379788598,古北水镇,2020-12-12,China,within an hour,80.0,100.0,True,,1,True,True
+261808903,琉筑,2019-05-14,China,,,100.0,False,,1,True,True
+379905125,先生,2020-12-13,China,within an hour,100.0,100.0,True,,9,True,True
+370353836,FollowME曼茹,2020-10-02,China,within a day,100.0,82.0,False,,12,True,True
+370996452,文辉,2020-10-07,China,within an hour,100.0,100.0,False,,1,True,True
+128779901,Walen,2017-05-03,China,within an hour,100.0,100.0,True,,3,True,True
+364285183,我有一座大房子·轰趴民宿,2020-08-25,China,within an hour,100.0,90.0,False,,1,True,True
+378532821,认证手机用户1895,2020-12-06,China,within an hour,80.0,100.0,False,,5,True,True
+253051628,Ruby,2019-04-03,China,within an hour,100.0,99.0,False,,4,True,True
+380524511,Me空间别墅轰趴馆,2020-12-17,China,within an hour,100.0,100.0,False,,1,True,True
+97251926,澈,2016-09-29,China,,,100.0,False,,1,True,True
+274396576,山麓,2019-07-08,China,,,100.0,False,,3,True,True
+380488992,小凤,2020-12-16,China,within a few hours,100.0,100.0,False,,1,True,True
+380676574,瑜年,2020-12-18,China,within a day,100.0,100.0,False,,5,True,True
+329504389,虎哥,2020-01-21,China,,,100.0,False,,1,True,True
+259425617,毅,2019-05-02,China,within an hour,100.0,100.0,True,,2,True,True
+381320322,认证手机用户5596,2020-12-23,China,within an hour,100.0,100.0,True,,2,True,True
+366328296,民宿,2020-09-07,China,within an hour,100.0,100.0,False,,2,True,True
+381417548,认证手机用户5268,2020-12-24,China,within an hour,100.0,100.0,False,,2,True,True
+381051733,慢生活精品民宿,2020-12-21,CN,within a few hours,100.0,100.0,False,,1,True,True
+256547723,Follow Me,2019-04-18,China,within an hour,100.0,100.0,True,,9,True,True
+381443550,韩磊,2020-12-24,China,,,100.0,False,,1,True,True
+273917700,子龙,2019-07-06,China,within a day,100.0,100.0,False,,1,True,True
+382229357,认证手机用户8268,2020-12-29,China,within an hour,100.0,100.0,False,,1,True,True
+249527696,自在怀里,2019-03-17,China,within an hour,100.0,100.0,True,,2,True,True
+120172889,王春华,2017-03-11,"Huairou, Beijing, China",within an hour,100.0,86.0,False,,1,True,True
+107321527,艳,2016-12-15,China,within an hour,100.0,100.0,False,,5,True,True
+382905894,楠,2021-01-03,China,within an hour,90.0,100.0,True,,1,True,True
+382934071,惠英,2021-01-04,China,within an hour,100.0,100.0,False,,3,True,True
+360422298,Apple,2020-08-04,China,within an hour,100.0,100.0,True,,2,True,True
+361704652,明涛,2020-08-11,China,within a day,100.0,100.0,False,,1,True,True
+383718650,认证手机用户1929,2021-01-09,China,within an hour,100.0,100.0,False,,1,True,True
+384011711,龙凤乾祥民宿,2021-01-10,China,,,100.0,False,,1,True,True
+384320827,翠英,2021-01-13,China,within an hour,100.0,100.0,False,,3,True,True
+383422685,色彩和光酒店北京国贸店,2021-01-07,China,within an hour,100.0,100.0,False,,1,True,True
+384769853,小嘛那,2021-01-16,China,within an hour,100.0,100.0,False,,3,True,True
+381915803,王建华,2020-12-27,China,,,100.0,False,,1,True,True
+385053434,思诺,2021-01-18,China,,,92.0,False,,2,True,True
+385445285,轻宿·花间,2021-01-21,China,within an hour,97.0,100.0,False,,8,True,True
+385162194,王俊觉,2021-01-18,China,,,,False,,0,True,True
+349697469,红陶,2020-06-11,China,within an hour,100.0,100.0,True,,2,True,True
+365904223,小悠,2020-09-04,China,within an hour,100.0,100.0,True,,3,True,True
+386336873,逸时光民宿,2021-01-28,China,within a day,100.0,100.0,False,,1,True,True
+386447508,栖梦小院,2021-01-29,China,within an hour,100.0,99.0,True,,10,True,True
+187176095,豆南山下,2018-04-30,China,within an hour,100.0,100.0,True,,0,True,True
+252452632,见见,2019-04-01,CN,,,100.0,False,,1,True,True
+18306878,Jing,2014-07-18,China,within an hour,100.0,97.0,True,,2,True,True
+254801175,孙伟,2019-04-11,China,within a few hours,100.0,100.0,False,,1,True,True
+387119561,鑫,2021-02-03,China,within an hour,100.0,100.0,True,,1,True,True
+353963952,我是房东王姐,2020-07-06,China,,,50.0,False,,1,True,True
+103778973,珍珍,2016-11-15,China,within an hour,100.0,100.0,False,,3,True,True
+387456640,热心市民曹先生,2021-02-05,China,within an hour,100.0,100.0,False,,1,True,True
+272330539,春立,2019-06-29,China,within an hour,100.0,100.0,False,,2,True,True
+256405774,李涛,2019-04-17,China,within an hour,100.0,100.0,False,,1,True,True
+387762099,胜兰,2021-02-08,China,,,100.0,False,,2,True,True
+381916792,晓哲,2020-12-27,China,within an hour,100.0,100.0,False,,1,True,True
+388332489,八达岭山楂•墅民宿~千寻,2021-02-12,China,within an hour,100.0,93.0,False,,2,True,True
+300622821,幻静民宿,2019-10-06,China,within an hour,100.0,100.0,False,,1,True,True
+388729597,全村的希望,2021-02-15,China,within an hour,100.0,100.0,False,,1,True,True
+355370909,初见民宿,2020-07-10,CN,within an hour,100.0,100.0,False,,1,True,True
+251752123,大家,2019-03-28,China,within an hour,100.0,100.0,False,,5,True,True
+389039798,雙礼雅舍,2021-02-18,China,within an hour,100.0,100.0,False,,1,True,True
+116344177,海峰,2017-02-14,China,within an hour,100.0,100.0,True,,1,True,True
+133518277,悦,2017-06-05,China,within an hour,100.0,100.0,True,,1,True,True
+99720898,小鹭,2016-10-15,China,within an hour,100.0,100.0,True,,4,True,True
+389297954,亚男,2021-02-19,China,within an hour,100.0,100.0,False,,1,True,True
+388259426,亲然,2021-02-12,China,within an hour,100.0,100.0,True,,4,True,True
+389466993,认证手机用户9665,2021-02-21,China,within an hour,100.0,100.0,False,,1,True,True
+389484289,认证手机用户5700,2021-02-21,China,within a few hours,100.0,100.0,False,,1,True,True
+245014016,Ye,2019-02-23,China,within an hour,100.0,95.0,True,,2,True,True
+172786547,恋儿,2018-02-11,China,,,,False,,0,True,True
+284412727,拾山原舍,2019-08-10,"Pinggu District, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+389611617,团子,2021-02-22,China,within an hour,100.0,100.0,True,,1,True,True
+389430989,咱家,2021-02-20,China,within an hour,100.0,100.0,False,,1,True,True
+389066527,房东小尹,2021-02-18,China,,,100.0,False,,1,True,True
+111655049,Luoling,2017-01-15,China,within a few hours,80.0,86.0,False,,1,True,True
+123034139,王,2017-03-28,China,within an hour,100.0,100.0,True,,7,True,True
+255698431,奇,2019-04-14,China,within an hour,100.0,100.0,True,,1,True,True
+390901811,莉,2021-03-02,CN,within an hour,100.0,100.0,False,,3,True,True
+391042258,认证手机用户3181,2021-03-03,China,within an hour,100.0,100.0,False,,3,True,True
+389579785,智,2021-02-22,CN,,,100.0,False,,1,True,True
+391207180,晓画,2021-03-04,China,,,100.0,False,,1,True,True
+242851889,Snow,2019-02-13,China,within an hour,100.0,100.0,True,,4,True,True
+233602986,山居时光,2019-01-01,China,within an hour,100.0,100.0,True,,1,True,True
+391764497,欢喜,2021-03-09,China,within an hour,100.0,100.0,True,,2,True,True
+128814497,艾雪,2017-05-04,China,within an hour,100.0,100.0,True,,5,True,True
+391776764,东梅,2021-03-09,China,within an hour,100.0,100.0,False,,5,True,True
+391873645,芮同,2021-03-09,China,within an hour,100.0,100.0,False,,1,True,True
+392201277,鼎礼大家,2021-03-12,China,within an hour,100.0,71.0,False,,3,True,True
+42565149,Susan,2015-08-26,China,within an hour,97.0,100.0,False,,7,True,True
+392268670,认证手机用户9219,2021-03-12,China,,,100.0,False,,1,True,True
+392356424,婷,2021-03-13,CN,,,100.0,False,,4,True,True
+389888036,琦,2021-02-24,China,within an hour,100.0,100.0,False,,1,True,True
+348288156,欣欣,2020-06-01,China,,,100.0,False,,3,True,True
+390722243,徐科,2021-03-01,China,,,100.0,False,,1,True,True
+300407638,燕,2019-10-06,China,within an hour,100.0,100.0,False,,1,True,True
+393078275,丽,2021-03-18,CN,,,100.0,False,,1,True,True
+393201550,浅山居,2021-03-18,"Huairou District, Beijing, China",,,83.0,True,,1,True,True
+348504251,友Plus民宿,2020-06-02,China,within an hour,100.0,100.0,False,,0,True,True
+393364557,Z.,2021-03-20,China,within an hour,100.0,100.0,False,,1,True,True
+153847253,静,2017-10-09,China,within an hour,100.0,99.0,True,,1,True,True
+393394148,雷,2021-03-20,China,a few days or more,20.0,100.0,False,,1,True,True
+155476850,贵真,2017-10-20,China,within an hour,100.0,100.0,False,,1,True,True
+393492732,拾光·微宿亚亚,2021-03-21,China,within an hour,100.0,100.0,False,,1,True,True
+393662205,晨菲阁小院,2021-03-22,China,,,,False,,1,True,True
+393691014,拾光•山水~白龙潭亲子民宿,2021-03-22,"Beijing, Beijing, China",within a few hours,100.0,100.0,True,,1,True,True
+332888232,&翡翠&,2020-02-02,China,,,100.0,False,,0,True,True
+393856799,山色,2021-03-23,China,within an hour,100.0,100.0,False,,3,True,True
+107100165,腾飞,2016-12-13,China,,,100.0,True,,1,True,True
+393965617,四季物语,2021-03-24,China,within an hour,100.0,100.0,False,,1,True,True
+393386523,丽红,2021-03-20,China,within an hour,100.0,100.0,False,,1,True,True
+394223132,花筑,2021-03-26,China,within an hour,100.0,100.0,False,,3,True,True
+388779547,认证手机用户6713,2021-02-16,China,within an hour,100.0,100.0,False,,1,True,True
+257058888,飞,2019-04-20,China,within an hour,100.0,100.0,False,,2,True,True
+379896072,柱,2020-12-13,China,within an hour,100.0,100.0,False,,1,True,True
+364668279,黄豆儿sysoya.,2020-08-27,China,,,100.0,False,,1,True,True
+362559003,然,2020-08-15,CN,,,100.0,False,,1,True,True
+361502171,静,2020-08-10,China,within an hour,100.0,100.0,True,,1,True,True
+384069543,闫,2021-01-11,China,within an hour,100.0,100.0,True,,3,True,True
+114117628,Yang,2017-01-31,China,within an hour,100.0,100.0,False,,1,True,True
+134625099,杰,2017-06-12,China,within an hour,100.0,100.0,True,,1,True,True
+394811626,伟,2021-03-30,China,within an hour,100.0,100.0,False,,1,True,True
+394813046,兵,2021-03-30,China,,,,False,,1,True,True
+97779995,IPandaBo,2016-10-03,China,within an hour,100.0,100.0,True,,1,True,True
+387203572,小和,2021-02-03,China,within an hour,100.0,100.0,False,,9,True,True
+395055063,北京锦缘,2021-04-01,China,within an hour,100.0,100.0,False,,2,True,True
+121320863,博,2017-03-18,China,within an hour,100.0,100.0,False,,1,True,True
+18479885,利ti An,2014-07-20,China,within a few hours,100.0,100.0,False,,1,True,True
+395433135,核桃,2021-04-04,China,,,100.0,False,,1,True,True
+295972791,星期五,2019-09-18,China,within an hour,95.0,100.0,False,,3,True,True
+395570454,金凤,2021-04-05,China,within an hour,100.0,100.0,False,,1,True,True
+368493668,松哥(Sophie),2020-09-21,China,within an hour,100.0,100.0,False,,4,True,True
+38077998,Frank,2015-07-10,China,within an hour,100.0,100.0,False,,1,True,True
+395569732,庭楠别院,2021-04-05,China,within an hour,100.0,100.0,False,,1,True,True
+391075687,掌门,2021-03-04,China,within an hour,100.0,86.0,False,,1,True,True
+374259682,Runner,2020-11-03,China,within an hour,100.0,100.0,False,,1,True,True
+395444193,幽兰小院,2021-04-04,China,within an hour,100.0,95.0,False,,0,True,True
+395894402,绘家民宿,2021-04-07,China,within an hour,100.0,100.0,True,,18,True,True
+260929108,云,2019-05-10,China,within an hour,91.0,90.0,False,,14,True,True
+396023903,西下木,2021-04-08,CN,,,100.0,False,,1,True,True
+395978277,悦居民宿酒店,2021-04-07,China,within an hour,80.0,100.0,False,,2,True,True
+171901430,晨钰,2018-02-05,China,,,100.0,False,,1,True,True
+396203028,春生,2021-04-09,China,within an hour,100.0,100.0,True,,5,True,True
+396311059,东旺,2021-04-10,China,within an hour,100.0,100.0,False,,1,True,True
+368508646,卷云小院,2020-09-21,China,within an hour,100.0,100.0,False,,1,True,True
+395999283,一山居,2021-04-07,"Beijing, Beijing, China",within an hour,100.0,100.0,True,,3,True,True
+396410878,鹏,2021-04-11,China,within an hour,100.0,100.0,False,,1,True,True
+376098451,素华,2020-11-18,"Beijing, Beijing, China",within a day,100.0,100.0,False,,1,True,True
+263095681,罗,2019-05-20,China,within an hour,100.0,100.0,False,,1,True,True
+395345460,认证手机用户4275,2021-04-03,China,within an hour,100.0,100.0,True,,6,True,True
+369581686,秀伟,2020-09-27,CN,,,50.0,False,,1,True,True
+214501039,徐,2018-09-09,China,within an hour,100.0,100.0,True,,1,True,True
+395108751,四月天,2021-04-01,China,within an hour,100.0,100.0,False,,1,True,True
+320184128,Alaia,2019-12-23,China,within an hour,100.0,100.0,False,,1,True,True
+396699418,伴山云居民宿,2021-04-12,China,within an hour,100.0,100.0,False,,1,True,True
+396546311,认证手机用户6728,2021-04-11,China,within an hour,100.0,100.0,False,,1,True,True
+396576454,源,2021-04-12,China,within an hour,100.0,100.0,False,,1,True,True
+396729068,我家我院柒溪,2021-04-13,"Huairou Qu, Beijing Shi, China",,,50.0,False,,1,True,True
+394245496,草木清觀,2021-03-26,China,within an hour,100.0,100.0,True,,3,True,True
+396905325,十渡原生态小院,2021-04-14,China,within an hour,100.0,100.0,False,,1,True,True
+396912097,青海,2021-04-14,China,within an hour,100.0,50.0,False,,1,True,True
+396991895,大力,2021-04-14,China,within an hour,100.0,100.0,False,,1,True,True
+231394304,Hong,2018-12-19,China,within an hour,100.0,100.0,False,,2,True,True
+393951251,刘静,2021-03-24,China,within an hour,100.0,100.0,True,,4,True,True
+391926692,温馨小屋,2021-03-10,China,within an hour,100.0,100.0,False,,1,True,True
+397183116,青藤,2021-04-16,China,,,100.0,False,,1,True,True
+389318802,北京梦庄周民宿,2021-02-20,China,within an hour,100.0,100.0,False,,5,True,True
+397288126,A东门小筑,2021-04-16,China,,,,False,,2,True,True
+42075769,源,2015-08-20,China,within an hour,100.0,100.0,False,,1,True,True
+51537827,Nikki,2015-12-16,China,within an hour,100.0,93.0,False,,1,True,True
+397349677,攀登,2021-04-17,China,within an hour,100.0,100.0,False,,1,True,True
+397454461,云涧-似海,2021-04-18,China,,,100.0,False,,1,True,True
+397575248,肖大馅儿,2021-04-18,China,within an hour,100.0,100.0,False,,1,True,True
+397365219,认证手机用户5007,2021-04-17,China,within an hour,100.0,100.0,False,,2,True,True
+397601062,水镇,2021-04-18,China,within a few hours,71.0,100.0,False,,2,True,True
+372273404,时间煮雨,2020-10-17,CN,,,100.0,False,,1,True,True
+397653600,海兰,2021-04-19,China,,,100.0,False,,1,True,True
+397665351,明紫~,2021-04-19,China,,,100.0,False,,1,True,True
+397668851,认证手机用户0729,2021-04-19,China,within an hour,100.0,100.0,True,,3,True,True
+352340297,认证手机用户1890,2020-06-28,China,within an hour,100.0,67.0,False,,1,True,True
+397806279,岩,2021-04-20,CN,,,100.0,False,,1,True,True
+397831889,玉虎,2021-04-20,China,within an hour,100.0,100.0,False,,1,True,True
+397939751,天天,2021-04-21,China,within an hour,100.0,100.0,True,,1,True,True
+397973942,恺,2021-04-21,China,within an hour,100.0,100.0,False,,0,True,True
+75828550,(Phone number hidden by Airbnb),2016-06-04,China,within an hour,100.0,100.0,True,,1,True,True
+345248375,太阳花脐橙多多,2020-05-03,China,within an hour,100.0,100.0,False,,2,True,True
+397457692,信守诺言,2021-04-18,CN,,,100.0,False,,1,True,True
+380390813,永龙,2020-12-16,China,within an hour,100.0,100.0,False,,5,True,True
+396911356,认证手机用户8481,2021-04-14,China,,,100.0,False,,1,True,True
+255702228,威,2019-04-14,China,,,100.0,False,,1,True,True
+396703608,艳英,2021-04-12,"Pinggu District, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+398422316,(Phone number hidden by Airbnb),2021-04-24,China,within an hour,100.0,100.0,False,,2,True,True
+398501531,怀义,2021-04-24,China,,,100.0,False,,1,True,True
+398525837,甜心儿,2021-04-25,China,within an hour,100.0,100.0,False,,1,True,True
+398558355,贺,2021-04-25,China,within an hour,100.0,96.0,False,,5,True,True
+145829405,逸仙,2017-08-13,China,within an hour,100.0,100.0,False,,1,True,True
+398624588,认证手机用户6692,2021-04-25,China,within an hour,100.0,100.0,False,,1,True,True
+398670462,认证手机用户1823,2021-04-26,China,within an hour,100.0,100.0,False,,1,True,True
+225324070,宏伟,2018-11-11,China,within an hour,100.0,100.0,False,,9,True,True
+398386140,观山名宿,2021-04-24,China,a few days or more,25.0,100.0,False,,2,True,True
+78291823,烨,2016-06-17,China,,,100.0,False,,1,True,True
+398831774,悦彤(彤彤民宿),2021-04-26,China,within an hour,100.0,100.0,False,,1,True,True
+280816861,半山小院,2019-07-31,CN,within an hour,100.0,50.0,False,,1,True,True
+396606258,湘竹,2021-04-12,China,,,100.0,True,,3,True,True
+287080457,一,2019-08-19,China,within an hour,100.0,100.0,True,,1,True,True
+398066211,文芳,2021-04-21,China,,,,False,,1,True,True
+280814155,待你如初,2019-07-31,China,within an hour,100.0,100.0,True,,1,True,True
+398888693,明华,2021-04-27,China,within an hour,100.0,100.0,False,,1,True,True
+398519384,士学,2021-04-25,China,within an hour,100.0,100.0,False,,1,True,True
+380746821,拾光里·in The Light,2020-12-18,China,within an hour,100.0,99.0,True,,3,True,True
+199851799,神山時光,2018-07-04,China,within an hour,100.0,,False,,1,True,True
+399109294,三石山舍,2021-04-28,China,within an hour,100.0,100.0,False,,1,True,True
+399134868,马腾连,2021-04-28,China,,,100.0,False,,1,True,True
+52072921,有客•山院,2015-12-23,China,,,75.0,True,,1,True,True
+397492733,红艳,2021-04-18,China,within an hour,100.0,100.0,False,,1,True,True
+399158872,贺玲,2021-04-29,China,,,100.0,False,,1,True,True
+348511284,认证手机用户6820,2020-06-03,China,within an hour,100.0,100.0,False,,1,True,True
+399199332,梦旅,2021-04-29,China,within an hour,100.0,100.0,False,,1,True,True
+262536707,淡飘,2019-05-18,China,within an hour,100.0,100.0,False,,1,True,True
+211115458,邢海明,2018-08-22,China,within an hour,100.0,100.0,False,,1,True,True
+345432712,杨,2020-05-05,"Fangshan Qu, Beijing Shi, China",within an hour,100.0,100.0,True,,4,True,True
+399316431,认证手机用户6659,2021-04-30,China,,,100.0,False,,1,True,True
+399487601,日月,2021-05-01,CN,,,,False,,1,True,True
+399502730,蜡笔小新,2021-05-01,China,within an hour,100.0,100.0,False,,1,True,True
+398837878,认证手机用户6755,2021-04-27,China,within an hour,100.0,100.0,False,,1,False,True
+399453748,健,2021-05-01,China,within an hour,100.0,100.0,False,,1,True,True
+375806536,李敏,2020-11-15,China,,,100.0,False,,1,True,True
+254073981,靓伟,2019-04-08,China,,,100.0,False,,2,True,True
+373571249,洋,2020-10-28,China,within an hour,100.0,100.0,True,,5,True,True
+332117149,猛,2020-01-30,China,within an hour,100.0,100.0,False,,1,True,True
+399737428,天宏山居,2021-05-02,China,within a few hours,100.0,,False,,1,True,True
+399762790,珺,2021-05-03,China,within an hour,100.0,100.0,False,,1,True,True
+399760292,李振洲,2021-05-03,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+259067872,赢,2019-04-30,China,,,100.0,False,,1,True,True
+117108271,京伟,2017-02-19,China,within an hour,100.0,100.0,False,,1,True,True
+399605280,桃李,2021-05-02,China,within an hour,100.0,100.0,False,,1,True,True
+235165112,凯,2019-01-08,China,within an hour,83.0,100.0,True,,12,True,True
+398642550,振环,2021-04-25,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+394042586,桃吾知,2021-03-24,China,within an hour,100.0,96.0,True,,2,True,True
+399967115,郝海鹏,2021-05-04,China,,,100.0,False,,1,True,True
+400086627,士新,2021-05-05,China,within an hour,100.0,100.0,False,,1,True,True
+400227860,Tao,2021-05-05,China,within an hour,100.0,100.0,False,,2,True,True
+399959501,爱刚,2021-05-04,China,within an hour,100.0,100.0,False,,1,True,True
+400238279,望南山#晨晨,2021-05-06,China,,,100.0,False,,1,True,True
+107542870,Li,2016-12-17,China,within a few hours,100.0,67.0,False,,1,True,True
+399875194,认证手机用户6840,2021-05-03,"Beijing, Beijing, China",within a few hours,100.0,,False,,1,True,True
+313702153,木杉,2019-12-02,China,within an hour,100.0,100.0,False,,1,True,True
+400373506,芦燕军,2021-05-06,China,within an hour,100.0,100.0,False,,1,True,True
+400372367,佳,2021-05-06,China,within an hour,100.0,100.0,False,,1,True,True
+362145672,认证手机用户9327,2020-08-13,China,,,100.0,False,,3,True,True
+272742774,徽姑娘在北方—小样姐姐,2019-07-01,China,within an hour,100.0,100.0,False,,1,True,True
+400395556,恒,2021-05-07,China,within an hour,100.0,100.0,False,,1,True,True
+400509264,连军,2021-05-07,China,within an hour,100.0,100.0,False,,1,True,True
+400514721,一屋一田,2021-05-07,China,within an hour,100.0,100.0,False,,1,True,True
+378925384,醉懒轻奢民宿,2020-12-09,China,within an hour,89.0,96.0,True,,6,True,True
+400670788,悦,2021-05-09,China,,,100.0,False,,1,True,True
+43779576,喆,2015-09-09,China,within an hour,100.0,96.0,True,,1,True,True
+400805359,小红,2021-05-09,China,within an hour,100.0,100.0,False,,1,True,True
+400829667,麓无事咖啡民宿,2021-05-10,China,within a few hours,100.0,100.0,True,,3,True,True
+264052141,香兰,2019-05-25,China,,,100.0,False,,1,True,True
+400788376,认证手机用户5891,2021-05-09,China,within an hour,100.0,100.0,False,,1,True,True
+390179246,孙举,2021-02-26,China,within an hour,100.0,75.0,False,,1,True,True
+71583986,Zhang,2016-05-12,China,,,100.0,False,,1,True,True
+400993591,认证手机用户6906,2021-05-11,China,within an hour,100.0,100.0,False,,1,True,True
+400995844,认证手机用户5395,2021-05-11,China,within an hour,100.0,100.0,False,,2,True,True
+398693942,江满,2021-04-26,"Beijing, Beijing, China",within a day,67.0,0.0,False,,0,True,True
+276829874,花筑·观山雾隐民宿,2019-07-17,China,within an hour,100.0,100.0,True,,7,True,True
+401306466,明兰,2021-05-12,China,within an hour,100.0,100.0,True,,1,True,True
+164386046,心归宿,2017-12-27,China,within an hour,94.0,100.0,False,,1,True,True
+401336066,丛智,2021-05-13,China,,,100.0,False,,1,True,True
+401493480,学会,2021-05-14,China,within an hour,100.0,100.0,False,,1,True,True
+401496872,丽娜,2021-05-14,China,within an hour,100.0,100.0,False,,1,True,True
+276668987,亓,2019-07-16,China,within an hour,100.0,100.0,False,,1,True,True
+401309224,认证手机用户4166,2021-05-12,China,,,100.0,False,,1,True,True
+395584700,管家小陈,2021-04-05,China,,,100.0,False,,1,True,True
+401670436,秀明,2021-05-15,China,within an hour,100.0,100.0,False,,3,True,True
+401818939,川里特别棒,2021-05-16,China,,,100.0,False,,2,True,True
+192811209,Si,2018-06-01,China,within an hour,100.0,100.0,True,,2,True,True
+402024149,院里,2021-05-17,China,within an hour,100.0,100.0,False,,3,True,True
+400570293,认证手机用户5679,2021-05-08,China,within an hour,100.0,100.0,False,,1,True,True
+398412501,宗雪,2021-04-24,China,,,,False,,1,True,True
+402164510,宇辰,2021-05-18,China,,,100.0,False,,1,True,True
+402186746,认证手机用户7012,2021-05-18,China,within an hour,100.0,100.0,False,,1,True,True
+402206247,振发,2021-05-18,China,,,100.0,False,,4,True,True
+401946856,涛,2021-05-16,China,,,100.0,False,,5,True,True
+182179033,小筑,2018-04-03,China,within an hour,100.0,100.0,False,,3,True,True
+391354634,家有龙凤,2021-03-06,China,within an hour,100.0,100.0,False,,1,True,True
+402334458,燕子,2021-05-19,China,within an hour,100.0,100.0,False,,1,True,True
+402458948,认证手机用户8135,2021-05-19,China,within an hour,100.0,100.0,False,,1,True,True
+271950957,小唐,2019-06-28,China,,,100.0,False,,1,True,True
+193349908,斌,2018-06-04,China,within an hour,100.0,100.0,True,,9,True,True
+402636984,凯,2021-05-20,China,,,100.0,False,,1,True,True
+273415570,张,2019-07-03,China,within an hour,100.0,100.0,False,,1,True,True
+388822186,认证手机用户7636,2021-02-16,China,within an hour,100.0,91.0,False,,3,True,True
+296718169,Tony,2019-09-21,China,within an hour,100.0,100.0,False,,0,True,True
+161683299,格,2017-12-07,China,within an hour,100.0,54.0,False,,1,True,True
+398841127,北巷七号民宿,2021-04-27,China,within a few hours,100.0,100.0,False,,2,True,True
+395045153,18岁的胡杨,2021-03-31,China,within an hour,100.0,100.0,False,,1,True,True
+373443280,平,2020-10-27,China,,,100.0,False,,1,True,True
+402656952,认证手机用户7773,2021-05-21,China,,,100.0,False,,1,True,True
+401939812,元气拾光,2021-05-16,China,,,67.0,False,,1,True,True
+137566695,小爽,2017-06-28,China,,,100.0,True,,1,True,True
+344682139,如心,2020-04-26,China,within an hour,100.0,100.0,True,,16,True,True
+403426479,蛮蛮喜院管家,2021-05-25,China,within an hour,100.0,100.0,False,,1,True,True
+402870700,遇见·山舍,2021-05-22,China,within an hour,100.0,100.0,False,,1,True,True
+397656317,认证手机用户9176,2021-04-19,CN,,,,False,,1,True,True
+347492139,Lee,2020-05-24,China,,,,False,,14,True,True
+207935728,小强,2018-08-07,China,within an hour,100.0,100.0,False,,1,True,True
+403758297,清溪,2021-05-26,China,within an hour,100.0,100.0,False,,1,True,True
+403791124,下宿,2021-05-27,CN,within an hour,100.0,100.0,False,,1,True,True
+402147832,婷,2021-05-18,China,within an hour,100.0,100.0,False,,5,True,True
+317300594,SeaGreen,2019-12-14,China,,,100.0,False,,1,True,True
+403979870,雲集,2021-05-28,China,within an hour,100.0,100.0,False,,1,True,True
+404085082,笑星414111,2021-05-28,China,within an hour,100.0,100.0,True,,1,True,True
+404103257,悦鸣庄,2021-05-29,China,,,100.0,False,,1,True,True
+212710772,娜娜,2018-08-30,China,within a day,67.0,100.0,False,,1,True,True
+404179392,阿弥陀佛,2021-05-29,China,within an hour,100.0,,False,,3,True,True
+37481612,Bill,2015-07-04,China,within an hour,100.0,100.0,False,,2,True,True
+404238251,伟巍,2021-05-29,China,,,100.0,False,,1,True,True
+386957758,王志,2021-02-02,China,within a few hours,100.0,100.0,False,,2,True,True
+312837442,Hanwen,2019-11-28,China,within an hour,100.0,100.0,False,,3,True,True
+404394791,晓娇,2021-05-30,China,within an hour,100.0,100.0,False,,3,True,True
+46052873,Daniel,2015-10-08,China,within an hour,100.0,100.0,True,,2,True,True
+91594546,三良家SunlandHome,2016-08-24,China,within an hour,100.0,100.0,False,,5,True,True
+282368367,鹏,2019-08-04,China,,,50.0,False,,1,True,True
+404430776,志良,2021-05-31,CN,within an hour,100.0,100.0,False,,1,False,True
+404441512,正阳,2021-05-31,China,within a day,67.0,100.0,False,,1,True,True
+404450411,晓欢,2021-05-31,"Changping District, Beijing, China",within an hour,67.0,100.0,False,,1,True,True
+400406752,坤,2021-05-07,China,within a day,100.0,100.0,False,,1,True,True
+404601644,䒕䒕,2021-05-31,China,,,100.0,False,,3,True,True
+404650280,淑红,2021-06-01,China,,,,False,,1,True,True
+331646687,The Two,2020-01-29,China,within an hour,100.0,100.0,False,,1,True,True
+357743850,熊,2020-07-21,China,within an hour,100.0,,False,,3,True,True
+404467624,馨苑-山谷之南,2021-05-31,China,within a day,50.0,100.0,False,,3,True,True
+403817155,涵庭小院,2021-05-27,China,within an hour,100.0,100.0,False,,1,True,True
+256706484,家影,2019-04-18,"Fangshan District, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+404962579,鑫,2021-06-02,China,,,100.0,False,,2,True,True
+392766917,逅花园民宿,2021-03-16,"Beijing, Beijing, China",,,100.0,False,,1,True,True
+405017632,超,2021-06-03,China,within an hour,100.0,33.0,False,,1,True,True
+405020400,明泽,2021-06-03,China,within an hour,100.0,100.0,False,,6,True,True
+405024377,欢,2021-06-03,China,within an hour,100.0,100.0,False,,1,True,True
+405005550,房东阿拉蕾,2021-06-03,China,within an hour,100.0,100.0,False,,1,True,True
+405062555,认证手机用户9296,2021-06-03,China,,,100.0,False,,2,True,True
+252274440,婧,2019-03-31,China,within an hour,100.0,100.0,False,,1,True,True
+260555691,晴,2019-05-08,China,within an hour,100.0,92.0,False,,4,True,True
+198114714,永燕,2018-06-26,China,,,100.0,False,,13,True,True
+405353117,广臣,2021-06-05,China,within an hour,100.0,100.0,False,,1,True,True
+367141860,山谷时光,2020-09-11,China,within an hour,100.0,100.0,False,,1,True,True
+405194935,古北水镇-成君民俗,2021-06-04,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+405387219,仕英,2021-06-05,China,within an hour,100.0,100.0,False,,1,True,True
+208163331,鹏,2018-08-08,China,within an hour,100.0,100.0,False,,1,True,True
+404452064,一帆风顺啊,2021-05-31,China,within an hour,100.0,100.0,False,,1,True,True
+215159752,维凯,2018-09-13,China,within an hour,100.0,50.0,False,,1,True,True
+26717110,Nemo,2015-01-26,China,,,100.0,False,,1,True,True
+405700583,刘利,2021-06-06,"Huairou Qu, Beijing Shi, China",within an hour,100.0,100.0,False,,6,True,True
+254055687,欢,2019-04-08,China,,,100.0,False,,1,True,True
+170092751,艺珊,2018-01-26,China,,,100.0,True,,4,True,True
+405729616,山边小院,2021-06-07,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+393787328,认证手机用户7336,2021-03-23,"Huairou District, Beijing, China",,,100.0,False,,1,True,True
+405748524,晓院民宿,2021-06-07,China,within an hour,100.0,100.0,True,,4,True,True
+405855245,认证手机用户2797,2021-06-07,"Beijing, Beijing, China",,,67.0,False,,1,True,True
+102928367,Ashley,2016-11-07,China,,,100.0,False,,1,True,True
+405916969,半山居(刘洋),2021-06-08,China,within an hour,100.0,100.0,False,,1,True,True
+400081083,十二月,2021-05-05,China,within an hour,100.0,100.0,False,,6,True,True
+141944130,炜,2017-07-23,China,within an hour,100.0,92.0,True,,8,True,True
+301605973,Monica-莫妮卡,2019-10-11,China,within an hour,100.0,100.0,False,,3,True,True
+371464009,米仓2号院精品民宿,2020-10-11,China,within an hour,100.0,100.0,False,,2,True,True
+315412050,永祥,2019-12-07,China,within an hour,100.0,90.0,False,,4,True,True
+406170159,糖果麻麻,2021-06-09,China,within an hour,100.0,100.0,False,,1,True,True
+130658878,紫藤,2017-05-16,China,within an hour,100.0,100.0,False,,1,True,True
+118019525,阳春白雪·九墅,2017-02-25,China,within an hour,100.0,83.0,False,,0,True,True
+296271831,赵土豆,2019-09-19,China,within an hour,100.0,100.0,False,,1,True,True
+130513479,辛未,2017-05-15,China,within an hour,100.0,71.0,False,,4,True,True
+406544251,认证手机用户8660,2021-06-11,China,,,,False,,1,True,True
+406805563,宗华,2021-06-12,China,within a few hours,88.0,100.0,False,,1,True,True
+94427415,蔚宁,2016-09-10,China,within an hour,100.0,100.0,False,,1,True,True
+407008624,认证手机用户0248,2021-06-14,China,,,100.0,False,,1,True,True
+185317144,嗣鑫,2018-04-20,China,within an hour,100.0,100.0,False,,1,True,True
+405903469,认证手机用户1680,2021-06-08,China,within an hour,100.0,100.0,False,,8,True,True
+407187172,喆,2021-06-14,China,within an hour,100.0,100.0,False,,1,True,True
+407194100,峮山别院,2021-06-14,China,,,100.0,False,,1,True,True
+133458113,旭,2017-06-04,China,within an hour,100.0,100.0,False,,1,True,True
+407212358,俊,2021-06-15,China,,,100.0,False,,1,True,True
+289329763,小冯,2019-08-27,China,within an hour,100.0,100.0,True,,1,True,True
+90407931,然,2016-08-17,China,within an hour,90.0,100.0,False,,1,True,True
+400825205,海波,2021-05-10,China,within an hour,100.0,100.0,True,,11,True,True
+407396468,认证手机用户4880,2021-06-16,China,within an hour,100.0,93.0,False,,1,True,True
+407439750,木营居娟姐,2021-06-16,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+407586179,成才,2021-06-17,China,,,100.0,False,,1,True,True
+407411701,雄,2021-06-16,China,within a day,50.0,100.0,False,,1,True,True
+407631049,玉龙,2021-06-17,China,within an hour,100.0,100.0,False,,1,True,True
+406107208,金帅,2021-06-08,China,within an hour,100.0,100.0,False,,1,True,True
+407732362,鲸晴,2021-06-17,China,,,100.0,False,,1,True,True
+398095198,醉懒民宿,2021-04-22,China,within an hour,100.0,100.0,False,,4,True,True
+407756853,欣苗,2021-06-18,China,within an hour,100.0,100.0,False,,1,True,True
+404319504,菲菲,2021-05-30,China,within an hour,100.0,100.0,False,,1,True,True
+407826291,艳,2021-06-18,China,within an hour,100.0,100.0,False,,1,True,True
+152546448,这家儿,2017-09-29,China,within an hour,100.0,99.0,True,,3,True,True
+405042908,李华南,2021-06-03,China,within an hour,100.0,100.0,True,,4,True,True
+407401194,认证手机用户0053,2021-06-16,China,within a few hours,100.0,100.0,False,,3,True,True
+407925891,志远,2021-06-19,China,within an hour,100.0,100.0,False,,1,True,True
+282070079,佳佳,2019-08-03,China,,,100.0,False,,1,True,True
+408288483,认证手机用户0828,2021-06-21,CN,a few days or more,0.0,100.0,False,,1,True,True
+408305984,不亦乐乎,2021-06-21,China,within a few hours,100.0,100.0,False,,1,True,True
+407772703,风泛·云里,2021-06-18,China,,,100.0,False,,1,True,True
+306356394,云浩,2019-11-02,China,within a day,100.0,,False,,1,True,True
+408529975,溪,2021-06-22,China,within an hour,100.0,100.0,True,,1,True,True
+252448671,Hao,2019-03-31,China,within an hour,100.0,100.0,False,,1,True,True
+408668462,翠伶,2021-06-23,China,within an hour,100.0,100.0,False,,1,True,True
+363859595,认证手机用户9292,2020-08-22,China,within an hour,100.0,100.0,False,,1,True,True
+86628426,一念花开山宿,2016-07-29,China,within an hour,100.0,100.0,False,,1,True,True
+398404070,认证手机用户6892,2021-04-24,China,within an hour,100.0,100.0,False,,4,True,True
+138270841,钱,2017-07-03,China,within an hour,100.0,100.0,False,,3,True,True
+408900516,认证手机用户0679,2021-06-24,"Fangshan District, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+408915659,认证手机用户3910,2021-06-24,China,within an hour,100.0,100.0,False,,1,True,True
+376327624,福丽,2020-11-19,"Huairou District, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+407607961,认证手机用户6644,2021-06-17,China,,,,False,,1,True,True
+408645509,晓宇,2021-06-22,CN,,,100.0,False,,1,True,True
+408339025,彭勃,2021-06-21,China,within an hour,100.0,100.0,False,,1,True,True
+176134072,徐,2018-03-02,China,within an hour,100.0,100.0,False,,1,True,True
+42657091,Claire,2015-08-27,China,within an hour,100.0,100.0,True,,7,True,True
+392930607,燕玲,2021-03-17,China,within an hour,100.0,95.0,False,,6,True,True
+286858833,先生,2019-08-18,"Pinggu Qu, Beijing Shi, China",within an hour,100.0,100.0,False,,1,True,True
+401811658,向山吉屋壹号店,2021-05-16,China,within an hour,100.0,100.0,False,,1,True,True
+104410183,Bo,2016-11-19,China,,,100.0,False,,1,True,True
+409826574,Maggie,2021-06-29,China,,,100.0,False,,2,True,True
+162176719,子澍,2017-12-10,China,within an hour,100.0,100.0,False,,1,True,True
+410055481,云雪,2021-06-30,China,within an hour,100.0,,False,,1,True,True
+405946211,云故巷,2021-06-08,China,,,100.0,False,,1,True,True
+281199060,Superman,2019-07-31,China,within an hour,100.0,100.0,False,,1,True,True
+410202793,民宿,2021-07-01,China,,,100.0,False,,2,True,True
+408911800,廷辉,2021-06-24,"房山区, 北京市, China",within an hour,100.0,100.0,False,,1,True,True
+137432816,儒刚,2017-06-28,China,within an hour,100.0,100.0,True,,7,True,True
+405002207,隐幽小宿,2021-06-03,China,,,100.0,False,,1,True,True
+410442539,先生,2021-07-02,China,,,,False,,1,True,True
+156597514,陌野,2017-10-29,China,,,86.0,False,,1,True,True
+62370911,和軒,2016-03-10,China,within an hour,100.0,100.0,False,Miyakojima-ku,8,True,True
+409614615,认证手机用户7948,2021-06-28,China,,,100.0,False,,1,True,True
+405708461,晓曦家,2021-06-07,China,within an hour,100.0,100.0,False,,1,True,True
+410743920,勇,2021-07-04,"Huairou District, Beijing, China",within a few hours,100.0,100.0,False,,1,True,True
+410811818,小飞,2021-07-04,China,within an hour,100.0,100.0,False,,1,True,True
+410088167,坞里山舍亲水民宿,2021-06-30,China,,,100.0,False,,1,True,True
+367016710,认证手机用户7553,2020-09-11,China,within an hour,100.0,100.0,False,,1,True,True
+410969107,星空,2021-07-05,China,within an hour,100.0,100.0,False,,2,True,True
+319828864,认证手机用户7890,2019-12-22,China,,,100.0,False,,3,True,True
+274423147,肥肥,2019-07-08,China,within an hour,100.0,100.0,False,,6,True,True
+410997754,龙缘,2021-07-05,China,within an hour,100.0,100.0,False,,1,True,True
+61872641,Ti,2016-03-06,China,within an hour,100.0,92.0,False,,1,True,True
+410618305,竹语•青藤,2021-07-03,China,within an hour,100.0,95.0,False,,0,True,True
+281314037,L  V,2019-08-01,CN,,,,False,,0,True,True
+409820755,北京雅诗阁来福士中心服务公寓小管家,2021-06-29,China,within a few hours,90.0,100.0,False,,0,True,True
+399458940,认证手机用户1941,2021-05-01,CN,within a day,50.0,100.0,False,,1,True,True
+411234303,Wesley,2021-07-06,"Huairou District, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+411251936,京哥,2021-07-06,China,,,,False,,1,True,True
+411133557,认证手机用户8989,2021-07-05,China,within an hour,100.0,100.0,False,,1,True,True
+295343527,可萱,2019-09-16,China,,,,False,,0,True,True
+411417057,小豆包,2021-07-07,China,within an hour,100.0,100.0,False,,1,True,True
+401507169,Summer,2021-05-14,China,within an hour,100.0,96.0,True,,2,True,True
+91963981,晶晶,2016-08-26,China,within an hour,100.0,100.0,False,,0,True,True
+376597811,Aili,2020-11-22,China,within an hour,100.0,100.0,True,,1,True,True
+411644980,丽,2021-07-08,China,within an hour,100.0,100.0,False,,1,True,True
+392343679,小虾米~,2021-03-13,China,,,100.0,False,,2,True,True
+412177085,认证手机用户3227,2021-07-11,CN,within an hour,100.0,100.0,False,,1,True,True
+410553740,海绵宝宝的四合院,2021-07-02,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,3,True,True
+257737044,强,2019-04-24,China,within an hour,100.0,100.0,False,,1,True,True
+412600592,城墙大院，你好,2021-07-13,China,within an hour,100.0,100.0,False,,1,True,True
+395173166,房东阿思,2021-04-01,China,within an hour,100.0,100.0,False,,1,True,True
+45653753,智贤,2015-10-03,China,within an hour,100.0,100.0,False,,1,True,True
+392473407,张健,2021-03-14,China,,,100.0,True,,1,True,True
+277269448,馨居,2019-07-19,China,within an hour,100.0,100.0,False,,1,True,True
+412837476,花筑·桂庭俊舍,2021-07-14,China,within an hour,100.0,100.0,False,,1,True,True
+413037200,小境,2021-07-14,China,within an hour,100.0,100.0,False,,1,True,True
+413034977,喜,2021-07-14,China,within a day,50.0,100.0,False,,1,True,True
+413075006,皇家荷苑,2021-07-15,China,within an hour,100.0,100.0,True,,8,True,True
+394775707,易兴山居,2021-03-30,China,within a few hours,75.0,100.0,False,,2,True,True
+413406259,红亮,2021-07-16,China,within an hour,100.0,75.0,False,,2,True,True
+268867959,彩虹,2019-06-15,China,within a few hours,100.0,100.0,False,,1,True,True
+134039029,Antony,2017-06-08,China,,,,False,,1,True,True
+413247478,陈微,2021-07-16,China,within an hour,100.0,100.0,False,,1,True,True
+27511961,Luming,2015-02-10,China,within an hour,100.0,100.0,False,,1,True,True
+392342778,崔哥,2021-03-13,China,within an hour,100.0,100.0,False,,1,True,True
+126602952,博宇,2017-04-19,China,within an hour,100.0,100.0,False,,1,True,True
+413993965,春艳,2021-07-19,China,within an hour,100.0,100.0,False,,1,True,True
+123692787,刘,2017-04-01,China,,,100.0,False,,1,True,True
+414074988,北京十渡小树林,2021-07-20,China,within an hour,100.0,100.0,False,,1,True,True
+414041389,拾欢美宿,2021-07-20,China,within an hour,100.0,100.0,False,,6,True,True
+414200116,淼,2021-07-20,China,within an hour,67.0,100.0,False,,3,True,True
+183101443,蒋姐,2018-04-08,China,within an hour,100.0,93.0,True,,10,True,True
+248846069,正帆,2019-03-14,China,within an hour,100.0,100.0,True,,7,True,True
+414628975,认证手机用户8610,2021-07-23,"Beijing, Beijing, China",within an hour,91.0,100.0,False,,0,True,True
+414670347,小冯,2021-07-23,China,within an hour,100.0,100.0,False,,2,True,True
+414410571,云岭小筑,2021-07-21,China,within an hour,100.0,50.0,False,,1,True,True
+235434574,娜,2019-01-09,China,within an hour,100.0,100.0,False,,1,True,True
+246506144,思琪,2019-03-03,China,within an hour,100.0,100.0,False,,1,True,True
+414702689,认证手机用户7963,2021-07-23,China,,,100.0,False,,1,True,True
+414836473,喨玥居,2021-07-24,China,within an hour,100.0,100.0,False,,1,True,True
+414873136,认证手机用户3369,2021-07-24,China,within a day,100.0,100.0,False,,2,True,True
+136495629,唐,2017-06-22,China,within an hour,100.0,100.0,False,,1,True,True
+413903789,认证手机用户6086,2021-07-19,China,,,,False,,1,True,True
+411373954,杜金鹤,2021-07-06,China,,,100.0,False,,1,True,True
+415148469,东东,2021-07-25,China,,,,False,,1,True,True
+128731081,家朕,2017-05-03,China,within an hour,100.0,100.0,True,,1,True,True
+407600642,我想发达,2021-06-17,China,within an hour,100.0,100.0,False,,1,True,True
+396444953,松·舍,2021-04-11,China,within an hour,99.0,100.0,True,,5,True,True
+415811985,晓伟,2021-07-29,China,within an hour,100.0,100.0,False,,1,True,True
+413402724,认证手机用户7898,2021-07-16,China,,,100.0,False,,1,True,True
+397463833,认证手机用户3344,2021-04-18,China,within an hour,100.0,100.0,False,,1,True,True
+366239043,孙小乾,2020-09-06,China,within an hour,100.0,94.0,False,,1,True,True
+416398433,孙彦玲,2021-08-02,"Huairou District, Beijing, China",,,100.0,False,,1,True,True
+297282838,拾光,2019-09-23,China,within an hour,100.0,100.0,False,,1,True,True
+23439712,小散,2014-11-07,China,,,100.0,False,,11,True,True
+416569915,香益满园古北水镇店,2021-08-02,China,within a day,100.0,,False,,1,True,True
+416566591,劉霽元,2021-08-02,China,,,100.0,False,,1,True,True
+111204082,Nancy,2017-01-12,China,within an hour,100.0,100.0,False,,1,True,True
+408277979,袁伟,2021-06-21,China,within an hour,100.0,,False,,0,True,True
+416628787,谢超,2021-08-03,China,within an hour,100.0,100.0,False,,1,True,True
+107316560,Xiaomei,2016-12-15,China,within an hour,100.0,100.0,False,,1,True,True
+416720633,志远,2021-08-03,China,,,100.0,False,,1,True,True
+416743351,莹,2021-08-03,China,,,100.0,False,,1,True,True
+230114738,茜萌,2018-12-11,China,within an hour,100.0,100.0,False,,2,True,True
+20540053,帅,2014-08-25,China,within an hour,100.0,90.0,False,,2,True,True
+81640699,郗,2016-07-04,China,within an hour,100.0,100.0,False,,8,True,True
+416513976,子岩,2021-08-02,China,within an hour,100.0,100.0,False,,1,True,True
+292532788,Virvan,2019-09-06,China,within an hour,98.0,100.0,False,,71,True,True
+416944390,认证手机用户5160,2021-08-05,China,,,,False,,1,True,True
+409982624,北京冬夏小筑民宿,2021-06-29,China,within an hour,100.0,100.0,False,,2,True,True
+417088250,词,2021-08-05,China,within an hour,100.0,100.0,False,,1,True,True
+417104029,飞,2021-08-06,China,within an hour,100.0,100.0,False,,1,True,True
+334893312,栋,2020-02-10,China,within an hour,100.0,100.0,False,,1,True,True
+417414946,Hong,2021-08-08,China,within an hour,100.0,100.0,False,,1,True,True
+348993680,贺凤,2020-06-07,China,within a few hours,100.0,100.0,False,,1,True,True
+417609789,行,2021-08-09,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+417616138,小夏子,2021-08-09,China,within an hour,100.0,100.0,False,,1,True,True
+417620727,认证手机用户0026,2021-08-09,China,within an hour,100.0,100.0,False,,1,True,True
+352820668,凌行时光,2020-07-01,China,,,100.0,False,,1,True,True
+311716077,仇京伟,2019-11-24,China,within an hour,100.0,100.0,False,,1,True,True
+400993801,Tiamo,2021-05-11,China,within an hour,98.0,100.0,True,,6,True,True
+92784568,Lin,2016-08-31,China,within an hour,100.0,100.0,False,,1,True,True
+417949680,Bobo,2021-08-11,China,,,100.0,False,,1,True,True
+418082124,认证手机用户9872,2021-08-12,China,within an hour,100.0,100.0,False,,0,True,True
+418221374,赤宇,2021-08-12,China,within a day,100.0,,False,,1,True,True
+393799983,认证手机用户0555,2021-03-23,China,,,,False,,1,True,True
+418363447,原创音乐人~齐朝岳,2021-08-13,China,within an hour,100.0,,False,,2,True,True
+418414167,认证手机用户6404,2021-08-14,China,within an hour,100.0,100.0,False,,1,True,True
+400648422,文军,2021-05-08,China,within an hour,100.0,100.0,False,,1,True,True
+302298336,Alice,2019-10-14,China,within an hour,100.0,100.0,False,,1,True,True
+418639823,橙,2021-08-15,China,within an hour,100.0,83.0,False,,1,True,True
+416251694,又见旅图花园民宿,2021-08-01,China,within an hour,90.0,100.0,False,,1,True,True
+230861152,思晴,2018-12-15,China,,,100.0,False,,3,True,True
+418983834,海珍,2021-08-18,China,a few days or more,0.0,100.0,False,,1,True,True
+285136834,畅,2019-08-12,China,within an hour,100.0,100.0,False,,3,True,True
+369049077,Bianna,2020-09-24,China,within an hour,100.0,100.0,False,,7,True,True
+418841997,心语心愿民宿,2021-08-17,China,within an hour,100.0,100.0,False,,1,True,True
+419144855,孙秀娟,2021-08-19,China,,,100.0,False,,1,True,True
+310862413,檬,2019-11-20,China,within an hour,100.0,100.0,True,,1,True,True
+414607714,认证手机用户9598,2021-07-22,China,within an hour,100.0,100.0,False,,9,True,True
+397743326,认证手机用户3123,2021-04-19,China,,,100.0,False,,1,True,True
+410766422,连忠,2021-07-04,China,within a few hours,100.0,100.0,False,,1,True,True
+296425667,还山小筑,2019-09-20,China,within an hour,100.0,100.0,False,,0,True,True
+201933321,丽冰,2018-07-12,China,within an hour,100.0,100.0,False,,0,True,True
+71584138,士多啤梨多多,2016-05-12,China,within an hour,100.0,100.0,False,,1,True,True
+398394501,森,2021-04-24,China,within an hour,100.0,100.0,False,,2,True,True
+419564202,立娜,2021-08-22,China,within an hour,100.0,,False,,0,True,True
+418979598,南邻小筑,2021-08-18,China,,,50.0,False,,1,True,True
+365177270,静心林舍,2020-08-30,China,within an hour,100.0,100.0,False,,1,True,True
+419595038,~!~,2021-08-22,China,within an hour,100.0,100.0,False,,1,True,True
+419438636,青竹里,2021-08-21,"Yanqing District, Beijing, China",,,100.0,False,,2,True,True
+419724871,季,2021-08-23,China,within an hour,100.0,100.0,False,,1,True,True
+389316490,客串小院  郑小兵,2021-02-20,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,1,True,True
+420025867,小行迹民宿一号客服大發,2021-08-24,China,within an hour,100.0,100.0,False,,1,True,True
+419434494,西煜硴筑,2021-08-21,China,within an hour,100.0,100.0,False,,1,True,True
+392293842,花筑·北京山居隆设计师民宿,2021-03-12,China,within an hour,100.0,100.0,False,,1,True,True
+419556577,认证手机用户3373,2021-08-22,China,within an hour,100.0,100.0,False,,2,True,True
+271418666,静,2019-06-25,China,within an hour,100.0,100.0,False,,0,True,True
+358453476,蕾蕾,2020-07-25,China,within an hour,100.0,100.0,False,,2,True,True
+420079846,Me！,2021-08-25,China,,,,False,,0,True,True
+420117642,光遇,2021-08-25,China,within an hour,100.0,100.0,False,,1,True,True
+417937754,铁柱的客栈,2021-08-11,"Tongzhou, Beijing, China",within an hour,100.0,100.0,True,,8,True,True
+420199034,娟娟,2021-08-26,China,within a day,100.0,100.0,False,,1,True,True
+151226098,璇,2017-09-19,China,within an hour,100.0,100.0,False,,0,True,True
+78973858,金颖,2016-06-21,China,within a few hours,100.0,100.0,False,,1,True,True
+308203071,贰姑娘的食研室,2019-11-08,China,within an hour,100.0,100.0,False,,1,True,True
+65049083,浮想bnb,2016-03-30,China,within an hour,100.0,100.0,False,,1,True,True
+420343801,慧伟,2021-08-27,China,within a day,50.0,,False,,0,True,True
+223657251,楠,2018-11-01,China,within an hour,100.0,100.0,True,,1,True,True
+251680452,晨言,2019-03-28,China,,,100.0,False,,0,True,True
+411673122,认证手机用户2810,2021-07-08,China,,,100.0,False,,1,True,True
+106801226,文静,2016-12-10,China,within an hour,100.0,100.0,False,,0,True,True
+415346797,依思客栈,2021-07-26,China,within an hour,100.0,100.0,False,,1,True,True
+420469237,怀柔梦回·故里民宿,2021-08-27,China,,,,False,,0,True,True
+252731523,莹,2019-04-02,China,within a few hours,100.0,,False,,1,True,True
+420478645,(Hidden by Airbnb) 用户,2021-08-27,China,within an hour,100.0,100.0,False,,0,True,True
+420282251,兰花,2021-08-26,China,within an hour,100.0,100.0,False,,0,True,True
+420644438,代泉,2021-08-29,China,within an hour,100.0,100.0,True,,9,True,True
+420781670,雪,2021-08-30,China,,,,False,,1,True,True
+420779397,认证手机用户6341,2021-08-30,China,,,100.0,False,,0,True,True
+420789807,趁抹老,2021-08-30,China,,,,False,,0,True,True
+404995958,大辉,2021-06-02,China,,,,False,,0,True,True
+397022478,宇,2021-04-15,China,within an hour,100.0,100.0,False,,1,True,True
+108230189,崧,2016-12-23,"Huairou District, Beijing, China",within an hour,100.0,100.0,False,,14,True,True
+421069241,秋,2021-09-01,"Beijing, Beijing, China",,,,False,,0,True,True
+21368153,Lin,2014-09-15,China,within an hour,100.0,99.0,False,,7,True,True
+364455006,花椒民宿,2020-08-26,China,within an hour,100.0,,False,,1,True,True
+420463821,认证手机用户3013,2021-08-27,China,within an hour,100.0,100.0,False,,1,True,True
+421523017,雨萌,2021-09-04,China,within an hour,100.0,100.0,False,,0,True,True
+408087409,核桃里精品民宿,2021-06-20,China,within an hour,100.0,,False,,0,True,True
+421690168,艾青,2021-09-05,China,within an hour,100.0,100.0,False,,0,True,True
+47024736,G,2015-10-20,China,within an hour,100.0,99.0,True,,9,True,True
+420911992,*´赵娜  `๓,2021-08-31,"Beijing, Beijing, China",,,,False,,0,True,True
+421075251,凹胤乐,2021-09-01,China,within an hour,100.0,91.0,False,,15,True,True
+421946572,小时,2021-09-07,China,within an hour,100.0,100.0,False,,1,True,True
+296235490,悦,2019-09-19,China,within an hour,100.0,100.0,False,,0,True,True
+421682821,无主之作,2021-09-05,"Beijing, Beijing, China",within an hour,100.0,82.0,False,,0,True,True
+422517486,逗,2021-09-11,CN,,,,False,,0,True,True
+422778047,༄ེ释然ཉ྄ིུ,2021-09-12,CN,within a few hours,100.0,,False,,1,True,True
+391795323,秘境,2021-03-09,China,within an hour,100.0,100.0,False,,0,True,True
+422807955,甜,2021-09-13,China,within an hour,100.0,,False,,0,True,True
+422365617,肆然大楞,2021-09-09,China,within an hour,100.0,100.0,False,,0,True,True
+273535371,翔宇,2019-07-04,China,within an hour,100.0,100.0,False,,0,True,True
+15874316,Jade,2014-05-22,China,within an hour,100.0,99.0,False,,1,True,True
+152332017,淼,2017-09-27,China,within an hour,100.0,100.0,True,,3,True,True
+423259440,志成,2021-09-16,China,within an hour,100.0,,False,,0,True,True
+422955993,云婷,2021-09-14,China,within an hour,100.0,100.0,False,,7,True,True
+422801050,认证手机用户8672,2021-09-13,China,,,,False,,1,True,True
+293557029,阪泉•99号,2019-09-09,China,within an hour,100.0,100.0,False,,0,True,True
+422277125,晓军,2021-09-09,"Vancouver, British Columbia, Canada",within an hour,83.0,100.0,False,,2,True,True
+408851058,鲁健,2021-06-24,"Beijing, Beijing, China",,,,False,,1,True,True
+232649086,崔少,2018-12-26,"Beijing, Beijing, China",within an hour,100.0,100.0,True,,1,True,True
+423931500,宇涵,2021-09-21,China,within an hour,100.0,100.0,False,,1,True,True
+423996325,严彬,2021-09-21,China,,,,False,,1,True,True
+391900575,优选,2021-03-10,China,within a few hours,100.0,100.0,False,,1,False,True
+383398746,认证手机用户9432,2021-01-06,China,within an hour,100.0,100.0,True,,1,True,True
+423664345,NishimiyaSyouko,2021-09-19,China,,,100.0,False,,0,True,True
+416770280,坤坤思密达,2021-08-04,China,within an hour,100.0,100.0,False,,1,True,True
+423061119,光,2021-09-14,China,within an hour,100.0,100.0,False,,2,True,True
+235360610,少婷,2019-01-09,"Beijing, Beijing, China",within an hour,99.0,99.0,False,,15,True,True
+422227472,广安门,2021-09-08,China,within an hour,90.0,50.0,False,,0,True,True
+364312097,老孙,2020-08-25,China,within an hour,100.0,93.0,False,,1,True,True
+423262462,孟琪,2021-09-16,China,within an hour,100.0,100.0,False,,1,True,True
+371372197,认证手机用户3332,2020-10-10,CN,,,,False,,0,True,True
+158145961,皓然,2017-11-10,China,,,,False,,1,True,True
+228149950,宁心儿,2018-11-28,China,within a few hours,100.0,93.0,False,,1,True,True
+423216107,Hufei,2021-09-15,"Beijing, Beijing, China",within an hour,100.0,94.0,False,,2,True,True
+423381818,吉祥墅,2021-09-17,China,,,,False,,1,True,True
+424793674,欣,2021-09-27,China,within an hour,100.0,98.0,False,,31,True,True
+424141130,卫晨,2021-09-22,China,within an hour,100.0,100.0,False,,0,True,True
+394357815,勤,2021-03-27,China,within an hour,100.0,100.0,False,,1,True,True
+422389744,彬彬,2021-09-10,China,,,,False,,0,True,True
+419549646,尚隐,2021-08-22,"Huairou District, Beijing, China",within an hour,100.0,100.0,False,,2,True,True
+423147216,四季海棠,2021-09-15,China,,,,False,,1,True,True
+425983037,鹏,2021-10-05,China,within an hour,90.0,100.0,False,,8,True,True
+426187318,雨打浮萍,2021-10-06,CN,within an hour,100.0,,False,,0,True,True
+416112673,享居,2021-07-31,China,,,,False,,0,True,True
+423505614,海龙,2021-09-18,China,within an hour,100.0,,False,,0,True,True
+359385505,莉,2020-07-30,CN,within an hour,100.0,100.0,False,,0,True,True
+395226033,阁院民宿,2021-04-02,China,within an hour,100.0,100.0,False,,0,True,True
+426583526,斌,2021-10-09,CN,within an hour,100.0,,False,,1,True,True
+426735378,再冉,2021-10-10,China,within an hour,100.0,100.0,False,,1,True,True
+212975734,宇,2018-09-01,China,within an hour,100.0,100.0,False,,0,True,True
+411552527,瑕,2021-07-07,CN,,,,False,,1,True,True
+22322319,Jin一八九一一九七七一九七,2014-10-09,China,within an hour,100.0,100.0,True,,6,True,True
+389289635,认证手机用户7035,2021-02-19,China,within an hour,100.0,100.0,False,,0,True,True
+424981098,Wohkoon者行孙青年酒店(西单店),2021-09-28,China,within an hour,91.0,69.0,False,,0,True,True
+426987340,奢,2021-10-11,"Mentougou District, Beijing, China",within an hour,100.0,100.0,False,,10,True,True
+426986233,江福,2021-10-11,CN,within an hour,100.0,,False,,6,True,True
+168467420,高婷,2018-01-18,China,within an hour,100.0,100.0,False,,0,True,True
+279551691,帅,2019-07-26,CN,within an hour,100.0,96.0,True,,4,True,True
+427136363,频伽,2021-10-12,China,within an hour,100.0,100.0,False,,0,True,True
+420347478,水源观山,2021-08-27,China,,,,False,,1,True,True
+429015175,莉,2021-10-25,CN,,,,False,,0,True,True
+253799775,青旅小筑,2019-04-07,China,within an hour,100.0,100.0,False,,1,True,True
+196676874,京民宿假日公寓,2018-06-19,China,within an hour,97.0,96.0,True,,4,True,True
+423093731,认证手机用户4936,2021-09-15,CN,,,,False,,0,True,True
+139965814,海涛,2017-07-12,China,within an hour,100.0,100.0,False,,0,True,True
+391885934,认证手机用户5958,2021-03-09,China,within a day,50.0,100.0,False,,2,True,True
+361509347,认证手机用户4292,2020-08-10,CN,within an hour,100.0,,False,,0,True,True
+399208156,甯甯,2021-04-29,China,within an hour,100.0,100.0,False,,1,True,True
+390762983,Xin,2021-03-02,China,within an hour,100.0,100.0,False,,2,True,True
+142662284,小可,2017-07-26,China,within an hour,100.0,100.0,False,,4,True,True
+406811931,猫,2021-06-13,China,within an hour,100.0,100.0,False,,1,True,True
+385549812,奕,2021-01-21,CN,within an hour,100.0,100.0,False,,0,True,True
+215340309,Wohkoon者行孙青年旅舍什刹海店,2018-09-14,China,within an hour,71.0,,False,,57,True,True
+431800364,倩倩,2021-11-14,CN,within an hour,86.0,100.0,False,,5,True,True
+432117318,张伟,2021-11-16,China,within an hour,100.0,,False,,1,True,True
+377171555,蒲里日记,2020-11-26,China,within an hour,100.0,100.0,True,,0,True,True
+431270579,雪,2021-11-10,"Beijing, Beijing, China",within an hour,100.0,100.0,False,,2,True,True
+400246171,Winky,2021-05-06,China,within an hour,100.0,88.0,False,,0,True,True
+398526952,认证手机用户7650,2021-04-25,CN,within an hour,100.0,100.0,False,,0,True,True
+288000854,北京盛捷大兴酒店小管家,2019-08-22,CN,,,,False,,0,True,True
+432090175,昊,2021-11-15,China,within an hour,100.0,100.0,False,,0,True,True
+259381230,春燕,2019-05-02,China,within an hour,100.0,97.0,True,,11,True,True
+382425948,美宿,2020-12-31,China,within an hour,99.0,100.0,False,双井,10,True,True
+428864188,李先生,2021-10-24,China,,,,False,,2,True,True
+432969309,一,2021-11-22,China,within an hour,93.0,100.0,False,,0,True,True
+433619426,静萱,2021-11-26,CN,within an hour,100.0,100.0,False,,8,True,True
+433638861,观山悦:阿风,2021-11-27,China,,,,False,,0,True,True
+260770246,晶,2019-05-09,China,within an hour,100.0,100.0,True,,1,True,True
+433795840,梵星里,2021-11-28,China,within an hour,100.0,100.0,False,,1,True,True
+409093720,海波,2021-06-25,China,within an hour,100.0,100.0,False,,4,True,True
+417101959,壹隅千寻,2021-08-06,CN,within an hour,100.0,100.0,False,,0,True,True
+258743399,古北水镇 幸福线精品酒店别墅,2019-04-29,China,within an hour,100.0,100.0,False,,5,True,True
+434488717,秀宇,2021-12-03,China,within an hour,100.0,100.0,False,,0,True,True
+434587328,认证手机用户0020,2021-12-04,CN,within an hour,100.0,100.0,False,,0,True,True
+430625822,斯坦森(雪),2021-11-06,China,within an hour,100.0,100.0,False,,2,True,True
+210908991,豪,2018-08-21,China,,,100.0,True,,0,True,True
+306413240,用户7989,2019-11-03,China,,,100.0,False,,0,True,True
+87432646,Yu,2016-08-02,China,within an hour,100.0,100.0,True,,12,True,True
+434981276,爱华,2021-12-06,China,within an hour,100.0,100.0,False,,0,True,True
+369187184,零舍,2020-09-25,China,within an hour,100.0,100.0,False,,0,True,True
+403365368,认证手机用户5028,2021-05-24,CN,within an hour,100.0,100.0,False,,6,True,True
+435395033,建坤,2021-12-09,CN,,,,False,,0,True,True
+434853319,北京三元桥地铁站亚朵x酒店,2021-12-06,"Beijing, Beijing, China",a few days or more,0.0,0.0,False,,0,True,True
