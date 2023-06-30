@@ -30,7 +30,7 @@ d. Utilize data visualization techniques to present the findings and insights fr
 <br>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/126942017/250137792-174da553-5521-4209-8271-bc15f4567e37.png" width="800" height="300"/>
+    <img src="https://user-images.githubusercontent.com/126942017/250137792-174da553-5521-4209-8271-bc15f4567e37.png" width="700"/>
 </p>
 
 <br>
