@@ -27,7 +27,9 @@ d. Utilize data visualization techniques to present the findings and insights fr
 <br>
 <br>
 
-![image](https://github.com/abhishekm9396/Host-Behavior-Analysis/assets/126942017/174da553-5521-4209-8271-bc15f4567e37)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/126942017/250137792-174da553-5521-4209-8271-bc15f4567e37.png" width="800" height="300" />
+p>
 
 <br>
 <br>
