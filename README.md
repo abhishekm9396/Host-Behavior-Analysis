@@ -11,9 +11,13 @@ The dataset provided has the information regarding the 2 cities in Canada, Greec
 This project aims to leverage historical stock price data and develop predictive models that can forecast the future prices of the Nifty 50 stocks. By analyzing past trends, patterns, and relevant market indicators, the project aims to provide insights into potential price movements and assist investors in making informed decisions. Therefore, the objective of this project is to develop a machine-learning model that can predict the future prices of Nifty stocks. The model will be trained on historical data of the Nifty stocks.
 
 --Methodology--
+<br>
+<br>
 
-![Screenshot (734)](https://github.com/patel-ankit1999/Nifty-50-Stock-Price/assets/125917403/9727e95b-c253-4a5a-8be0-782a55cf19db)
+![image](https://github.com/abhishekm9396/Host-Behavior-Analysis/assets/126942017/174da553-5521-4209-8271-bc15f4567e37)
 
+<br>
+<br>
 
 --Data Description--
 
@@ -24,10 +28,20 @@ This project aims to leverage historical stock price data and develop predictive
 5. Perform exploratory data analysis to understand the characteristics and distributions of the data. This involves generating summary statistics, visualizing the data through histograms, line plots, scatter plots, or correlation matrices, and identifying any interesting patterns, seasonality, or relationships between variables. EDA helps in uncovering initial insights and guiding further analysis.
 6. Utilize data visualization techniques to present the findings and insights from the analysis. This includes creating interactive charts, time series plots, heatmaps, or correlation matrices to effectively communicate the relationships and patterns discovered. Visualizations help stakeholders understand the data intuitively and aid in decision-making.
 
---Result--
+--Key Insights--
 
-![Screenshot (731)](https://github.com/patel-ankit1999/Nifty-50-Stock-Price/assets/125917403/eedc97d0-c502-4d81-8d5a-9cb8de2917aa)
-![Screenshot (732)](https://github.com/patel-ankit1999/Nifty-50-Stock-Price/assets/125917403/5d93e40b-e866-4cca-9b7d-c569c96ae50f)
+1. The "response rate > avg response rate" chart demonstrates that around 90% of superhosts have a higher response rate than hosts, indicating that they are more responsive to user queries or problems.
+
+2. Superhosts have a maximum of 512 listings, while hosts have 8,156 listings. However, 18% of superhosts have more listings (2) compared to 12% of hosts (3) when considering proportions.
+
+3. Acceptance rate is a key factor that sets superhosts apart from hosts, as they have a higher rate of accepting booking requests.
+
+4. Superhosts have a higher profile picture and identification rate compared to hosts.
+
+5. Superhosts are more likely to accept instant bookings than regular hosts, Italy/Rome has the highest percentage of superhosts offering instant bookings at 12.57%, while Greece/Thessaloniki has the lowest percentage of hosts offering instant bookings at 0.91%.
+
+6. In terms of positive comments, hosts have a slightly higher rate than superhosts. Superhosts need to focus more on providing better after-services. The average review score is good for both hosts and superhosts, with scores of 4.6 and 4.9 out of 5, respectively.
+
 
 Challenges faced--
 1. Splitting the data and selecting the appropriate model for time-series analysis are the challenging task for us.
