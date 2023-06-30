@@ -26,7 +26,7 @@ d. Utilize data visualization techniques to present the findings and insights fr
 
 <br>
 
-- Excel: Cleaned and organized sales data, ensuring accuracy and reliability.
+- Excel: Cleaned and organized data, ensuring accuracy and reliability.
 
 - SQL Server: Conducted in-depth Exploratory Data Analysis (EDA), revealing valuable insights and trends.
 <br>
