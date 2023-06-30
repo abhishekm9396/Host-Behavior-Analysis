@@ -25,6 +25,11 @@ c. Analyzing if Super Hosts tend to have large property types as compared to oth
 d. Utilize data visualization techniques to present the findings and insights from the analysis. Visualizations help stakeholders understand the data intuitively and aid in decision-making.
 
 <br>
+
+- Excel: Cleaned and organized sales data, ensuring accuracy and reliability.
+
+- SQL Server: Conducted in-depth Exploratory Data Analysis (EDA), revealing valuable insights and trends.
+<br>
 <br>
 
 <p align="center">
