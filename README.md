@@ -57,3 +57,7 @@ d. Utilize data visualization techniques to present the findings and insights fr
 
 6. In terms of positive comments, hosts have a slightly higher rate than superhosts. Superhosts need to focus more on providing better after-services. The average review score is good for both hosts and superhosts, with scores of 4.6 and 4.9 out of 5, respectively.
 
+--Challeges Faced--
+1. Handling and to deal with large data with excel and SQl was a challenging task.
+2. Getting data well and consistent requires careful data cleaning and processing.
+3. Diversification of Ideas.
