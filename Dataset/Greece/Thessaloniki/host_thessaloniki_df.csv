@@ -1,0 +1,1380 @@
+host_id,host_name,host_since,host_location,host_response_time,host_response_rate,host_acceptance_rate,host_is_superhost,host_neighbourhood,host_listings_count,host_has_profile_pic,host_identity_verified
+663967,Nikolas,2011-06-04,"Mikonos, Greece",within a few hours,100.0,98.0,False,,20,True,True
+137588,Dimitrios,2010-06-03,"Thessalonika, Central Macedonia, Greece",within a few hours,100.0,0.0,False,,2,True,False
+2358521,Stelios,2012-05-13,"Thessalonika, Central Macedonia, Greece",within an hour,100.0,96.0,True,,1,True,False
+1193625,Olga,2011-09-22,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,83.0,True,,11,True,True
+3714248,Chrysothemis,2012-09-30,"Thessaloniki, Makedonia Thraki, Greece",,,0.0,False,,2,True,True
+2890501,Francy,2012-07-10,"Thessalonika, Central Macedonia, Greece",a few days or more,0.0,100.0,False,,2,True,True
+4293278,Andreas,2012-12-01,"Thessaloniki, Greece",within an hour,100.0,67.0,False,,2,True,True
+3835591,Olga,2012-10-11,"Thessaloniki, Greece",within a day,100.0,70.0,True,,0,True,True
+5543143,Giannis,2013-03-20,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+5841701,Yiorgos,2013-04-09,"Thessaloniki, Greece",within an hour,100.0,75.0,False,,1,True,True
+10654206,Alexandra,2013-12-16,GR,within an hour,100.0,100.0,True,,27,True,True
+7591507,Alexandros,2013-07-19,"Thessaloniki, Greece",within an hour,100.0,81.0,False,,2,True,True
+6329227,Yota,2013-05-11,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,67.0,False,,1,True,True
+12356276,Yiannis,2014-02-18,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+12928977,Despina,2014-03-08,"Thessaloniki, Greece",,,100.0,False,,3,True,True
+13516901,Ioulianos,2014-03-25,"Thessaloniki, Greece",within an hour,100.0,71.0,True,,1,True,True
+13597375,Filitsa,2014-03-27,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,99.0,False,Ambelokipi,11,True,True
+13662502,Evy,2014-03-29,"England, United Kingdom",within a day,67.0,0.0,False,,1,True,False
+14541893,Mikaela,2014-04-21,"Kalochori, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,4,True,True
+15255679,Evi,2014-05-08,"Larnaca, Larnaca, Cyprus",within a few hours,100.0,82.0,True,,1,True,False
+15799182,Sofia G,2014-05-21,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,100.0,False,,1,True,True
+16565876,Stathis,2014-06-09,"Berlin, Berlin, Germany",within a few hours,100.0,0.0,False,,2,True,True
+20326948,Raoul-Ernesto,2014-08-20,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,True,,2,True,False
+7087654,John And Chris,2013-06-24,"Serres, Makedonia Thraki, Greece",within a few hours,100.0,83.0,False,,2,True,True
+21242457,Τζο,2014-09-12,Greece,within an hour,100.0,,False,,3,True,False
+21406334,Maria,2014-09-16,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,False
+23424804,Glykeria,2014-11-06,"Cologne, North Rhine-Westphalia, Germany",within a day,100.0,,False,,1,True,True
+7886224,Velissarios,2013-08-02,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,2,True,True
+13251610,Sandra,2014-03-18,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+11221732,Konstantinos,2014-01-12,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+26354140,Mimi,2015-01-19,"Thessaloniki, Greece",within a day,100.0,0.0,False,,0,True,False
+26719518,Eliana,2015-01-26,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,1,True,True
+14213975,Konstantinos,2014-04-13,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+17489165,Andrew,2014-07-01,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,4,True,True
+7371967,Anna,2013-07-09,"Pallini, Greece",within a day,50.0,100.0,False,,1,True,False
+29565272,Houseloft,2015-03-18,"Thessaloniki, Makedonia Thraki, Greece",within an hour,96.0,98.0,False,,25,True,True
+29867617,Alexandros,2015-03-23,Greece,within an hour,100.0,100.0,False,,1,True,True
+33341096,Maria & Dimitris,2015-05-14,Ε΄λλαδα΄,,,0.0,True,,1,True,True
+33423195,Chris,2015-05-15,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,False
+33423743,Evangelia,2015-05-15,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,True
+26233123,AnnA,2015-01-17,"Thessaloniki, Makedonia Thraki, Greece,Athanasiou diakou 47,55438",,,100.0,False,,1,True,False
+33507189,Vana,2015-05-16,"Stavroupoli, Greece",within a few hours,100.0,100.0,False,,1,True,True
+33633015,Georgia,2015-05-18,GR,within an hour,100.0,100.0,False,,1,True,False
+33849266,Athanasios,2015-05-20,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+33899396,Sophia,2015-05-21,"Chalkidikis 37 55535 Pilaia Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,75.0,False,,1,True,True
+34341328,Βασίλης,2015-05-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,False
+34979760,Nadia,2015-06-04,Greece,within an hour,100.0,100.0,False,,8,True,False
+25211962,Elina,2014-12-26,"Lasithi, Greece",,,100.0,False,,1,True,False
+35502056,Asteropi,2015-06-10,"Chania, Crete, Greece",within an hour,100.0,,False,,6,True,True
+35678823,Ano,2015-06-13,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+6077150,Stergios,2013-04-24,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,92.0,True,,1,True,True
+36872740,Dimitri,2015-06-27,"New York, New York, United States",within a day,100.0,50.0,False,,1,True,True
+31131449,Dimitris,2015-04-13,"Kalamaria Municipality, Greece",,,,True,,70,True,True
+25856509,Lida,2015-01-09,"Pieria, Makedonia Thraki, Greece",,,0.0,False,,1,True,False
+39639764,Michalis,2015-07-26,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+39903228,Aikaterini,2015-07-29,"Panorama, Makedonia Thraki, Greece",within an hour,100.0,91.0,False,,5,True,False
+9531550,Katerina,2013-10-20,GR,within an hour,100.0,99.0,True,,11,True,True
+20775926,Joanna,2014-08-31,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,88.0,False,,2,True,False
+6435727,Despina,2013-05-17,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,False
+25979571,Vasilia,2015-01-12,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,71.0,False,,1,True,True
+40585741,Χριστινα,2015-08-05,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,2,True,True
+43087202,Dimitra,2015-09-01,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,75.0,False,,2,True,False
+43704234,Elen,2015-09-08,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+29989796,Efstathia,2015-03-25,"Athens, Greece",a few days or more,0.0,,False,,1,True,False
+43914534,Anastasios,2015-09-11,"Thessaloniki, Makedonia Thraki, Greece",within a day,75.0,89.0,False,,1,True,True
+241516,Maria,2010-09-21,"Thessaloniki, Makedonia Thraki, Greece",,,,True,,1,True,True
+43867149,Thekla,2015-09-10,"Thessaloniki, Greece",,,100.0,True,,1,True,True
+44948995,Maro & Anna,2015-09-23,"Athens, Greece",within a day,80.0,67.0,False,,2,True,True
+44960779,George,2015-09-23,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+35478692,Paris,2015-06-10,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,3,True,True
+1900494,Vassilis,2012-03-11,"Thessaloniki, Greece",within an hour,100.0,95.0,True,,1,True,True
+11626875,Alexandros,2014-01-25,"Thessaloniki, Makedonia Thraki, Greece",,,0.0,False,,2,True,False
+37912682,Βασιλικη,2015-07-08,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,93.0,False,,2,True,True
+24759607,Georgios,2014-12-12,"Thessaloniki, Greece",within an hour,100.0,90.0,False,,2,True,True
+8744426,Christina,2013-09-10,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,86.0,False,,3,True,False
+25449575,Jannis,2015-01-01,"Thessaloniki, Greece",within an hour,100.0,0.0,True,,2,True,True
+47786468,Gregory,2015-10-30,"Halkidiki, Greece",,,,True,,4,True,True
+48055342,Pavlos And Ioanna,2015-11-03,"Brussels, Brussels, Belgium",within a few hours,90.0,88.0,True,,5,True,True
+43603727,Ioanna - Kostas,2015-09-07,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,0.0,True,,2,True,False
+43102606,Ευθύμης,2015-09-01,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,2,True,True
+49631418,Asteris,2015-11-22,"Thessaloniki, Makedonia Thraki, Greece",within a day,100.0,0.0,False,,1,True,True
+22192599,Eleonora,2014-10-06,"Thessaloniki, Greece",within an hour,100.0,25.0,False,,1,True,True
+38018322,Pantelis,2015-07-09,"Brussels, Brussels, Belgium",within an hour,100.0,100.0,True,,2,True,True
+44095832,Iordanis,2015-09-13,"Sykies, Greece",,,,False,,1,True,True
+37335381,Argyro,2015-07-02,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+52271945,Thalia,2015-12-26,"Fredericton, New Brunswick, Canada",within a few hours,100.0,67.0,True,,16,True,True
+45590227,Alexandra,2015-10-02,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+54039142,Dimitris,2016-01-10,"Thessaloniki, Greece",within an hour,100.0,50.0,False,,1,True,False
+3688135,Marianna,2012-09-27,"Thessaloniki, Greece",within a few hours,100.0,100.0,True,,2,True,True
+43965453,Alex,2015-09-11,"Thessaloniki, Greece",within a few hours,100.0,75.0,False,,1,True,True
+57017231,Anninos,2016-02-01,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,True
+57087329,Anastasia,2016-02-02,GR,within a few hours,100.0,100.0,True,,1,True,True
+9238072,Nkos,2013-10-05,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,,True,,1,True,True
+25201186,Vasilis,2014-12-25,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+26302519,Joulia,2015-01-18,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,80.0,False,,2,True,True
+59687021,Pau,2016-02-21,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,10,True,True
+9244884,FeelsLikeHomeGR,2013-10-05,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,65,True,True
+28972290,Thalia,2015-03-08,"Kloten, Zurich, Switzerland",a few days or more,0.0,0.0,False,,1,True,True
+16478745,Ioanna&Kostas,2014-06-06,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,5,True,True
+60890376,Mariam,2016-02-29,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,94.0,True,,1,True,True
+57991167,Giannis,2016-02-09,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+36326447,Stamatis,2015-06-21,"Thessaloniki, Greece",within a few hours,100.0,0.0,False,,1,True,False
+5617850,Tina & Greg,2013-03-25,"Thessaloniki, Greece",a few days or more,0.0,53.0,True,,8,True,True
+13574689,Stelios,2014-03-26,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,False,,3,True,False
+17305188,Nikolaos,2014-06-26,"Adramytiou 13, kalamaria Thessaloniki, Greece",within a day,50.0,100.0,False,,2,True,True
+64917515,Jose,2016-03-29,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,True,,2,True,True
+22756563,Konstantinos,2014-10-20,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,100.0,True,,1,True,True
+45888139,Olia & Stelios,2015-10-06,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,83.0,True,,1,True,True
+51927216,Λευτερης,2015-12-21,"Thessaloniki, Makedonia Thraki, Greece",,,0.0,False,,1,True,True
+3874079,Mara,2012-10-15,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+65859578,Vicky,2016-04-05,"Kalamaria, Makedonia Thraki, Greece",,,0.0,True,,2,True,True
+66479178,Anny,2016-04-09,"Thessaloniki, Greece",within an hour,80.0,43.0,True,,1,True,False
+29452692,Dimitris And Paki,2015-03-16,"Thessaloniki, Makedonia Thraki, Greece",,,89.0,True,,3,True,True
+53772040,Rolando,2016-01-07,"Melbourne, Victoria, Australia",within an hour,67.0,13.0,False,,1,True,True
+51508938,Aggeliki,2015-12-16,"Thessaloniki, Greece",within an hour,100.0,83.0,True,,3,True,True
+63960745,Antonis,2016-03-21,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,2,True,True
+53118780,Antonis,2016-01-03,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,96.0,False,,2,True,True
+54756606,Roxani,2016-01-15,"Panorama, Greece",,,100.0,False,,2,True,True
+49978437,Magdalena,2015-11-27,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+53934947,Vasilis,2016-01-09,"Thessaloniki, Greece",within an hour,80.0,91.0,False,,7,True,True
+64764458,Kώστας,2016-03-28,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,0.0,False,,1,True,False
+69929135,Elena,2016-05-02,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,92.0,True,,1,True,True
+69939172,Sofia,2016-05-02,SE,,,,False,,1,True,False
+70104544,Κωνσταντινος,2016-05-03,"Thessaloniki, Greece",within a day,100.0,72.0,True,,1,True,False
+70494327,Hlias,2016-05-05,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,2,True,True
+49916259,Ifigenia,2015-11-26,GR,within an hour,100.0,0.0,False,,16,True,False
+32221596,Dimitrios,2015-04-29,"Kalamaria, Makedonia Thraki, Greece",within a few hours,100.0,0.0,False,,1,True,False
+72982575,Jenny,2016-05-20,"Thessaloniki, Makedonia Thraki, Greece",a few days or more,0.0,100.0,False,,2,True,False
+73529731,Thomas,2016-05-23,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,93.0,False,,2,True,True
+71808744,John,2016-05-13,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,False
+74062141,Κώστας,2016-05-26,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+74839332,Κωστας,2016-05-30,"Thessaloniki, Makedonia Thraki, Greece",within a day,50.0,,False,,1,True,True
+62828421,Georgios,2016-03-13,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,99.0,False,,4,True,True
+75230884,Amalia,2016-06-01,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,True,,2,True,True
+68503641,Άρις,2016-04-23,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,2,True,False
+77554386,Yannis,2016-06-13,"Thessaloniki, Greece",,,100.0,False,,1,True,True
+78373548,Dimitris-Ioanna,2016-06-18,"Thessaloniki, Makedonia Thraki, Greece",within an hour,90.0,100.0,True,,1,True,False
+80206409,Mike,2016-06-27,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,10,True,True
+80722309,Παντελης,2016-06-29,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,False
+53908012,Elena,2016-01-09,"Thessaloniki, Greece",within an hour,98.0,0.0,True,,1,True,True
+75326711,Vagelis,2016-06-02,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,4,True,True
+70120075,Georg,2016-05-03,"Thessaloniki, Makedonia Thraki, Greece",within an hour,94.0,100.0,False,,6,True,False
+18277866,B_Homes,2014-07-17,Ελλάδα,within an hour,100.0,100.0,False,,2,True,True
+148500579,George,2017-08-31,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,Koukaki,15,True,True
+85044501,Petros,2016-07-21,"Kalamaria, Makedonia Thraki, Greece",within a few hours,100.0,,False,,1,True,False
+68246573,Georgia,2016-04-21,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,90.0,False,,2,True,True
+25092707,Panagiotis,2014-12-22,"Thessaloniki, Greece",within a day,67.0,39.0,False,,2,True,False
+44486345,Αντώνιος-Πηνελόπη,2015-09-18,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,62.0,True,,1,True,True
+87250657,Giorgos,2016-08-01,"Evosmos, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,False
+43317900,Anna,2015-09-04,"Moscow, Moscow, Russia",within a day,100.0,,False,,1,True,True
+68821322,Nektarios,2016-04-25,"Thessaloniki, Greece",,,,False,,1,True,True
+43812179,Christopher,2015-09-09,"Thessaloniki, Greece",within a few hours,100.0,83.0,False,,1,True,True
+117477639,George,2017-02-21,GR,,,,False,,8,True,True
+92089947,Lianna,2016-08-27,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+70543952,Αννα,2016-05-05,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,,False,,1,True,True
+32602396,Dimitrios,2015-05-04,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,98.0,False,,1,True,True
+44519757,Isidora,2015-09-18,"Thessaloniki, Greece",within an hour,75.0,0.0,True,,2,True,True
+93491611,Maria,2016-09-04,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+77882456,Kalliniki,2016-06-15,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+9823777,Augusta,2013-11-05,"Sofia, Sofia-city, Bulgaria",within an hour,100.0,100.0,True,,2,True,True
+94392650,Mina,2016-09-09,Greece,,,,False,,1,True,False
+16140365,Harry,2014-05-29,"England, United Kingdom",within a few hours,100.0,90.0,True,De Beauvoir Town,2,True,True
+1621474,Mint,2012-01-18,"Athens, Greece",within an hour,100.0,99.0,False,Neos Kosmos,273,True,True
+58304346,Anna,2016-02-11,"Alexandroupoli, Makedonia Thraki, Greece",,,,False,,1,True,False
+96689226,Yannis,2016-09-25,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+93261263,Christos,2016-09-03,"Thessaloniki, Makedonia Thraki, Greece",,,100.0,False,,1,True,False
+97216720,Petros,2016-09-29,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+3565245,Lefteris,2012-09-14,"Thessaloniki, Makedonia Thraki, Greece",within a day,100.0,50.0,False,,2,True,False
+27599375,Dominiki,2015-02-11,"Thessaloniki , Greece  +  London, UK",within a day,100.0,100.0,True,,1,True,True
+93843738,Elina,2016-09-06,"Thessaloniki, Makedonia Thraki, Greece",,,50.0,False,,2,True,False
+46989534,Shirley,2015-10-20,"Thessaloniki, Makedonia Thraki, Greece",a few days or more,0.0,,False,,1,True,False
+99504003,Alexandros,2016-10-13,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+99747969,George,2016-10-15,"Thessaloniki, Greece",within a few hours,90.0,100.0,True,,2,True,False
+52755258,Angelos,2015-12-30,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+99841650,Stella,2016-10-16,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+15229046,Alina,2014-05-07,"Paris, Île-de-France, France",within a day,80.0,38.0,False,,0,True,True
+90997572,Fotis,2016-08-20,"Thessaloniki, Makedonia Thraki, Greece",within an hour,92.0,100.0,False,,2,True,True
+100287175,Giorgos,2016-10-18,"Thessaloniki, Makedonia Thraki, Greece",within an hour,91.0,99.0,True,,4,True,True
+101074682,Vicky,2016-10-24,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,6,True,False
+88525295,Αθανάσιος,2016-08-07,"Thessaloniki, Greece",,,,False,,1,True,False
+21676858,Maria,2014-09-23,"Thessaloniki, Makedonia Thraki, Greece",a few days or more,0.0,,True,,1,True,False
+28538595,Anna,2015-03-01,"Paris, Île-de-France, France",within a day,100.0,33.0,False,,2,True,True
+1619493,Georgios,2012-01-17,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,43.0,False,,2,True,True
+92718261,Triantafyllos Xanthopoulos,2016-08-30,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,2,True,False
+27837960,Χρήστος,2015-02-16,Greece,within an hour,100.0,83.0,False,,1,True,False
+28099076,Mαρκελλα,2015-02-21,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,1,True,True
+107113378,Panos,2016-12-13,"Lucerne, Lucerne, Switzerland",within a day,100.0,50.0,False,,1,True,True
+25021710,Eleni,2014-12-20,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,99.0,True,,1,True,True
+107517588,Timos,2016-12-17,"Thessaloniki, Makedonia Thraki, Greece",within a day,50.0,100.0,False,,1,True,True
+108992327,Katerina,2016-12-29,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+108943302,Fanis,2016-12-29,"Kalamaria, Makedonia Thraki, Greece",within a day,80.0,76.0,False,,2,True,False
+87281103,Alex,2016-08-01,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,5,True,True
+38521725,Natalia,2015-07-15,"Thessaloniki, Greece",within an hour,100.0,90.0,True,,1,True,True
+112565974,Σουζάνα,2017-01-21,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,,False,,1,True,True
+112627287,Urban Living,2017-01-22,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,6,True,True
+26521918,Maria,2015-01-22,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+49248218,Kostantinos,2015-11-17,"Thessaloniki, Greece",within an hour,100.0,85.0,True,,1,True,True
+41049210,Kostas,2015-08-10,"Thessaloniki, Greece",within a few hours,100.0,100.0,True,,1,True,False
+113832848,Katerina,2017-01-29,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+114838593,George,2017-02-04,"Kalamaria, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,6,True,True
+115150030,Anastasia,2017-02-06,GR,within an hour,100.0,100.0,False,,1,True,False
+26571540,Yannis,2015-01-23,"Thessaloniki, Makedonia Thraki, Greece",,,33.0,False,,2,True,True
+116807177,Ioannis,2017-02-17,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,99.0,False,,2,True,True
+116940775,Exelixis Team,2017-02-18,Greece,within a few hours,100.0,100.0,True,,1,True,False
+85343189,Stelios,2016-07-22,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,True,,1,True,True
+30557317,Alexandros,2015-04-03,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,True
+101003696,Sotiris,2016-10-24,"Athens, Attica region, Greece",,,,False,,0,True,True
+988264,ArchitectureInResidence,2011-08-18,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+93145510,Vasilis,2016-09-02,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,2,True,True
+111082745,George,2017-01-12,"Thessaloniki, Makedonia Thraki, Greece",,,100.0,False,,3,True,False
+74334773,Georgio,2016-05-27,"Athens, Attica, Greece",within an hour,100.0,80.0,True,Ambelokipi,9,True,True
+58902294,Ευφροσυνη,2016-02-15,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,3,True,True
+59049045,Νικολέτα,2016-02-16,"Thessaloniki, Makedonia Thraki, Greece",,,0.0,False,,1,True,True
+103602482,Katerina,2016-11-13,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+45220885,Angelos,2015-09-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,8,True,True
+99189712,Nikolaos,2016-10-11,"Thessaloniki, Greece",within an hour,100.0,92.0,True,,1,True,True
+2930506,Sinodios,2012-07-14,"Thessaloniki, Greece",within an hour,100.0,70.0,True,,12,True,True
+97093551,Kate,2016-09-28,GR,,,,False,,1,True,True
+123710995,Stefania,2017-04-01,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,3,True,True
+111705455,Andrei,2017-01-16,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,97.0,17.0,False,,9,True,False
+1656384,Thanasis,2012-01-26,"Thessaloniki, Makedonia Thraki, Greece",,,100.0,True,,2,True,False
+21080448,Zoe,2014-09-08,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+125653199,Taxiarchoula,2017-04-13,"Thessaloniki, Greece",,,33.0,False,,3,True,True
+45875542,Sofoklis,2015-10-06,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,11,True,True
+126385163,Konstantinos,2017-04-18,"Thessaloniki, Greece",within a day,100.0,25.0,False,,1,True,False
+126896802,Vicky,2017-04-21,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,False
+127313703,Vasiliki,2017-04-24,"Thessaloniki, Greece",within an hour,100.0,80.0,False,,0,True,True
+128671599,Tsiros,2017-05-03,"Thessaloniki, Makedonia Thraki, Greece",within an hour,90.0,97.0,False,,1,True,True
+128968239,Konstantinos,2017-05-05,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,True
+68185288,Athanasia And Vasilis,2016-04-21,"Thessaloniki, Greece",within an hour,100.0,97.0,False,,4,True,True
+129257949,Constantino,2017-05-07,"Thessaloniki, Greece",within a few hours,90.0,70.0,False,,5,True,True
+3636352,Dimitra,2012-09-21,"Thessaloniki, Greece",within an hour,90.0,63.0,False,,2,True,True
+20262754,Theodosios,2014-08-19,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,100.0,False,,1,True,True
+130859314,Antigoni,2017-05-18,"Thessaloniki, Makedonia Thraki, Greece",,,100.0,False,,1,True,False
+131061327,Ιωάννα,2017-05-19,"Thessaloniki, Greece",within an hour,100.0,93.0,True,,2,True,True
+131123623,Nazeli&Markela,2017-05-20,"Thessaloniki, Greece",within an hour,100.0,87.0,True,,1,True,False
+131321573,George,2017-05-21,GR,within an hour,100.0,99.0,False,,3,True,True
+18268417,Athanasios,2014-07-17,Greece,within a day,100.0,83.0,True,,1,True,True
+131449058,Eva,2017-05-22,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+131718021,Mark,2017-05-24,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+131894407,Konstantinos,2017-05-25,"Thessaloniki, Makedonia Thraki, Greece",within an hour,89.0,59.0,False,,4,True,False
+132332540,Konstantinos,2017-05-28,GR,,,,False,,1,True,False
+43205171,Marietta,2015-09-02,"Stuttgart, Baden-Württemberg, Germany",within a day,71.0,100.0,False,,1,True,True
+132809872,Μαρία,2017-05-31,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+20387484,Christos,2014-08-22,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,True
+132904419,Sophia,2017-06-01,"Thessaloniki, Greece",,,70.0,False,,1,True,False
+47605975,John Peter,2015-10-28,"Dortmund, North Rhine-Westphalia, Germany",within a day,100.0,100.0,False,,2,True,True
+79386724,Nick,2016-06-22,"Thessaloniki, Makedonia Thraki, Greece",within an hour,90.0,100.0,False,,1,True,False
+133203550,Theodoros,2017-06-03,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+19827693,Panayota,2017-06-05,FR,a few days or more,33.0,0.0,False,,1,True,False
+53262810,Nikos,2016-01-04,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,True,,2,True,True
+132996550,Thodoris,2017-06-01,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+132330763,Marina,2017-05-28,GR,within a few hours,100.0,100.0,True,,2,True,False
+133895634,George,2017-06-07,"Thessaloniki, Greece",within an hour,80.0,50.0,False,,2,True,False
+134824651,Χαρούλα,2017-06-13,"Thessaloniki, Greece",within a few hours,100.0,,True,,1,True,True
+129587760,Xrysa,2017-05-09,"Larisa, Greece",within an hour,100.0,94.0,True,,2,True,True
+108033866,Apostolos,2016-12-21,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,7,True,True
+25815501,Ilias,2015-01-08,"Kalamaria, Makedonia Thraki, Greece",within an hour,100.0,90.0,False,,1,True,True
+135522367,Alexandros,2017-06-17,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+77080281,Stratos,2016-06-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+83374123,Giannis,2016-07-12,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,96.0,True,,2,True,True
+136467908,Theodoros&Eleni,2017-06-22,"Evosmos, Greece",within an hour,100.0,100.0,True,,1,True,False
+133668199,Georgia And Giannis,2017-06-06,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+136696771,Nikolaos T.,2017-06-24,"Thessaloniki, Greece",within a few hours,100.0,67.0,False,,1,True,False
+135337777,Evi,2017-06-16,"Thessaloniki, Greece",within a few hours,70.0,100.0,False,,2,True,False
+30588847,OlgaMaria,2015-04-04,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,95.0,True,,3,True,True
+137780516,Martha,2017-06-30,GR,a few days or more,40.0,0.0,False,,1,True,False
+132477950,Manos,2017-05-29,"Pella, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,3,True,True
+221305051,Nikolaos,2018-10-18,"Thessaloniki, Greece",,,,False,,1,True,False
+138958373,Panagiotis,2017-07-06,"Thessaloniki, Greece",within an hour,92.0,100.0,False,,2,True,False
+128201878,Yiannis,2017-04-30,"Thessaloniki, Greece",,,94.0,False,,1,True,False
+12950290,Stefanos & Maria,2014-03-09,"Thessaloniki, Greece",within a day,100.0,,True,,1,True,True
+33210188,Christoforos,2015-05-12,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,False
+135801118,Katharina,2017-06-19,"Frankfurt, Hesse, Germany",within a day,100.0,,False,,1,True,False
+140218094,Aristeidis,2017-07-13,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+112417104,Giorgos,2017-01-20,Greece,within an hour,100.0,100.0,True,,1,True,True
+139594341,Κωνσταντινοσ,2017-07-10,"Trikala, Greece",within an hour,100.0,100.0,False,,1,True,True
+65374940,Αγγελική,2016-04-01,GR,within an hour,100.0,100.0,False,,1,True,False
+127065789,Anastasia,2017-04-22,GR,within an hour,100.0,100.0,False,,6,True,False
+135895989,Γεωργιος,2017-06-19,GR,,,,False,,1,True,False
+142030781,Χρυσάνθη,2017-07-23,Greece,within an hour,90.0,100.0,False,,2,True,False
+142346326,Themistoklis Giatagantzidis,2017-07-25,GR,,,,False,,1,True,False
+142392582,Nikos,2017-07-25,GR,within a day,100.0,,False,,1,True,False
+143028633,Stella,2017-07-28,"Grevena, Greece",,,,False,,1,True,False
+143104056,Yiannis,2017-07-29,"Thessaloniki, Greece",within a day,100.0,100.0,False,,3,True,False
+83460669,Nikoleta,2016-07-13,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,96.0,True,,1,True,False
+73158748,Dimitra,2016-05-21,"Thessaloniki, Makedonia Thraki, Greece",a few days or more,0.0,100.0,True,,2,True,True
+144072457,Efi,2017-08-03,"Thessaloniki, Greece",within an hour,100.0,99.0,False,,12,True,True
+144123986,Aris,2017-08-03,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+77666945,Μery,2016-06-14,"London, England, United Kingdom",within an hour,100.0,100.0,False,,2,True,True
+131265770,Anna,2017-05-21,"Thessaloniki, Greece",,,0.0,False,,1,True,True
+145789612,Jens,2017-08-13,Köln / Thessaloniki / Bruxelles,within an hour,100.0,33.0,False,,1,True,True
+146309751,Sandra,2017-08-16,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+146313643,Δημητρης,2017-08-16,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,1,True,True
+135892718,Μαρια,2017-06-19,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,2,True,True
+146642328,Thomas,2017-08-18,GR,,,,False,,1,True,False
+38459666,Kostas,2015-07-14,"Thessaloniki, Greece",within a day,67.0,100.0,False,,1,True,True
+133887934,George,2017-06-07,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,15,True,True
+147397856,Christos,2017-08-23,"State of São Paulo, Brazil",within an hour,100.0,100.0,True,,1,True,True
+147650540,Tina,2017-08-25,SK,within an hour,100.0,97.0,False,,2,True,False
+2692472,Ιάσων,2012-06-20,"Berlin, Berlin, Germany",within an hour,80.0,50.0,False,Wedding,1,True,True
+147771853,Nikos,2017-08-26,"Thessaloniki, Greece",,,,True,,1,True,False
+107328172,Μπλερίνα,2016-12-15,"Athens, Greece",within an hour,100.0,100.0,False,Ilisia,16,True,True
+147790651,Paraskevi,2017-08-26,"Thessaloniki, Greece",,,,False,,2,True,True
+148227501,Dimitra,2017-08-29,"Thessaloniki, Greece",within an hour,100.0,0.0,False,,1,True,True
+148496820,Basilis,2017-08-31,"Kavala Prefecture, Greece",within an hour,100.0,92.0,True,,1,True,False
+145789682,Πάνος,2017-08-13,GR,a few days or more,0.0,,False,,2,True,False
+28267881,Tomas&Cristina! Skgbnb,2015-02-24,Greece,within an hour,100.0,100.0,True,,28,True,True
+148833105,Άννα,2017-09-02,"Thessaloniki, Greece",within an hour,100.0,94.0,False,,1,True,True
+141150273,Maria,2017-07-18,"Thessaloniki, Greece",within an hour,100.0,94.0,True,,3,True,True
+148767540,Thanasis,2017-09-02,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+148515087,Στελλα,2017-08-31,GR,a few days or more,0.0,,False,,2,True,False
+73725966,Κλεοπατρα,2016-05-24,"Thessaloniki, Greece",within an hour,100.0,50.0,False,,1,True,False
+439647,Giorgos,2011-03-13,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,7,True,True
+13575678,Elena,2014-03-26,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+107473102,Dimitris,2016-12-16,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+150998769,Giorgos,2017-09-17,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+151521301,Andreas,2017-09-21,"Heraklion, Greece",within an hour,85.0,98.0,False,,1,True,True
+35754358,Alexandros,2015-06-14,"Thessaloniki, Greece",within an hour,100.0,,False,,1,True,False
+43633063,Harry,2015-09-07,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+152085081,Anastasios,2017-09-25,"Thessaloniki, Greece",within an hour,100.0,0.0,False,,1,True,True
+113774481,Βαγγελης,2017-01-29,"Arta, Greece",within an hour,100.0,100.0,False,,1,True,False
+48996219,Eleni,2015-11-14,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+153803203,Μιχαηλ,2017-10-08,"Thessaloniki, Greece",,,,True,,1,True,True
+154097181,Maria,2017-10-10,"Thessaloniki, Greece",within an hour,86.0,94.0,False,,1,True,False
+104750158,Liana Agathi,2016-11-22,"Thessaloniki, Greece",within an hour,100.0,92.0,True,,3,True,False
+132156641,Ελενη-Μαρια,2017-05-27,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,4,True,True
+154674284,Athanasios,2017-10-15,"Thessaloniki, Greece",,,100.0,False,,1,True,True
+140698007,George,2017-07-16,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,1,True,True
+84700671,Alekos,2016-07-19,"Drama, Greece",within an hour,100.0,100.0,False,,2,True,True
+155241929,Θεοδοσία,2017-10-19,"Sykies, Greece",within an hour,100.0,100.0,True,,1,True,True
+155399708,Elena,2017-10-20,"Thessaloniki, Greece",within an hour,100.0,83.0,False,,2,True,False
+97818740,Matina,2016-10-03,"Thessaloniki, Greece",,,,False,,1,True,False
+64023554,Elisabet-Sofia,2016-03-22,"Thessaloniki, Makedonia Thraki, Greece",,,100.0,False,,2,True,True
+57803027,Romanos,2016-02-07,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,1,True,True
+156505595,Antonia,2017-10-28,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+156606116,Tanti,2017-10-29,"Drama, Greece",within an hour,100.0,100.0,False,,1,True,False
+156625157,Manos,2017-10-29,"Thessaloniki, Greece",,,,False,,1,True,False
+53828488,Stella,2016-01-08,"Thessaloniki, Greece",within a day,100.0,89.0,True,,1,True,False
+157170769,Thesshostel,2017-11-02,"Thessaloniki, Greece",within an hour,90.0,70.0,False,,3,True,False
+11704876,Kostas,2014-01-27,GR,within a day,80.0,100.0,True,,15,True,True
+99863035,Dimitris,2016-10-16,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+157288598,Thanasis,2017-11-03,"Ampelokipoi, Greece",within an hour,100.0,100.0,True,,8,True,True
+3956599,Giorgos,2012-10-23,"Thessaloniki, Greece",,,100.0,False,,1,True,False
+143178386,Konstantina,2017-07-29,"Thessaloniki, Greece",,,100.0,False,,1,True,False
+82685944,Stella,2016-07-09,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,3,True,True
+52290559,Panos,2015-12-26,"Athens, Greece",within an hour,100.0,96.0,True,,2,True,True
+158683009,Χρήστος     Chris,2017-11-14,"Thessaloniki, Greece",,,,False,,1,True,True
+90552640,Angeliki,2016-08-18,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,3,True,True
+17804067,Dimosthenis,2014-07-08,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,False
+157604754,Anthi,2017-11-06,GR,,,,False,,6,True,False
+159092260,Katerina,2017-11-17,"Thessaloniki, Greece",,,,False,,1,True,True
+26799264,Georgios,2015-01-27,"Thessaloniki, Greece",within an hour,90.0,100.0,False,,2,True,False
+158316360,Ruslana,2017-11-11,"Thessaloniki, Greece",within an hour,87.0,99.0,False,,1,True,False
+131624143,Christos,2017-05-23,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,8,True,True
+159109012,Georgi,2017-11-17,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+159346168,Αλέξανδρος,2017-11-19,GR,within an hour,100.0,100.0,True,,1,True,False
+100900795,Chrysanthi,2016-10-23,GR,within an hour,100.0,95.0,True,,3,True,True
+159748182,Roxani,2017-11-22,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+159760098,Nana,2017-11-22,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+149352757,Σωτηρης,2017-09-06,Greece,within a day,71.0,0.0,False,,1,True,False
+153741251,Ευστρατιος,2017-10-08,"Thessaloniki, Greece",within an hour,89.0,100.0,True,,2,True,True
+160052178,Ελένη,2017-11-25,"Thessaloniki, Greece",within a few hours,100.0,86.0,False,,1,True,False
+51290609,Fotini,2015-12-14,"Kalamaria Municipality, Greece",within an hour,100.0,50.0,True,,2,True,True
+160412107,Konstantinos,2017-11-28,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+124090254,Georgia,2017-04-03,GR,,,,False,,1,True,False
+139834170,Michail & Kyriaki,2017-07-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+119396127,Alexandra-Olesia,2017-03-06,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+110518183,Christos,2017-01-08,"Athens, Greece",within an hour,100.0,100.0,True,Neos Kosmos,2,True,False
+161540432,Ioannis,2017-12-06,"Thessaloniki, Greece",within an hour,100.0,91.0,True,,1,True,True
+161620395,Vicky,2017-12-06,"Thessaloniki, Greece",,,100.0,False,,4,True,False
+159745128,Filotas,2017-11-22,"Kastoria, Greece",,,,False,,1,True,False
+162005191,Haris,2017-12-09,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+23692730,Chris,2014-11-13,"Cologne, North Rhine-Westphalia, Germany",,,,True,,3,True,True
+162210738,Asterios,2017-12-11,"Thessaloniki, Greece",,,,False,,1,True,True
+162393276,Luciano  Despina,2017-12-12,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,0,True,True
+142970328,Dimitris,2017-07-28,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,2,True,False
+56978334,Elena,2016-02-01,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+163201011,Evelina & Maria,2017-12-18,GR,,,100.0,False,,1,True,False
+54711534,Εύα,2016-01-15,"Thessaloniki, Greece",,,,True,,1,True,True
+36360618,Eleftheria,2015-06-21,"Thessaloniki, Makedonia Thraki, Greece",within a day,83.0,100.0,True,,1,True,True
+73333419,Marios,2016-05-22,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+163813414,Kleanthi,2017-12-23,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,1,True,False
+163831680,Άντι,2017-12-23,GR,within an hour,100.0,100.0,False,,1,True,False
+163981350,Κally,2017-12-24,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+125718589,Maria,2017-04-13,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,7,True,True
+164492311,Κωνσταντίνος,2017-12-27,"Thessaloniki, Greece",within an hour,100.0,93.0,True,,2,True,False
+164688940,Zoi,2017-12-28,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+163286092,Sophia,2017-12-19,"Thessaloniki, Greece",,,,False,,1,True,True
+165754539,Dimitrios,2018-01-04,"Thessaloniki, Greece",,,,False,,1,True,True
+165754590,Βασιλης,2018-01-04,"Thessaloniki, Greece",,,,False,,1,True,False
+43975077,Eirini,2015-09-11,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+1977386,Cristina&Tomas! Skgbnb,2012-03-20,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,28,True,True
+167133415,Κυριακη,2018-01-11,GR,within an hour,100.0,88.0,False,,2,True,False
+167412477,Konstantinos,2018-01-12,"Thessaloniki, Greece",within a few hours,100.0,88.0,True,,1,True,True
+83469344,PnV,2016-07-13,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,71.0,True,,1,True,True
+153414603,Athina,2017-10-05,"England, United Kingdom",,,,True,,1,True,True
+168484784,Zlatko,2018-01-18,"Skopje, Skopje, Macedonia (FYROM)",,,,True,,1,True,True
+169236925,Dimitris & Athi,2018-01-22,"Thessaloniki, Greece",,,,False,,1,True,False
+170021348,Χριστίνα,2018-01-26,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,5,True,True
+35623480,Ευαγγελια,2015-06-12,"Thessaloniki, Greece",within a few hours,100.0,89.0,True,,1,True,True
+170056972,Artemis,2018-01-26,"Thessaloniki, Greece",within a few hours,100.0,100.0,True,,2,True,True
+19463417,Thomas,2014-08-04,Greece,within an hour,100.0,100.0,True,,7,True,True
+170507468,Ελευθερία,2018-01-29,"Thessaloniki, Greece",within an hour,95.0,85.0,True,,1,True,True
+101580086,Ελισαβετ,2016-10-28,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,3,True,False
+61916991,Velissarios,2016-03-07,"Thessaloniki, Greece",,,88.0,False,,3,True,True
+85832541,Maria,2016-07-25,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,3,True,True
+171595075,Krys,2018-02-04,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+151631,Cathy,2010-06-24,"Thessalonika, Central Macedonia, Greece",,,100.0,False,,3,True,True
+21491649,Maria,2014-09-18,"Thessaloniki, Makedonia Thraki, Greece",within an hour,93.0,100.0,False,,2,True,True
+94449119,Amalia,2016-09-10,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,5,True,True
+172854497,Christos,2018-02-11,"Thessaloniki, Greece",,,0.0,False,,1,True,False
+172782735,Κωνσταντινος,2018-02-11,"Thessaloniki, Greece",,,0.0,False,,1,True,False
+172976764,Stratos,2018-02-12,"Thessaloniki, Greece",within a few hours,70.0,86.0,False,,1,True,False
+173064061,Tarsi,2018-02-12,GR,within an hour,100.0,100.0,False,,1,True,False
+172031811,Maria,2018-02-06,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+120540147,Apostolos,2017-03-13,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,96.0,True,,3,True,False
+146634219,Helias,2017-08-18,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,13,True,True
+113005514,Sonia,2017-01-24,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,98.0,True,,2,True,True
+29217576,Marios,2015-03-12,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,4,True,True
+176004930,Stelios,2018-03-01,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+176195463,Panagiotis S,2018-03-02,"Thessaloniki, Greece",within a day,100.0,100.0,False,,1,True,False
+79421501,Βασιλική,2016-06-23,"Thessaloniki, Greece",,,,True,,1,True,False
+177010645,Xara,2018-03-06,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+177104645,Elena,2018-03-07,Greece,,,,False,,1,True,False
+177329003,Kiki,2018-03-08,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+177830172,Jose,2018-03-11,GR,within a few hours,100.0,100.0,True,,1,True,False
+54654715,Elina,2016-01-14,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,1,True,True
+107373389,Anastasia,2016-12-15,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,3,True,True
+12479325,Nikos,2014-02-22,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+152616771,Αγγελική,2017-09-29,"Thessaloniki, Greece",,,,False,,1,True,False
+138867624,Giannis,2017-07-06,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,1,True,True
+61513537,Aggie,2016-03-04,Greece,within an hour,100.0,88.0,True,,4,True,True
+56755519,Stratos,2016-01-30,"Thessaloniki, Greece",within an hour,100.0,94.0,True,,6,True,True
+81935072,Vicky,2016-07-05,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,1,True,True
+180636529,Pauline,2018-03-26,"Thessaloniki, Greece",within an hour,100.0,57.0,False,,1,True,True
+180641362,Ria,2018-03-26,Greece,within an hour,100.0,100.0,True,,1,True,True
+127798641,Evi,2017-04-27,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,1,True,False
+181279438,Βαγγελης,2018-03-29,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,False
+181566727,Anastasia,2018-03-31,GR,,,100.0,False,,1,True,False
+251290631,Halu!,2019-03-26,"Thessaloniki, Greece",within an hour,98.0,99.0,False,,77,True,True
+176349919,Χρήστος,2018-03-03,"Thessaloniki, Greece",within a few hours,100.0,0.0,False,,1,True,False
+183161769,Eva,2018-04-08,"Kilkis, Greece",,,,False,,1,True,True
+180946246,Orestis & Vaso,2018-03-27,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+180635812,Evangelia,2018-03-26,GR,within a day,100.0,91.0,True,,3,True,True
+183723426,Zoi,2018-04-11,"Xanthi, Greece",within an hour,100.0,83.0,True,,1,True,True
+183526292,Annie,2018-04-10,"Thessaloniki, Greece",within a day,100.0,0.0,False,,1,True,True
+183870920,George,2018-04-12,GR,within an hour,100.0,100.0,True,,1,True,True
+160330109,Yorgos,2017-11-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+173996973,Απόστολος,2018-02-18,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+92012839,Tp9,2016-08-26,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,5,True,False
+65625697,Xristina,2016-04-03,"Thessaloniki, Makedonia Thraki, Greece",within a day,100.0,0.0,True,,1,True,True
+169337214,Iraklis,2018-01-22,"Athens, Greece",a few days or more,40.0,0.0,False,,1,True,False
+184393279,Asimenia,2018-04-15,"Thessaloniki, Greece",within an hour,80.0,100.0,False,,1,True,False
+18596145,Maggie,2014-07-21,"Greater London, England, United Kingdom",within a few hours,100.0,75.0,False,,3,True,True
+184589109,Dion,2018-04-16,"Thessaloniki, Greece",,,,True,,2,True,False
+184726033,Angelos,2018-04-17,"Frankfurt, Hesse, Germany",within an hour,92.0,97.0,False,,1,True,True
+171945020,Marietta,2018-02-06,"Thessaloniki, Greece",within an hour,100.0,96.0,False,,2,True,False
+181038870,City Apartments,2018-03-28,"Thessaloniki, Greece",within an hour,100.0,92.0,True,,11,True,True
+66142221,Villy,2016-04-07,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,67.0,True,,1,True,True
+5868763,Dimitra,2013-04-10,"Arlington, Massachusetts, United States",,,,False,,1,True,True
+185616424,Vaggelis,2018-04-22,GR,within an hour,100.0,100.0,True,,2,True,True
+100776361,Μανωλης,2016-10-22,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,57.0,False,,2,True,False
+186207911,Kiriaki,2018-04-25,"Thessaloniki, Greece",,,,False,,1,True,True
+39701255,Sissy,2015-07-27,"Athens, Greece",within a few hours,100.0,67.0,True,Thiseio,10,True,True
+156655983,Natasa,2017-10-29,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,3,True,True
+66583254,Georgios,2016-04-10,"Imathia, Greece",,,,True,,3,True,False
+180659093,Ευριπίδης,2018-03-26,"Thessaloniki, Greece",,,100.0,False,,1,True,True
+186706052,Αλεξάνδρα,2018-04-28,"Sozopoli, Greece",within an hour,100.0,,False,,0,True,True
+186779872,Vaia,2018-04-28,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+147828869,Nikos,2017-08-26,"Thessaloniki, Greece",,,,False,,1,True,False
+187304458,Eva,2018-05-01,"Thessaloniki, Greece",,,0.0,False,,1,True,True
+33425468,Irini,2015-05-15,"Athens, Greece",within an hour,100.0,83.0,True,Kolonaki,6,True,True
+184679680,Δέσποινα,2018-04-16,"Thessaloniki, Greece",within a day,86.0,100.0,True,,1,True,True
+178748602,Ευαγγελια,2018-03-16,GR,within a few hours,90.0,56.0,False,,1,True,False
+188143086,Μαρία,2018-05-06,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,2,True,True
+60724536,Alexandros,2016-02-28,"Thessaloniki, Greece",within an hour,100.0,92.0,True,,2,True,False
+178040585,Neni,2018-03-12,"Thessaloniki, Greece",within an hour,100.0,93.0,True,,1,True,True
+188701659,Ολγα,2018-05-09,"Thessaloniki, Greece",a few days or more,0.0,50.0,False,,0,True,False
+155218887,Όλγα,2017-10-19,Greece,within an hour,100.0,94.0,False,,2,True,True
+152956485,Ioannis,2017-10-02,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,1,True,True
+187680477,Γεωργία-Ιωάννα,2018-05-03,"Serres, Greece",,,,False,,1,True,False
+139438705,Γεωργιος,2017-07-09,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,1,True,True
+65400347,Aspa,2016-04-01,"Thessaloniki, Greece",within a few hours,100.0,75.0,False,,1,True,False
+190915943,Δημήτρης -,2018-05-22,"Thessaloniki, Greece",within an hour,100.0,73.0,True,,1,True,True
+177876927,Sofia,2018-03-11,"Thessaloniki, Greece",within a few hours,100.0,86.0,False,,1,True,False
+144728982,Theologos,2017-08-07,GR,within a day,70.0,75.0,False,,2,True,False
+191894597,Katerina,2018-05-27,"Thessaloniki, Greece",,,,False,,2,True,False
+191229288,Afroditi,2018-05-23,"Thessaloniki, Greece",,,,False,,1,True,False
+191343806,Kostas,2018-05-24,"Zografou, Greece",,,,False,,1,True,False
+132519862,Ioanna,2017-05-29,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,False
+191741679,Dimitris,2018-05-26,"Thessaloniki, Greece",,,,False,,1,True,False
+191775177,Despoina,2018-05-26,"Thessaloniki, Greece",,,,False,,1,True,False
+152667344,Fey,2017-09-30,"Thessaloniki, Greece",within an hour,100.0,97.0,False,,1,True,True
+191890565,Γιωργος,2018-05-27,"Stavroupoli, Greece",within an hour,100.0,100.0,False,,1,True,False
+192228216,Dimitris & Anna,2018-05-29,"Thessaloniki, Greece",within a few hours,100.0,64.0,True,,1,True,True
+81885213,Alkis,2016-07-05,"Thessaloniki, Greece",,,,False,,1,True,True
+192300468,Evangelia,2018-05-29,"Thessaloniki, Greece",within a few hours,90.0,94.0,False,,4,True,False
+186780483,Fotis,2018-04-28,"Thessaloniki, Greece",,,100.0,False,,1,False,False
+29221613,Bill,2015-03-12,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,3,True,True
+190714599,Mairi,2018-05-21,GR,,,100.0,False,,1,True,True
+192695088,Stathis,2018-05-31,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,1,True,True
+168379541,Olga,2018-01-17,"Thessaloniki, Greece",,,,False,,1,True,True
+193044314,Ariadni,2018-06-02,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,2,True,True
+173867715,Βασίλειος,2018-02-17,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+57429171,Laura,2016-02-04,"Thessaloniki, Greece",within a day,92.0,74.0,True,,0,True,True
+194015710,Athanasios,2018-06-07,"Thessaloniki, Greece",within a few hours,88.0,95.0,False,,1,True,False
+87942846,Erik,2016-08-04,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,1,True,True
+194278018,Maria,2018-06-08,"Thessaloniki, Greece",,,100.0,False,,2,True,False
+59601430,John,2016-02-20,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,98.0,True,,1,True,True
+194903530,Akis,2018-06-11,GR,within an hour,100.0,100.0,True,,1,True,True
+184991356,Βικυ,2018-04-18,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+195221405,Stratos & Oly,2018-06-12,"Thessaloniki, Greece",within an hour,100.0,94.0,True,,1,True,False
+139908976,Zoe,2017-07-11,"Thessaloniki, Greece",within a day,50.0,100.0,True,,1,True,True
+81845078,Georgia,2016-07-05,"Thessaloniki, Makedonia Thraki, Greece",,,,True,,3,True,True
+149664142,Labros,2017-09-08,Greece,within an hour,100.0,88.0,True,,1,True,False
+195991693,Lucia,2018-06-16,"Old Town, Bratislava Region, Slovakia",within an hour,100.0,82.0,True,,1,True,True
+163542759,Emmanouil,2017-12-21,GR,,,100.0,False,,3,True,False
+145800043,Dimitris,2017-08-13,"Thessaloniki, Greece",within a few hours,90.0,93.0,False,,4,True,True
+197543386,Aristeidis,2018-06-23,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,1,True,True
+197756060,Erasmus,2018-06-24,Serbia,within an hour,100.0,39.0,False,,10,True,True
+197075849,Chara,2018-06-21,"Thessaloniki, Greece",within an hour,100.0,64.0,True,,1,True,False
+98915175,Τόνι,2016-10-09,"Thessaloniki, Greece",within an hour,100.0,87.0,False,,0,True,True
+193396359,Zaxaria,2018-06-04,"Thessaloniki, Greece",within an hour,100.0,56.0,False,,1,True,False
+186568120,Foteini,2018-04-27,Greece,within an hour,100.0,99.0,True,,8,True,True
+69811132,Despina,2016-05-01,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+119416356,Fani,2017-03-06,"Limassol, Limassol, Cyprus",within an hour,100.0,100.0,True,,10,True,True
+83731314,Αντιγόνη,2016-07-14,Greece,,,,False,,1,True,True
+198638021,Christina,2018-06-28,"Thessaloniki, Greece",within an hour,100.0,,True,,2,True,True
+192756619,Leon,2018-05-31,"Katerini, Greece",within a day,100.0,50.0,False,,2,True,False
+188823477,Stamatis,2018-05-10,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,1,True,True
+71480414,Georgia,2016-05-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+200403485,Meni,2018-07-06,GR,,,100.0,False,,1,True,True
+200822297,Demetrius,2018-07-08,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+201094259,Khrystyna,2018-07-09,GR,a few days or more,0.0,,False,,1,True,False
+202072189,Eleftherios And Georgios,2018-07-13,"Thessaloniki, Greece",within an hour,100.0,71.0,True,,1,True,True
+202691300,Shukri,2018-07-16,"Thessaloniki, Greece",,,,True,,1,True,False
+202804753,Lampros,2018-07-16,"Thessaloniki, Greece",,,100.0,False,,1,True,True
+203006807,Xrysa,2018-07-17,"Thessaloniki, Greece",within an hour,100.0,92.0,False,,1,True,False
+202100027,Ринат,2018-07-13,"Yekaterinburg, Sverdlovsk Oblast, Russia",a few days or more,25.0,74.0,False,,2,True,False
+203934240,Vivi,2018-07-21,"Pieria, Greece",,,0.0,False,,1,True,False
+204058549,Καλλιοπη,2018-07-21,"Thessaloniki, Greece",within an hour,90.0,100.0,False,,1,True,False
+200203621,Χάρης,2018-07-05,"Ampelokipoi, Greece",,,,False,,1,True,True
+205010704,Maximos,2018-07-25,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+191677690,Michail,2018-05-26,"Thessaloniki, Greece",,,,False,,3,True,False
+204997816,Odyssey,2018-07-25,"Thessaloniki, Greece",,,100.0,False,,2,True,True
+49272219,Timos,2015-11-17,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,5,True,True
+205246669,Ognen,2018-07-26,"Skopje, Greater Skopje, North Macedonia",within a few hours,100.0,100.0,False,,1,True,False
+5374228,Aliki And Vicky,2013-03-08,"Thessaloniki, Makedonia Thraki, Greece",within a day,100.0,50.0,True,,2,True,False
+13578667,Nikos,2014-03-26,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,False
+85787199,Μαρίζα,2016-07-25,"Thessaloniki, Greece",,,,False,,0,True,True
+205979386,Ioannis,2018-07-29,"Florina, Greece",within an hour,100.0,100.0,False,,1,True,False
+43532708,Theofilos,2015-09-06,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+135014496,Ελενη,2017-06-14,"Kassandreia, Greece",,,100.0,False,,3,True,False
+206919381,Dimitris,2018-08-02,"Thessaloniki, Greece",,,,False,,1,True,True
+96012982,Lena,2016-09-20,"Serres, Makedonia Thraki, Greece",,,100.0,False,,1,True,True
+207380943,Λίνα,2018-08-04,"Thessaloniki, Greece",within a few hours,100.0,,True,,1,True,True
+97519808,George,2016-10-01,"Thessaloniki, Greece",within an hour,100.0,96.0,False,,4,True,True
+208680235,Sofia,2018-08-10,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,1,True,False
+208702499,Αλεξανδροσ,2018-08-10,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+79426820,Margaret,2016-06-23,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,0.0,True,,4,True,True
+209048307,Sofia,2018-08-12,GR,within a few hours,100.0,75.0,False,,1,True,False
+8112878,Eleftheria,2013-08-12,"Thessaloniki, Greece",within an hour,100.0,86.0,True,,3,True,True
+76977208,Kyriaki,2016-06-10,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+161980008,Christina,2017-12-09,"Thessaloniki, Greece",,,100.0,True,,1,True,False
+208910560,Anastasia,2018-08-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+191164222,Liza,2018-05-23,"Thessaloniki, Greece",within an hour,100.0,95.0,True,,3,True,True
+210150592,George,2018-08-17,Greece,within an hour,100.0,100.0,True,,1,True,False
+205714698,Mixalis,2018-07-28,"Thessaloniki, Greece",,,,False,,1,True,True
+207956145,Damianos,2018-08-07,"Thessaloniki, Greece",,,,False,,1,True,True
+210672602,Elena And Theodora,2018-08-20,"Thessaloniki, Greece",within a few hours,67.0,0.0,False,,1,True,True
+210641246,Ελενη,2018-08-20,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+126609482,Periklis,2017-04-19,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,0,True,False
+151486012,Π.38,2017-09-21,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,2,True,True
+83083439,Efstratios,2016-07-11,"Dramaga, West Java, Indonesia",within an hour,100.0,89.0,True,,1,True,False
+56007433,Helen,2016-01-25,"Thessaloniki, Makedonia Thraki, Greece",,,92.0,True,,1,True,True
+98944719,Marios,2016-10-09,"Thessaloniki, Makedonia Thraki, Greece",a few days or more,0.0,,False,,2,True,True
+212385136,Δημητρης,2018-08-29,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+212454949,Evans' Apartments,2018-08-29,"Thessaloniki, Greece",within an hour,96.0,100.0,True,,4,True,True
+70469038,Dimitris,2016-05-05,"Thessaloniki, Greece",within a day,100.0,,False,,2,True,True
+101933240,Giannis,2016-10-31,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,6,True,True
+188458774,Arcus O.E.,2018-05-08,"Thessaloniki, Greece",within an hour,100.0,0.0,False,,3,True,True
+192021753,Kosmas,2018-05-28,"Thessaloniki, Greece",within an hour,90.0,88.0,False,,3,True,False
+182786997,Natasha,2018-04-06,"Athens, Greece",within an hour,100.0,97.0,True,Exarcheia,26,True,True
+212951050,Σωκράτης,2018-09-01,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,2,True,True
+212955058,Νικολαος,2018-09-01,"Thessaloniki, Greece",,,,False,,3,True,False
+36729806,Olga,2015-06-25,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+113000896,Niovi,2017-01-24,"Thessaloniki, Greece",,,,False,,2,True,False
+213343119,Δημητρα,2018-09-03,"Thessaloniki, Greece",within an hour,97.0,99.0,True,,7,True,True
+144957967,FlatMe Inn,2017-08-08,"Thessaloniki, Greece",within a day,55.0,30.0,False,,4,True,True
+213501641,Στέλλα,2018-09-04,GR,within a day,100.0,0.0,True,,1,True,False
+24476368,@Lidaslan,2014-12-04,"Thessaloniki, Greece",within an hour,100.0,75.0,False,,1,True,True
+213575470,Giorgos,2018-09-04,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+189718364,Ilias,2018-05-15,GR,,,100.0,True,,2,True,True
+213760982,Christos,2018-09-05,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+121533440,Emmanouil,2017-03-19,"Thessaloniki, Greece",within a few hours,98.0,99.0,False,,4,True,True
+149563767,Basilhs,2017-09-07,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,1,True,True
+152957954,Dimitris,2017-10-02,"Thessaloniki, Greece",,,57.0,False,,2,True,True
+44859130,Georgios Christos,2015-09-22,"Thessaloniki, Greece",within an hour,100.0,80.0,False,,0,True,True
+201743827,Athanasios,2018-07-12,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+214857203,Powerbnb,2018-09-11,"Thessaloniki, Greece",within an hour,100.0,98.0,False,,28,True,False
+214971381,Λουκάς,2018-09-12,"Thessaloniki, Greece",within a day,100.0,92.0,False,,2,True,False
+215190004,Αριστειδης,2018-09-13,"Thessaloniki, Greece",,,100.0,False,,1,True,True
+215336774,Leonidas,2018-09-14,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+215405380,Sarantos,2018-09-14,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+15947370,Eleni,2014-05-25,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,1,True,False
+124880975,Δημήτριος,2017-04-08,"Thessaloniki, Greece",within an hour,100.0,,False,,1,True,True
+216575625,Ksenia,2018-09-21,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+208478112,Martha,2018-08-09,"Amsterdam, North Holland, Netherlands",,,100.0,True,,1,True,False
+213607660,Γεωργιος,2018-09-04,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,1,True,False
+201521114,Odysseas,2018-07-11,Greece,within an hour,100.0,100.0,True,,11,True,True
+217167619,Christina,2018-09-25,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,1,True,True
+217232163,Kalypso,2018-09-25,"Thessaloniki, Greece",within a few hours,80.0,94.0,False,,1,True,False
+79332006,Γεωργιος,2016-06-22,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+46831775,Nadia,2015-10-18,"Brighton, England, United Kingdom",within a few hours,100.0,100.0,False,,3,True,True
+12152296,Agapios,2014-02-11,"Serres, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,2,True,False
+170705913,Katerina,2018-01-30,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,2,True,True
+219903195,Konstantinos,2018-10-10,GR,within an hour,100.0,38.0,False,,1,True,False
+220097491,Vicky,2018-10-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+220242789,Mileta,2018-10-12,"Lesbos Prefecture, Greece",within a day,100.0,60.0,True,,1,True,False
+162394535,Giolanda,2017-12-12,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+172820294,Tasos,2018-02-11,"Thessaloniki, Greece",,,,False,,1,True,False
+220429060,Φωτης,2018-10-13,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,2,True,True
+220521246,Christina,2018-10-14,"Ioannina, Greece",within a few hours,100.0,100.0,True,,1,True,True
+220562392,Μαρίλη,2018-10-14,GR,,,99.0,False,,1,True,False
+220724747,Χρυσουλα,2018-10-15,GR,,,,False,,1,True,False
+221375217,Maria,2018-10-18,"Thessaloniki, Greece",,,100.0,False,,2,True,False
+221510026,Chrysa,2018-10-19,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+221597727,Herakles,2018-10-19,"Thessaloniki, Greece",within an hour,100.0,86.0,True,,1,True,False
+103104510,Theodoros,2016-11-09,"Thessaloniki, Greece",within an hour,100.0,91.0,True,,7,True,True
+221677687,Jely,2018-10-20,"Thessaloniki, Greece",within an hour,100.0,94.0,True,,1,True,False
+159180103,Αικατερινη,2017-11-18,"Alexandroupoli, Greece",within an hour,100.0,100.0,False,,2,True,False
+221986652,Stavros,2018-10-22,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,1,True,False
+16145888,Χαρης,2014-05-29,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,False
+119884428,Christina,2017-03-09,"Thessaloniki, Greece",,,100.0,True,,1,True,False
+221995771,Grigoris,2018-10-22,"Thessaloniki, Greece",within an hour,78.0,94.0,False,,1,True,False
+222425241,Θανασης-Σταύρος,2018-10-24,GR,within an hour,100.0,100.0,True,,1,True,False
+222957907,Lazaros And Mary,2018-10-28,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,4,True,True
+223032300,Aimilios,2018-10-28,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+223109407,Δημητριος,2018-10-29,"Mikonos, Greece",within an hour,100.0,100.0,False,,1,True,True
+64479602,Konstantinos,2016-03-25,"Corfu, Greece",,,,False,,2,True,True
+224059789,George,2018-11-03,"Thessaloniki, Greece",,,,False,,1,True,False
+224106327,Αναστασία,2018-11-04,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,1,True,True
+185126554,Ελισάβετ,2018-04-19,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,1,True,False
+224288660,Δημήτρης,2018-11-05,"Thessaloniki, Greece",within an hour,100.0,85.0,True,,9,True,False
+160843255,Christos,2017-12-01,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,4,True,True
+42519930,George,2015-08-25,"Thessaloniki, Greece",within an hour,92.0,100.0,False,,3,True,True
+63930608,Paraskevi,2016-03-21,GR,,,,False,,7,True,False
+224595315,Κωνσταντίνος,2018-11-07,"Thessaloniki, Greece",within an hour,100.0,97.0,False,,2,True,False
+224820275,Maria,2018-11-08,"Thessaloniki, Greece",,,,True,,1,True,True
+44262685,Christos,2015-09-15,"Evosmos, Greece",within an hour,100.0,100.0,True,,1,True,False
+224992336,Gelena,2018-11-09,GR,within an hour,100.0,100.0,False,,1,True,True
+61406542,Kelly,2016-03-03,"Sykies, Greece",within an hour,100.0,100.0,False,,1,True,False
+164399689,Nikos,2017-12-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+185879969,Aikaterina,2018-04-23,Netherlands,within an hour,100.0,100.0,True,,2,True,True
+225130660,Charalampos,2018-11-10,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,5,True,True
+146897269,Γιαννης,2017-08-20,"Thessaloniki, Greece",,,,False,,1,True,True
+225584563,Mary,2018-11-13,"Thessaloniki, Greece",,,100.0,False,,2,True,False
+125487568,Kalliopi,2017-04-12,"Mykonos, Greece",within a day,100.0,100.0,True,,2,True,True
+225691103,Άννα,2018-11-14,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,1,True,False
+226024200,Elias,2018-11-16,GR,within an hour,100.0,100.0,False,,2,True,False
+169125332,Adam,2018-01-21,"Thessaloniki, Greece",within an hour,100.0,,False,,1,True,False
+226679146,Georgia,2018-11-20,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+76702547,Haris,2016-06-09,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,5,True,False
+227128474,Kiriaki,2018-11-23,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,2,True,True
+227181951,John,2018-11-23,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,4,True,False
+227650961,Apostolos,2018-11-26,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+227815368,Pantelis,2018-11-27,GR,,,,False,,1,True,False
+22236951,Antigoni,2014-10-07,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,91.0,True,,1,True,False
+198675916,Vasilis-Nadia,2018-06-28,"Thessaloniki, Greece",within an hour,100.0,,True,,1,True,False
+226026189,Ioannis,2018-11-16,GR,within an hour,100.0,100.0,True,,1,True,False
+89781010,Παναγιωτης,2016-08-14,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,True
+228411409,Panagiota,2018-11-30,"Thessaloniki, Greece",within a few hours,100.0,100.0,True,,1,True,True
+158928789,Βασίλης,2017-11-16,"Thessaloniki, Greece",within an hour,67.0,88.0,False,,2,True,False
+185535470,Christos,2018-04-21,"Thessaloniki, Greece",within an hour,100.0,95.0,False,,4,True,False
+73025738,Mirella,2016-05-20,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,False
+149587425,Afroditi,2017-09-07,"Thessaloniki, Greece",,,,False,,1,True,False
+229800216,Konstantinos,2018-12-09,GR,within an hour,100.0,92.0,False,,1,True,True
+221661693,Θωμάς,2018-10-20,GR,a few days or more,0.0,,True,,1,True,False
+230311505,Κυριακή,2018-12-12,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+103953301,Tzanis,2016-11-16,"Thessaloniki, Makedonia Thraki, Greece",,,100.0,False,,1,True,False
+230361145,Μαρία,2018-12-12,"Thessaloniki, Greece",within an hour,100.0,93.0,False,,1,True,False
+230953558,Ioanna,2018-12-16,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+131472362,Georgia,2017-05-22,"Thessaloniki, Greece",within a few hours,75.0,100.0,False,,3,True,False
+190962927,Αλεξάνδρα,2018-05-22,GR,within a few hours,94.0,70.0,False,,1,True,False
+231332217,Dimitris,2018-12-18,GR,,,,False,,1,True,False
+231664008,Stef & George,2018-12-20,GR,within an hour,100.0,100.0,True,,1,True,True
+231779641,Eleni,2018-12-21,"Thessaloniki, Greece",within an hour,100.0,92.0,True,,1,True,True
+231795185,Souzana,2018-12-21,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,7,True,True
+231963438,Tasos,2018-12-22,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+42391189,Eleni,2015-08-24,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+170439612,Χρύσα,2018-01-28,GR,within a few hours,100.0,88.0,False,,1,True,False
+232098635,Maria,2018-12-23,"Thessaloniki, Greece",within a few hours,62.0,44.0,False,,0,True,False
+134680289,Χρυσαυγή,2017-06-12,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,2,True,True
+171408300,Horizone,2018-02-03,GR,within an hour,100.0,98.0,False,,99,True,True
+232331553,Ιωάννης,2018-12-25,"Thessaloniki, Greece",within an hour,100.0,71.0,False,,1,True,True
+232380771,Konstantinos,2018-12-25,"Thessaloniki, Greece",within a few hours,100.0,0.0,False,,1,True,False
+231651449,Maria,2018-12-20,"Thessaloniki, Greece",within an hour,90.0,100.0,False,,1,True,True
+233100565,Βασίλης,2018-12-29,"Kalamaria Municipality, Greece",,,100.0,True,,1,True,False
+233122646,Χρυσανθη,2018-12-29,GR,within an hour,100.0,100.0,True,,1,True,False
+47615492,Savas & Anthi,2015-10-28,"London, England, United Kingdom",within an hour,100.0,100.0,False,,8,True,True
+22757164,Elif,2014-10-20,"Istanbul, Turkey",within a few hours,90.0,82.0,False,,1,True,True
+233795353,Stavroula,2019-01-02,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+233796956,Λουκία,2019-01-02,"Thessaloniki, Greece",within a few hours,100.0,100.0,True,,1,True,True
+233599991,Χρήστος,2019-01-01,"Thessaloniki, Greece",within an hour,83.0,99.0,False,,16,True,True
+223753704,Δεσποινα,2018-11-02,Greece,within an hour,100.0,100.0,False,,6,True,False
+2295249,Angelos,2012-05-05,"Thessaloniki, Greece",within an hour,100.0,50.0,False,,3,True,True
+89814111,Izzy,2016-08-14,"Thessaloniki, Greece",,,,False,,1,True,True
+187115067,Michalis,2018-04-30,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+236468936,Panagiota,2019-01-14,GR,within an hour,100.0,100.0,True,,1,True,False
+236705522,Eva,2019-01-15,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+236718071,Kostas,2019-01-15,"Thessaloniki, Greece",within a few hours,100.0,61.0,True,,3,True,True
+234511451,Giorgos,2019-01-05,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+237068350,Γιώργος,2019-01-16,GR,within an hour,100.0,100.0,True,,1,True,True
+98754261,Nikolaos,2016-10-08,"Thessaloniki, Greece",within a day,50.0,100.0,False,,1,True,False
+203563891,Kyriaki,2018-07-19,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,False
+231048679,Luxlikehome,2018-12-17,"Thessaloniki, Greece",within an hour,100.0,98.0,False,Οικισμός Ναυτίλος,54,True,True
+238050571,Aggelos,2019-01-21,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,False
+143300198,Λιλιαν,2017-07-30,"Thessaloniki, Greece",,,,True,,1,True,False
+47003450,Katerina,2015-10-20,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,2,True,True
+12649011,Konstantinos,2014-02-27,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,2,True,False
+182910846,Alexandros,2018-04-07,"Kalamaria Municipality, Greece",,,100.0,True,,3,True,True
+100722766,Panagiotis,2016-10-22,"Thessaloniki, Greece",within an hour,100.0,93.0,True,,1,True,True
+239782172,Angeliki,2019-01-29,"Thessaloniki, Greece",within a few hours,100.0,67.0,False,,1,True,False
+163123431,Ntemi And Nick,2017-12-18,"Plagiari, Greece",within an hour,100.0,100.0,True,,7,True,True
+240135236,Elguja,2019-01-31,GR,,,0.0,False,,1,True,False
+232673627,Νίκη,2018-12-27,"Thessaloniki, Greece",within an hour,90.0,100.0,True,,1,True,True
+239938628,Rena,2019-01-30,GR,,,,False,,1,True,False
+66945791,Dimitris,2016-04-12,"Thessaloniki, Greece",within an hour,100.0,91.0,True,,2,True,False
+240617065,Theodoros,2019-02-02,"Thessaloniki, Greece",within an hour,100.0,93.0,True,,1,True,False
+240865852,Dimitris,2019-02-03,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+215257870,Sofia,2018-09-13,"Xanthi, Greece",within an hour,100.0,100.0,True,,1,True,True
+239676141,Κωνσταντίνος,2019-01-29,GR,within an hour,100.0,100.0,False,,2,True,True
+241679834,Natalia,2019-02-07,GR,,,,False,,1,True,False
+59212565,Dimitris,2016-02-17,"Thessaloniki, Makedonia Thraki, Greece",,,71.0,False,,2,True,True
+231424463,Sotiris,2018-12-19,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,11,True,True
+23053675,Katie,2014-10-28,"Dromana, Victoria, Australia",within an hour,100.0,100.0,True,,2,True,True
+143345116,Eugenia & Giota,2017-07-30,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+242887583,Maria,2019-02-13,GR,within an hour,100.0,100.0,False,,2,True,False
+242887022,Mike,2019-02-13,GR,a few days or more,20.0,0.0,False,,1,True,False
+243870145,Κωνσταντίνος,2019-02-18,"Thessaloniki, Greece",,,100.0,True,,1,True,False
+220006733,Kleopatra,2018-10-11,"Kastoria, Greece",,,,True,,1,True,False
+244049319,Lefki,2019-02-19,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+244075412,Fotis,2019-02-19,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+206936534,Nikoletta,2018-08-02,"Ampelokipoi, Greece",within an hour,100.0,100.0,False,,2,True,True
+244506342,Anthoula,2019-02-21,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+101193924,Vassilis,2016-10-25,GR,within an hour,100.0,80.0,False,,4,True,True
+244856622,Pantelis,2019-02-23,"Thessaloniki, Greece",,,,True,,1,True,False
+33923077,Βασίλης,2015-05-21,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,7,True,True
+147775656,Konstantinos,2017-08-26,"Thessaloniki, Greece",,,100.0,True,,1,True,True
+245045714,Kostis,2019-02-24,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,1,True,True
+245096184,Veroni,2019-02-24,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+44815306,Eva,2015-09-22,GR,within an hour,100.0,100.0,True,,4,True,True
+11087486,Maria,2014-01-07,"Athens, Greece",within an hour,100.0,100.0,False,,3,True,True
+245365966,Stavroula,2019-02-25,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+205304978,Christos,2018-07-26,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,3,True,True
+189888751,Ειρήνη,2018-05-16,"Thessaloniki, Greece",,,100.0,False,,1,True,False
+156282533,Stauros,2017-10-26,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,5,True,True
+246318277,Σοφια,2019-03-02,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+246343879,Ioanna,2019-03-02,GR,within an hour,100.0,97.0,False,,4,True,False
+246551430,Χρήστος,2019-03-03,GR,,,,False,,1,True,False
+98300577,Simeon,2016-10-05,"Thessaloniki, Greece",within an hour,100.0,67.0,False,,1,True,True
+246736543,Κωνσταντινος,2019-03-04,"Triadi, Greece",within an hour,100.0,100.0,True,,1,True,True
+86924681,Dimitrios,2016-07-30,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,True,,1,True,True
+246800873,Στέλλα,2019-03-04,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+76121749,Chronis,2016-06-06,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,1,True,False
+247097053,Dimitrios,2019-03-05,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+247201553,Magdalena,2019-03-06,"Warsaw, Masovian Voivodeship, Poland",within an hour,100.0,100.0,False,,1,True,True
+247279454,Olga,2019-03-06,GB,within an hour,100.0,98.0,False,,2,False,True
+144565760,Vasilis,2017-08-06,"New York, New York, United States",,,,False,,1,True,True
+191321294,Evdokia,2018-05-24,"Thessaloniki, Greece",a few days or more,0.0,50.0,False,,2,True,True
+196117500,Thalia,2018-06-17,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,False
+248594961,Floris,2019-03-13,"England, United Kingdom",within an hour,100.0,100.0,False,,1,True,True
+239757255,Matina,2019-01-29,"Lamia, Greece",,,,False,,1,True,False
+78078357,Chrisoula,2016-06-16,"Pefka, Greece",within an hour,100.0,100.0,True,,2,True,False
+208248942,Lila,2018-08-08,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,3,True,False
+249408335,Lydia,2019-03-17,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+9450320,Tatiana And Floris,2013-10-15,"London, England, United Kingdom",within an hour,100.0,100.0,False,,5,True,True
+249656129,Konstantinos,2019-03-18,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+16161258,Ektoras,2014-05-30,"Thessaloniki, Greece",within a few hours,100.0,90.0,True,,2,True,True
+13887464,Δωροθέα,2014-04-04,"Thessaloniki, Greece",within an hour,100.0,95.0,True,,3,True,True
+250057218,Mary,2019-03-20,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+242446438,Σπύρος,2019-02-11,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+171827887,Nasia,2018-02-05,"Thessaloniki, Greece",within an hour,83.0,100.0,False,,0,True,True
+87094895,Dimitrios,2016-07-31,"Kavala Prefecture, Greece",within an hour,100.0,100.0,False,,1,True,True
+91247024,Anthony,2016-08-22,"Thessaloniki, Greece",a few days or more,0.0,100.0,False,,1,True,False
+152282353,Coskun,2017-09-27,"Thessaloniki, Greece",,,67.0,True,,2,True,True
+187473058,Αντιγονη,2018-05-02,GR,within a few hours,71.0,0.0,False,,2,True,False
+25320105,Manos,2014-12-28,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,True
+251519195,Xrysa,2019-03-27,"Thessaloniki, Greece",,,100.0,True,,0,True,False
+65097374,Panagiotis,2016-03-30,"Thessaloniki, Greece",within an hour,96.0,99.0,False,,1,True,True
+120679277,Svetlana,2017-03-14,"Moscow, Moscow, Russia",within an hour,100.0,83.0,False,,1,True,True
+135596507,Nina,2017-06-18,"Kalamaria Municipality, Greece",within an hour,100.0,95.0,True,,1,True,False
+249810265,Ilias,2019-03-19,GR,,,,False,,5,True,False
+251960683,Anastasia & Pavlos,2019-03-29,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+178290282,Κώστας,2018-03-13,GR,within an hour,100.0,100.0,False,,4,True,True
+252017992,Vicky,2019-03-29,GR,within an hour,100.0,96.0,False,,1,True,False
+201490114,"Athina, Ioanna & Katerina",2018-07-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+242007705,Maria,2019-02-09,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+77866488,Katia,2016-06-15,"Thessaloniki, Makedonia Thraki, Greece",within a day,100.0,100.0,False,,1,True,False
+252704557,George,2019-04-02,"Ilion, Greece",within an hour,100.0,100.0,True,,1,True,True
+252822695,Magda,2019-04-02,"Thessaloniki, Greece",within an hour,100.0,98.0,False,,1,True,True
+23689070,LIG Urban Living,2014-11-13,"Melbourne, Victoria, Australia",within a few hours,100.0,100.0,True,,2,True,True
+180953199,Αθηνά,2018-03-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+253071687,Apostolos,2019-04-03,"Thessaloniki, Greece",,,0.0,False,,4,True,True
+253177530,Maria,2019-04-04,GR,a few days or more,0.0,0.0,False,,1,True,False
+253289473,Evapollo,2019-04-04,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,2,True,False
+253503787,Αννα Χρήστος,2019-04-05,GR,within an hour,100.0,100.0,False,,1,True,False
+21803832,Philip,2014-09-26,"Laatzen, Lower Saxony, Germany",within a few hours,100.0,0.0,False,,1,True,True
+8875256,Alex,2013-09-16,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+255318027,George,2019-04-12,"Thessaloniki, Greece",,,,False,,1,True,False
+41837560,Nena,2015-08-18,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,False
+255716900,Σπύρος,2019-04-14,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,1,True,False
+255835194,Rebeka,2019-04-14,"Tel Aviv-Yafo, Tel Aviv District, Israel",within an hour,100.0,95.0,True,,1,True,False
+253837597,Kalliopi,2019-04-07,GR,within a few hours,100.0,100.0,False,,1,True,True
+256193295,Konstantinos,2019-04-16,"Thessaloniki, Greece",within an hour,100.0,87.0,True,,1,True,False
+241826730,Dimosthenis,2019-02-08,GR,a few days or more,0.0,0.0,False,,2,True,False
+246241150,Vasilia,2019-03-01,GR,a few days or more,0.0,20.0,False,,1,True,False
+21087608,Akis,2014-09-08,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,3,True,True
+256931071,Euripides,2019-04-20,"Thessaloniki, Greece",,,100.0,False,,1,True,True
+257168150,Niki,2019-04-21,GB,within a few hours,100.0,100.0,False,,2,True,False
+257396325,Νίκος Και Ελένη,2019-04-22,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+257632921,Maria,2019-04-23,GR,within an hour,100.0,0.0,False,,1,True,False
+32816923,Dimitrios,2015-05-07,"Berlin, Berlin, Germany",within an hour,100.0,,True,,1,True,True
+70311436,Maria,2016-05-04,"Pallini, Greece",within an hour,100.0,100.0,True,,1,True,True
+12101514,Elektra,2014-02-10,"Berlin, Berlin, Germany",within a few hours,100.0,100.0,False,Niederschönhausen,2,True,True
+257956713,Natasa,2019-04-25,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,8,True,True
+258333365,Adem,2019-04-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+112713546,Chris,2017-01-22,"Thessaloniki, Greece",within an hour,100.0,92.0,True,,2,True,True
+214775821,Elisavet,2018-09-11,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,2,True,True
+250309111,Nikos,2019-03-21,"Thessaloniki, Greece",,,,True,,1,True,False
+166725518,Kristina,2018-01-09,"Sävedalen, Västra Götaland County, Sweden",within an hour,100.0,100.0,True,,0,True,True
+258337701,Γιουλη,2019-04-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+260593166,Sviatlana,2019-05-08,GR,within an hour,100.0,100.0,False,,1,True,False
+260753405,Gaki,2019-05-09,GR,within an hour,90.0,83.0,False,,1,True,False
+66865892,Maria,2016-04-12,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,2,True,False
+261056966,Anna,2019-05-10,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+128433739,John,2017-05-01,"Thessaloniki, Greece",,,100.0,False,,3,True,True
+260979712,Erasmus,2019-05-10,"Thessaloniki, Greece",within an hour,87.0,51.0,False,,9,True,False
+23084145,Ilias,2014-10-28,"London, England, United Kingdom",within an hour,100.0,100.0,False,,3,True,True
+261937610,Maria,2019-05-15,"Thessaloniki, Greece",within an hour,80.0,0.0,False,,2,True,True
+1653525,Nikos,2012-01-25,"Chania, Greece",within an hour,100.0,96.0,True,Ambelokipi,169,True,True
+262766879,Olga,2019-05-19,"Thessaloniki, Greece",within an hour,94.0,99.0,True,,1,True,False
+69981336,Evgenia,2016-05-02,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+263669606,Leonidas,2019-05-23,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+139875762,Tasos,2017-07-11,"Thessaloniki, Greece",,,100.0,False,,1,True,False
+263066900,Petros,2019-05-20,"Thessaloniki, Greece",within an hour,100.0,54.0,False,,1,True,True
+222732765,Tonia,2018-10-26,GR,within a few hours,100.0,100.0,True,,2,True,False
+57848959,Ourania,2016-02-08,"Thessaloniki, Makedonia Thraki, Greece",a few days or more,0.0,0.0,False,,3,True,False
+143513210,Anna,2017-07-31,"Moscow, Russia",within a few hours,81.0,83.0,False,,0,True,True
+104743047,Niki,2016-11-22,"Thessaloniki, Greece",within an hour,100.0,0.0,False,,1,True,True
+41158378,Ioannis,2015-08-11,Greece,within an hour,90.0,94.0,False,,1,True,False
+265407531,Anna,2019-05-31,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+76339912,Marina,2016-06-07,"Athens, Greece",,,,False,,1,True,False
+206330323,Samantha,2018-07-31,Greece,within an hour,100.0,100.0,True,,1,True,False
+265972620,Χρήστος,2019-06-03,"Thessaloniki, Greece",within an hour,90.0,94.0,False,,9,True,False
+62612905,Alexander,2016-03-12,"Thessaloniki, Greece",,,,False,,1,True,True
+266266899,Εφη,2019-06-04,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+58402846,Γιώργος,2016-02-11,"Thessaloniki, Greece",,,,False,,0,True,False
+33189379,Ioannis,2015-05-12,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,False,,1,True,True
+267319425,Alexandra,2019-06-09,GR,within an hour,100.0,100.0,False,,3,True,True
+267845474,Eleni,2019-06-11,"Thessaloniki, Greece",within an hour,100.0,75.0,False,,1,True,True
+74866446,Κατερινα,2016-05-30,"Thessaloniki, Greece",within an hour,100.0,96.0,False,,2,True,False
+265356471,Ανδρεας,2019-05-31,Greece,,,100.0,False,,1,True,False
+268552544,Theodosia,2019-06-14,IT,,,33.0,False,,1,True,True
+216813735,Ελένη,2018-09-23,"Agios Pavlos, Greece",within an hour,100.0,100.0,False,,1,True,False
+269461972,Αντώνης,2019-06-18,GR,within an hour,90.0,100.0,False,,1,True,False
+187342232,Παύλος,2018-05-01,"Thessaloniki, Greece",,,100.0,True,,2,True,False
+269933526,Drosia,2019-06-20,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,0,True,False
+270000177,Konstantinos,2019-06-20,GR,within an hour,92.0,97.0,False,,0,True,True
+270083473,Πιαλίδης,2019-06-20,"Volos, Greece",within an hour,90.0,100.0,True,,1,True,False
+237254991,Αδριανός,2019-01-17,"Thessaloniki, Greece",,,67.0,False,,1,True,True
+270827593,Aleksandar,2019-06-23,GR,within an hour,100.0,85.0,False,,1,True,False
+263395631,Grigoris,2019-05-22,GR,within a day,100.0,40.0,False,,3,True,False
+180260261,Γιώτα,2018-03-24,GR,within an hour,100.0,100.0,False,,1,True,False
+269506579,Kiki,2019-06-18,GR,within an hour,90.0,94.0,False,,2,True,False
+250160089,Alexandros,2019-03-20,"Thessaloniki, Greece",,,50.0,False,,1,True,True
+242122928,Christos,2019-02-09,"Thessaloniki, Greece",within a few hours,100.0,100.0,True,,4,True,True
+270467365,Δέσποινα,2019-06-22,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,False
+45891751,Angeliki,2015-10-06,Greece,within an hour,88.0,75.0,False,,2,True,True
+272640227,Νικολεττα,2019-07-01,"Kalamaria Municipality, Greece",,,,False,,1,True,False
+268130557,Dimitris,2019-06-12,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+257539807,Dikappa,2019-04-23,"Thessaloniki, Greece",within an hour,100.0,94.0,False,,1,True,False
+273532129,Chris,2019-07-04,"Thessaloniki, Greece",within a few hours,100.0,100.0,True,,1,True,True
+227972546,Kostas,2018-11-28,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,2,True,True
+273949524,Mitsi,2019-07-06,GR,a few days or more,0.0,0.0,False,,0,True,False
+141627482,Jorge,2017-07-21,Greece,within an hour,100.0,88.0,False,,1,True,True
+274033738,Nancy,2019-07-06,GR,,,,False,,1,True,False
+274048013,Ioannis,2019-07-06,"Thessaloniki, Greece",,,67.0,False,,0,True,False
+250106902,Δημητρα,2019-03-20,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,2,True,True
+259968373,Sofia,2019-05-05,"Thessaloniki, Greece",within an hour,100.0,17.0,False,,3,True,True
+244592619,Maria,2019-02-21,"Thessaloniki, Greece",within an hour,100.0,90.0,True,,2,True,True
+274986558,Χαραλαμπος,2019-07-10,GR,within an hour,100.0,100.0,True,,0,True,True
+275509612,Giorgos,2019-07-12,"Thessaloniki, Greece",a few days or more,0.0,100.0,False,,0,True,True
+64889080,Dimitris,2016-03-29,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+275813922,Dimitra Loukia,2019-07-13,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+148219163,Georgios,2017-08-29,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+139038525,Βασιλεια,2017-07-07,"Thessaloniki, Greece",,,100.0,False,,2,True,False
+263237779,Stelios,2019-05-21,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,17,True,True
+44893060,Sotiris,2015-09-23,"Thessaloniki, Greece",within an hour,100.0,95.0,True,,0,True,False
+270547631,Βασιλικη,2019-06-22,"Kalamaria Municipality, Greece",a few days or more,0.0,,False,,0,True,False
+264553645,Q Luxury,2019-05-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+277177920,Αφεντούλα,2019-07-18,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+172192623,Ιωαννα,2018-02-07,"Thessaloniki, Greece",within a day,100.0,0.0,False,,1,True,False
+83469196,Melina,2016-07-13,"Montebello, California, United States",within a few hours,100.0,97.0,True,,11,True,True
+813638,Athanasios,2011-07-13,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+179713527,Victoria,2018-03-21,Greece,within an hour,100.0,83.0,False,,1,True,True
+272402815,Filippos,2019-06-30,GR,within an hour,100.0,100.0,False,,3,True,False
+50212813,Nikolaos,2015-11-30,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+40378700,George,2015-08-03,"Imathia, Greece",,,0.0,False,,1,True,True
+278921038,Nikoletta,2019-07-24,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+278947681,Sotiris,2019-07-24,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+46064150,Christos,2015-10-08,"Thessaloniki, Greece",within a few hours,100.0,94.0,True,,1,True,True
+279764928,Kristina,2019-07-27,"Skopje, Greater Skopje, North Macedonia",within an hour,100.0,58.0,True,,0,True,True
+21093517,Ivan,2014-09-08,"Thessaloniki, Greece",within an hour,100.0,64.0,False,,3,True,True
+70772717,Fotini,2016-05-07,"Thessaloniki, Greece",,,,False,,0,True,False
+138880691,Christos,2017-07-06,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+280458084,The Luxury Suites,2019-07-29,"Thessaloniki, Greece",within an hour,98.0,100.0,False,,48,True,True
+135527215,Ioanna Maria,2017-06-17,"Thessaloniki, Greece",within a day,67.0,,False,,1,True,True
+280868585,Kyriakos,2019-07-31,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+26969088,Marina,2015-01-30,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,4,True,True
+68722126,Marina-Stelios,2016-04-24,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+281821501,Ioannis,2019-08-02,GB,within a few hours,100.0,80.0,False,,0,True,True
+281350563,ThessResidences,2019-08-01,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,6,True,True
+108123321,Irene,2016-12-22,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,0,True,False
+228229233,Μαργαριτα,2018-11-29,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+283916006,Κυριάκος,2019-08-08,"Pefka, Greece",within a few hours,100.0,100.0,True,,0,True,False
+25235618,Konstantinia,2014-12-26,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+284375244,Stavros,2019-08-09,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,False,,5,True,True
+141651302,A&A,2017-07-21,"Thessaloniki, Greece",within an hour,100.0,94.0,False,,3,True,False
+285054779,Katerina,2019-08-12,"Thessaloniki, Greece",within an hour,100.0,98.0,False,,0,True,False
+285299652,Νίκος,2019-08-13,"Stavroupoli, Greece",within an hour,100.0,98.0,True,,4,True,False
+271618050,Παρασκευή,2019-06-26,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+148780479,Alex-Sofia,2017-09-02,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+102625808,Pinelopi,2016-11-05,"Varberg, Halland County, Sweden",within a few hours,100.0,100.0,True,,2,True,False
+286712098,Κυριάκος,2019-08-17,GR,within a few hours,100.0,100.0,True,,0,True,False
+236259300,Loukas,2019-01-13,"Thessaloniki, Greece",within a day,100.0,57.0,False,,0,True,False
+107889866,Elena,2016-12-20,"White Plains, New York, United States",within an hour,100.0,100.0,True,,1,True,True
+287289763,Ioannis,2019-08-20,"Thessaloniki, Greece",within a few hours,88.0,0.0,False,,0,True,False
+245714897,GiorgosNineta,2019-02-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+213603241,Νίκος,2018-09-04,"Thessaloniki, Greece",within an hour,100.0,100.0,True,Upper Toumba,2,True,True
+180091527,Christina,2018-03-23,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+134411135,Χρηστίνα,2017-06-10,"Thessaloniki, Greece",,,,False,,0,True,True
+228946520,Maria,2018-12-03,"Nauheim, Hesse, Germany",a few days or more,20.0,0.0,False,Attiki,5,True,True
+272394438,Karolina,2019-06-30,GR,within a few hours,100.0,100.0,False,,3,True,False
+39604975,Ioanna,2015-07-26,"Grevena, Greece",,,100.0,True,,3,True,True
+76361644,Mara,2016-06-07,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+260321699,Μπουτσιούκης,2019-05-07,"Thessaloniki, Greece",within an hour,100.0,53.0,False,,0,True,False
+121021366,Chris,2017-03-16,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,2,True,True
+120291978,Elisavet,2017-03-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+289210304,Sokratis,2019-08-26,GR,,,,False,,0,True,False
+269326878,Μιχάλης,2019-06-17,"Thessaloniki, Greece",within an hour,100.0,31.0,False,,2,True,True
+134123642,Anastasis,2017-06-08,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+50115738,Dina,2015-11-29,GR,,,,False,,0,True,False
+282428168,Κωνσταντινος,2019-08-04,"Thessaloniki, Greece",,,,False,,1,True,False
+290022744,Megi,2019-08-29,GR,within a few hours,100.0,,False,,0,True,False
+12529950,Sofia,2014-02-24,"Stockholm, Stockholm County, Sweden",within an hour,100.0,100.0,False,,2,True,True
+290787529,Δημητρα,2019-09-01,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+69152340,Alexandros,2016-04-27,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+291063586,Giannis,2019-09-02,GR,within a few hours,100.0,100.0,False,,0,True,False
+291244777,Christos,2019-09-03,GR,within an hour,100.0,92.0,False,,0,True,False
+159563802,Ανδρονικη,2017-11-21,"Thessaloniki, Greece",within a day,100.0,,False,,0,True,True
+289873445,Μάνια,2019-08-28,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,5,True,True
+291292967,Κυριακος,2019-09-03,GR,within an hour,100.0,97.0,True,,1,True,False
+77487801,Thanasis,2016-06-13,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,5,True,True
+99714712,Christina,2016-10-15,"Kalamaria, Makedonia Thraki, Greece",,,100.0,False,,0,True,True
+91227808,Iro,2016-08-22,"Thessaloniki, Greece",,,,True,,0,True,True
+291532727,Βασίλης,2019-09-03,"Thessaloniki, Greece",,,,False,,1,True,True
+200162746,Anestis,2018-07-05,"Halkidiki, Greece",within a few hours,100.0,89.0,True,,1,True,False
+159770222,Artemis,2017-11-22,"Thessaloniki, Greece",within an hour,100.0,74.0,True,,0,True,True
+172805189,Γρηγόρης,2018-02-11,"Florina, Greece",,,,False,,0,True,True
+292482176,Γεωργια,2019-09-06,GR,a few days or more,0.0,0.0,False,,0,True,False
+4310932,Aikaterini,2012-12-03,Greece,,,,False,,0,True,True
+272396912,Georgios,2019-06-30,"Thessaloniki, Greece",,,100.0,False,,3,True,False
+293186540,Effrosyni,2019-09-08,GR,within an hour,100.0,96.0,True,,0,True,False
+292141360,Xρύσα,2019-09-05,"Ioannina, Greece",a few days or more,0.0,,False,,1,True,False
+293672648,Zoe,2019-09-10,"Thessaloniki, Greece",within an hour,95.0,100.0,False,,2,True,True
+293680854,Luc,2019-09-10,GR,within an hour,100.0,100.0,False,,0,True,False
+293702212,Mihaela,2019-09-10,GR,within an hour,100.0,100.0,False,,0,True,False
+137263856,Sonia,2017-06-27,"Thessaloniki, Greece",within an hour,100.0,92.0,True,,0,True,True
+293892321,Σουζανα,2019-09-11,Greece,within an hour,100.0,100.0,False,,0,True,True
+294833734,Athina,2019-09-14,GR,within an hour,100.0,100.0,False,,0,True,False
+239769711,Nilie,2019-01-29,"Thessaloniki, Greece",within an hour,96.0,99.0,False,,144,True,True
+6836073,Erasmus,2013-06-10,"Novi Sad, Vojvodina, Serbia",within an hour,90.0,47.0,False,,30,True,False
+51567698,Ekaterini,2015-12-17,"Thessaloniki, Greece",within an hour,100.0,86.0,False,,1,True,True
+68869843,Isabella,2016-04-25,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+107144738,Κωνσταντίνος,2016-12-13,"Trikala, Greece",within an hour,100.0,43.0,True,,5,True,True
+298587360,Dimitris,2019-09-28,"Thessaloniki, Greece",within an hour,100.0,93.0,True,,2,True,True
+248426270,Κατερίνα,2019-03-12,"Thessaloniki, Greece",within a day,67.0,100.0,False,,2,True,True
+298709826,Χαράλαμπος,2019-09-29,"Evosmos, Greece",within a few hours,100.0,,False,,0,True,True
+120815,Sofia,2010-05-08,"Eastwick, England, United Kingdom",a few days or more,0.0,,False,,1,True,False
+317100273,Γιωργος,2019-12-13,"Alexandroupoli, Greece",,,,False,,1,True,False
+22448391,Giorgos,2014-10-12,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,0,True,False
+299433378,Filippos,2019-10-02,GR,within an hour,100.0,0.0,False,,0,True,False
+300179112,Stella,2019-10-04,GR,within a few hours,100.0,91.0,False,,0,True,False
+300663688,Kyriaki,2019-10-07,"Thessaloniki, Greece",a few days or more,0.0,,False,,1,True,True
+293583209,Γέωργιος,2019-09-10,"Thessaloniki, Greece",within an hour,100.0,,False,,1,True,False
+301060319,Panagiota,2019-10-08,Greece,within an hour,100.0,96.0,True,,0,True,True
+183656542,Δήμητρα,2018-04-11,"Thessaloniki, Greece",within an hour,100.0,0.0,False,,0,True,False
+200102498,Anastasia,2018-07-05,"Thessaloniki, Greece",,,,False,,1,True,True
+62967648,Michael,2016-03-14,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,5,True,True
+152472709,Αnastasia,2017-09-28,"Thessaloniki, Greece",,,100.0,True,,0,True,False
+301786339,Giorgos,2019-10-12,GR,,,100.0,False,,0,True,False
+301809685,Dimitrios,2019-10-12,"Thessaloniki, Greece",within an hour,100.0,90.0,True,,0,True,False
+100503579,Tasos,2016-10-20,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,False
+112139075,Victoria,2017-01-18,"Thessaloniki, Greece",within a day,50.0,,False,,0,True,True
+302152325,Kostas & Maria,2019-10-13,"London, England, United Kingdom",within an hour,100.0,93.0,True,,0,True,True
+103941474,Antonis,2016-11-16,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,1,True,True
+302947153,George,2019-10-17,GR,within an hour,100.0,100.0,True,,3,True,True
+303066120,Olvios EKMETALLEUSI,2019-10-18,"Thessaloniki, Greece",within an hour,80.0,100.0,True,,5,True,True
+303076969,Δαφνη,2019-10-18,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,0,True,True
+224805852,Constantine,2018-11-08,GR,within an hour,100.0,99.0,False,,3,True,True
+303677174,Kimon,2019-10-21,"Thessaloniki, Greece",,,100.0,False,,0,True,True
+303891297,Kalliston,2019-10-22,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+162046095,Xenia,2017-12-10,"Thessaloniki, Greece",within an hour,90.0,79.0,False,,0,True,False
+304418694,Melina,2019-10-25,GR,,,,False,,1,True,True
+304431826,Ioannis,2019-10-25,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,3,True,True
+304519203,Konstantinos,2019-10-25,GR,within an hour,100.0,100.0,True,,0,True,True
+52529760,Konstantinos,2015-12-28,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,5,True,True
+304689828,Konstantinos-Katerina,2019-10-26,"Thessaloniki, Greece",,,75.0,False,,1,True,False
+222876751,Thanasis,2018-10-27,"Thessaloniki, Greece",,,100.0,False,,0,True,False
+305342013,Giorgos,2019-10-29,GR,,,,False,,0,True,False
+76607522,Σίλια,2016-06-08,"Agios Dimitrios, Greece",within a day,100.0,95.0,True,,0,True,True
+305625091,Aelia,2019-10-31,GR,,,,False,,0,True,False
+305867899,Ινεσσα,2019-11-01,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+306486112,Theodoros,2019-11-03,GR,within an hour,100.0,86.0,False,,0,True,False
+198793004,Ηλίας-Φένια,2018-06-29,Greece,within an hour,90.0,100.0,False,,0,True,True
+306906039,Νικολαος,2019-11-04,Greece,within an hour,100.0,100.0,True,,4,True,True
+307590186,Δήμητρα,2019-11-06,"Pella, Greece",within an hour,100.0,100.0,True,,4,True,True
+286787977,Ιωάννης,2019-08-18,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+308171426,Kanella,2019-11-08,GR,within an hour,97.0,100.0,True,,1,True,False
+236055692,Sasa,2019-01-12,"Sporades, Greece",within an hour,100.0,100.0,False,,1,True,True
+95122463,Athanasia,2016-09-14,"Stavroupoli, Greece",within a day,100.0,0.0,False,,0,True,False
+308567921,Christos,2019-11-10,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+308315879,Anna,2019-11-09,GR,within a day,100.0,100.0,False,,0,True,False
+66750647,Andreas,2016-04-11,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,100.0,True,,2,True,True
+309457877,Artemis,2019-11-14,"Thessaloniki, Greece",within an hour,100.0,71.0,False,,0,True,False
+223557995,Maria,2018-10-31,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+191166565,Έλενα,2018-05-23,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+276907284,Samy,2019-07-17,"Thessaloniki, Greece",a few days or more,33.0,75.0,False,,1,True,True
+310434789,Ioannis,2019-11-18,GR,within a few hours,67.0,,False,,0,True,False
+230036786,Γεωργιος,2018-12-10,GR,within a day,100.0,100.0,False,,0,True,False
+200817622,Dimitris,2018-07-08,"Thessaloniki, Greece",within an hour,100.0,94.0,True,,1,True,True
+132784000,Κυριακη,2017-05-31,GR,a few days or more,0.0,,False,,0,True,False
+312867672,Κλειώ,2019-11-28,"Thessaloniki, Greece",,,,False,,1,True,False
+227939728,Giannis,2018-11-28,GR,within a few hours,100.0,0.0,False,,1,True,False
+313601971,George,2019-12-01,GR,within an hour,100.0,100.0,False,,0,True,False
+314091919,Ioannis,2019-12-03,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+314126810,Apostolos,2019-12-03,GR,within an hour,100.0,100.0,False,,0,True,True
+314477855,Γεωργία,2019-12-04,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,0,True,True
+163796053,Danai,2017-12-23,GR,within an hour,100.0,100.0,False,,0,True,True
+317054164,Ludmila,2019-12-13,"Nitra, Nitra Region, Slovakia",within an hour,100.0,100.0,True,,0,True,True
+318478814,Γιάννης,2019-12-17,GR,,,,False,,2,True,True
+318723624,Ασημινα,2019-12-18,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+49695533,Mint,2015-11-23,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,99.0,False,,27,True,True
+313074691,Θανάση,2019-11-29,"Thessaloniki, Greece",within an hour,100.0,90.0,False,,0,True,False
+14741646,Semahan,2014-04-26,"Kalabaka, Greece",within an hour,100.0,92.0,True,,7,True,True
+319854823,Συμεών,2019-12-22,"Thessaloniki, Greece",,,,False,,0,True,False
+107323918,Σάκης,2016-12-15,"Thessaloniki, Greece",within an hour,100.0,94.0,True,,4,True,True
+320500638,Alexandros,2019-12-24,"Thessaloniki, Greece",,,100.0,True,,0,True,False
+320907919,ENA Trade SA,2019-12-25,GR,within a day,100.0,83.0,False,,0,True,False
+233279110,Panagiota,2018-12-30,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,True
+85598295,George,2016-07-24,"Aridaia, Greece",within an hour,100.0,92.0,False,,0,True,False
+323124077,Dimitrios,2019-12-31,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,0,True,False
+269762234,Anastasios,2019-06-19,"Thessaloniki, Greece",within an hour,100.0,92.0,False,,0,True,False
+264870241,Vladimir,2019-05-29,"Thessaloniki, Greece",within an hour,100.0,39.0,True,,2,True,False
+324597045,Aris,2020-01-05,GR,,,,False,,1,True,True
+324562708,Stelios,2020-01-05,"Thessaloniki, Greece",,,,False,,0,True,False
+217629568,Dimitris,2018-09-27,"Thessaloniki, Greece",within an hour,98.0,99.0,False,,2,True,True
+41816530,M,2015-08-18,"Thessaloniki, Greece",,,100.0,False,,0,True,False
+168860451,Gharitonidoy,2018-01-20,"Thessaloniki, Greece",within a few hours,100.0,33.0,False,,0,True,True
+326110047,Γιώργος,2020-01-10,GR,,,100.0,False,,0,True,False
+326419649,Despoina,2020-01-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+305504187,Stavros,2019-10-30,GR,within a day,100.0,0.0,False,,0,True,False
+326726556,Παρασκευη,2020-01-12,GR,within an hour,100.0,100.0,True,,0,True,True
+328048276,Αθηνα,2020-01-16,GR,within an hour,100.0,81.0,False,,0,True,False
+171835195,Moris,2018-02-05,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,1,True,True
+328648402,Vickie,2020-01-18,GR,within an hour,100.0,100.0,False,,0,True,False
+328920895,Περικλης,2020-01-19,GR,within a few hours,100.0,100.0,False,,0,True,False
+315578528,Κατερίνα,2019-12-08,"Halkidiki, Greece",within an hour,100.0,95.0,True,,4,True,True
+329229567,Cuckoobnb,2020-01-20,"Thessaloniki, Greece",within an hour,100.0,72.0,False,,3,True,False
+77109521,Michail,2016-06-11,Greece,within an hour,100.0,40.0,False,,0,True,False
+205247881,Maria,2018-07-26,"Tucquegnieux, Grand Est, France",within an hour,100.0,100.0,False,,2,True,True
+329988046,Grigoris,2020-01-22,GR,within an hour,100.0,86.0,False,,0,True,False
+330413195,Aristeidis,2020-01-24,"Thessaloniki, Greece",,,,False,,0,True,False
+89535441,Giorgios-Anneta,2016-08-12,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,2,True,False
+66843092,Ioannis,2016-04-12,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,0,True,True
+240360100,Sofia,2019-02-01,"Panorama, Greece",,,96.0,True,,0,True,True
+331803420,Ιωάννα,2020-01-29,GR,within a day,67.0,0.0,False,,1,True,True
+331906711,Σταματιος,2020-01-30,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,0,True,False
+332620296,Μαρία,2020-02-01,GR,,,0.0,False,,0,True,False
+317842109,Christos Konstantinos,2019-12-15,GR,within an hour,100.0,100.0,False,,0,True,True
+309501026,Rafail,2019-11-14,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,3,True,True
+303479093,Olga,2019-10-20,"Thessaloniki, Greece",within an hour,100.0,50.0,True,,0,True,True
+77264598,Μαρία & Κώστας,2016-06-12,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+333932082,Sonia,2020-02-06,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+209939843,Christina,2018-08-16,"Rhodes, Greece",within an hour,100.0,99.0,True,,1,True,True
+331930457,Athanasios,2020-01-30,GR,within a few hours,100.0,100.0,False,,0,True,False
+274312470,Kelly,2019-07-07,"Pieria, Greece",within an hour,100.0,0.0,False,,0,True,False
+331309714,Nikos Chrisa,2020-01-28,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+239161877,Agriside,2019-01-26,"Pella, Greece",within an hour,100.0,91.0,False,,0,True,True
+229586827,Apostolos,2018-12-07,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+105414801,Quintessence Villas,2016-11-28,"Nikiti, Greece",within an hour,100.0,92.0,False,,21,True,True
+335827915,Δημητριος,2020-02-13,GR,within an hour,100.0,100.0,True,,0,True,False
+225605715,Vasilis-Chrysa,2018-11-13,"Thessaloniki, Greece",,,,True,,0,True,False
+61393232,Eleanna,2016-03-03,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,17.0,False,,0,True,True
+336020933,Γιωργος,2020-02-14,GR,within an hour,80.0,67.0,False,,0,True,True
+336063594,Athina,2020-02-14,"Thessaloniki, Greece",within an hour,100.0,67.0,False,,0,True,False
+336306026,Χρήστος,2020-02-15,GR,within an hour,100.0,100.0,True,,0,True,False
+282738468,Athanasios,2019-08-05,"Thessaloniki, Greece",within an hour,100.0,,False,,1,True,True
+336569566,Anastasia,2020-02-16,GR,within an hour,100.0,97.0,True,,0,True,True
+107244734,Leonidas,2016-12-14,"Thessaloniki, Greece",,,,False,,1,True,False
+288459596,Matthew,2019-08-23,US,within an hour,100.0,91.0,False,,0,True,False
+337330816,Allen,2020-02-18,TW,within an hour,100.0,90.0,False,,2,True,True
+138456876,Korinna,2017-07-04,"Imathia, Greece",within an hour,100.0,97.0,True,,0,True,True
+17541430,Kyriakos,2014-07-02,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,97.0,True,,1,True,False
+117668001,Sofia,2017-02-22,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+6407754,Iliana,2013-05-15,"Thessaloniki, Greece",within a few hours,75.0,0.0,False,,2,True,True
+338530166,Ελένη,2020-02-24,GR,within an hour,100.0,100.0,False,,1,True,False
+339304531,Μαρίνα,2020-02-28,"Kalamaria Municipality, Greece",within an hour,100.0,95.0,False,,0,True,False
+12933530,Michail,2014-03-08,"Thessaloniki, Greece",within an hour,100.0,,False,,0,True,False
+339505308,Joanna,2020-02-29,GR,within an hour,89.0,100.0,True,,2,True,False
+130565569,Charilaos,2017-05-16,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,1,True,False
+340346717,Krys,2020-03-05,GR,,,,False,,0,True,False
+47952600,Xenia,2015-11-02,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,0,True,True
+340450037,Ippokratis,2020-03-06,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+340685448,Γεώργιος,2020-03-07,"Thessaloniki, Greece",within a few hours,100.0,100.0,True,,0,True,True
+177007332,Marina,2018-03-06,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+342119823,Rania,2020-03-20,GR,within an hour,100.0,100.0,False,,0,True,True
+342976810,Χριστινα,2020-04-02,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,0,True,True
+180014794,Δήμητρα,2018-03-22,GR,within a day,100.0,,False,,0,True,True
+96343098,Antonis,2016-09-22,"Athens, Attica region, Greece",,,0.0,False,,1,True,False
+343981675,Pierre,2020-04-16,"Thessaloniki, Greece",,,100.0,False,,1,True,True
+343385968,Mary,2020-04-07,GR,within an hour,100.0,50.0,False,,1,True,True
+88947741,Thanasis,2016-08-09,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+297414652,Aikaterini,2019-09-23,GR,within a day,50.0,33.0,False,,0,True,False
+112088661,Aram,2017-01-18,"Thessaloniki, Greece",within a few hours,100.0,83.0,True,,1,True,True
+314719925,Alkmini,2019-12-05,GR,within an hour,100.0,100.0,True,,10,True,True
+347955079,Lumin,2020-05-29,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+75036545,Vivi,2016-05-31,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,95.0,True,,2,True,True
+95387597,Danai,2016-09-16,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,0,True,True
+348319717,Sissy,2020-06-01,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+287362685,Panos,2019-08-20,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+349647694,Μαρία,2020-06-11,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+191124497,Σπυρος,2018-05-23,"Thessaloniki, Greece",within an hour,100.0,96.0,False,,4,True,True
+349667768,Dimitris,2020-06-11,"Thessaloniki, Greece",within a day,100.0,67.0,True,,5,True,True
+77676926,Alkis,2016-06-14,"Thessaloniki, Makedonia Thraki, Greece",within a day,100.0,,False,,0,True,True
+350279014,Innovation,2020-06-16,GR,within an hour,100.0,100.0,True,,0,True,True
+350658260,Maria & Vicky,2020-06-18,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+28441702,Silvia,2015-02-27,"Thessaloniki, Greece",within an hour,100.0,91.0,False,g.k. Banishora,0,True,True
+24978360,Ioannis,2014-12-18,GR,within an hour,100.0,100.0,True,,0,True,True
+193837420,Zefi,2018-06-06,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+22915578,Joanna,2014-10-24,"Thessaloniki, Greece",a few days or more,0.0,93.0,False,,4,True,False
+342129780,Sofia,2020-03-20,"Thessaloniki, Greece",within an hour,100.0,96.0,True,,0,True,True
+272498492,Anthi M.,2019-06-30,"Thessaloniki, Greece",within an hour,100.0,88.0,True,,0,True,True
+19887054,Eleftherios,2014-08-12,GR,within an hour,100.0,94.0,True,,1,True,False
+162871303,Ioannis,2017-12-16,"Athens, Greece",within an hour,100.0,100.0,False,,0,True,True
+263378241,Oikotrust,2019-05-22,"Thessaloniki, Greece",,,86.0,False,,0,True,False
+241226463,Renia,2019-02-05,"Thessaloniki, Greece",within an hour,100.0,96.0,False,,2,True,False
+356279703,Vasileios,2020-07-14,GR,within an hour,100.0,78.0,False,,0,True,True
+357494009,Χριστίνα,2020-07-20,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+181242080,Athanasios,2018-03-29,"Thessaloniki, Greece",within an hour,67.0,0.0,False,,6,True,False
+268783289,Alexandra,2019-06-15,"Evosmos, Greece",within an hour,100.0,88.0,False,,4,True,True
+358149592,Sushan,2020-07-24,GR,within an hour,100.0,99.0,True,,1,True,True
+217068162,Ilias,2018-09-24,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,0,True,True
+350195373,Ιωαννης,2020-06-15,"Thessaloniki, Greece",,,,False,,1,True,True
+255827342,Ελευθερία,2019-04-14,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+359193131,Katerina,2020-07-29,GR,within a few hours,70.0,77.0,False,,0,True,False
+78310856,Kiriakos,2016-06-17,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,80.0,True,,0,True,True
+360735544,Penelope,2020-08-05,"Thessaloniki, Greece",within an hour,86.0,82.0,False,,0,True,False
+271351698,Julie,2019-06-25,"Thessaloniki, Greece",,,,False,,1,True,False
+348307041,Dimitra,2020-06-01,"Thessaloniki, Greece",within an hour,100.0,50.0,False,,1,True,False
+221502364,Maria,2018-10-19,"Thessaloniki, Greece",,,100.0,False,,2,True,True
+362320155,Marios,2020-08-14,GR,,,,False,,0,True,False
+362511385,Abraham,2020-08-15,AE,within an hour,100.0,96.0,True,,1,True,False
+345825517,Γιώργος - Χάρης,2020-05-10,GR,within an hour,100.0,100.0,False,,4,True,True
+363334042,Tatiana,2020-08-19,GR,within an hour,100.0,91.0,True,,1,True,True
+190245854,Georgios,2018-05-18,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,True
+259466053,Natassa,2019-05-02,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+346516264,Αθηνά,2020-05-17,"Peristeri, Greece",a few days or more,20.0,58.0,False,,0,True,True
+362246772,Christos,2020-08-13,"Gothenburg, Västra Götaland County, Sweden",within an hour,100.0,100.0,False,,0,True,True
+229524509,Eirini,2018-12-07,"Thessaloniki, Greece",within a few hours,100.0,94.0,True,,1,True,False
+305664744,Akis,2019-10-31,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,3,True,True
+74624594,Nikos,2016-05-29,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,0,True,True
+167783496,Irina&Marin,2018-01-14,"Thessaloniki, Greece",within an hour,88.0,75.0,False,,0,True,True
+38054563,Δήμητρα,2015-07-10,"Thessaloniki, Greece",within an hour,100.0,91.0,False,,0,True,False
+83468696,Eleni,2016-07-13,"Thessaloniki, Makedonia Thraki, Greece",within a few hours,100.0,100.0,False,,1,True,True
+350314896,Despoina,2020-06-16,"Thessaloniki, Greece",a few days or more,0.0,100.0,False,,0,True,False
+213210892,Despoina,2018-09-02,GB,,,100.0,False,Rotherhithe,1,True,True
+142699171,Κλεάνθης,2017-07-26,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+367858831,Ελευθερία,2020-09-16,GR,,,50.0,False,,0,True,True
+124831352,Wassilios,2017-04-08,"Markt Indersdorf, Bavaria, Germany",within an hour,100.0,87.0,True,,8,True,True
+23889237,Κωνσταντίνος,2014-11-18,"Rhodes, Egeo, Greece",,,,False,,0,True,True
+112813374,Ioannis,2017-01-23,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,4,True,False
+263245931,Vik,2019-05-21,"Thessaloniki, Greece",within an hour,100.0,99.0,False,,2,True,False
+71477920,Sonia,2016-05-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+370978131,Kiki,2020-10-07,GR,within a few hours,100.0,,False,,3,True,False
+243111193,Mairly,2019-02-14,Greece,within an hour,100.0,71.0,False,,2,True,False
+136549887,Zoitsa,2017-06-23,"Thessaloniki, Greece",within an hour,100.0,92.0,True,Ano Poli,0,True,False
+141333735,Faye,2017-07-19,"England, United Kingdom",within an hour,100.0,100.0,False,,0,True,False
+372140900,Porto Sea View,2020-10-16,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,17,True,True
+372146961,Aspasia,2020-10-16,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,0,True,True
+217613698,Nasia,2018-09-27,"Thessaloniki, Greece",within a few hours,100.0,80.0,False,,0,True,False
+372496533,Petros,2020-10-19,GR,within an hour,100.0,0.0,False,,0,True,False
+372659444,Stylianos,2020-10-20,GR,within an hour,100.0,99.0,True,,1,True,True
+372881888,Αλέξανδρος,2020-10-22,"Rhodes, Greece",within a few hours,100.0,67.0,False,,1,True,True
+36179444,Konstantin,2015-06-19,"Stockholm, Stockholm County, Sweden",within an hour,100.0,100.0,False,,0,True,True
+373220301,Julia,2020-10-25,GR,within an hour,100.0,100.0,True,,1,True,False
+162673057,Olga,2017-12-14,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,2,True,False
+374735588,Sofia,2020-11-07,GR,within an hour,100.0,98.0,False,,1,True,True
+374762273,Marina,2020-11-07,GR,within a few hours,100.0,50.0,False,,1,True,True
+248703896,Theofanis,2019-03-13,"Kalamaria Municipality, Greece",within an hour,100.0,100.0,True,,0,True,True
+377664965,Konstantinos,2020-11-30,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+378579076,The Modernist,2020-12-07,"Thessaloniki, Greece",within a few hours,100.0,100.0,False,,0,True,False
+323287568,Ilias,2020-01-01,"Thessaloniki, Greece",within an hour,100.0,91.0,True,,1,True,False
+31456640,Grhgorhs,2015-04-18,"Thessaloniki, Greece",,,,False,,2,True,True
+381010310,George,2020-12-21,GR,within an hour,100.0,100.0,False,,0,True,False
+108860419,Panagiotis,2016-12-28,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,0,True,True
+196008323,Alexandros,2018-06-16,GR,within an hour,100.0,100.0,True,,0,True,False
+382549972,Maria,2021-01-01,GR,within an hour,100.0,83.0,False,,2,True,False
+382636414,Maya,2021-01-02,GR,within an hour,100.0,100.0,False,,0,True,True
+33345470,Pavlos,2015-05-14,"Athens, Attica, Greece",within an hour,100.0,0.0,False,Ambelokipi,1,True,True
+160195754,Mary,2017-11-26,"Thessaloniki, Greece",within an hour,100.0,,False,,0,True,False
+383499752,Angeliki,2021-01-07,"Hamburg, Hamburg, Germany",within an hour,100.0,98.0,True,,1,True,True
+171610157,Stavros,2018-02-04,"Neapoli, Greece",a few days or more,50.0,100.0,False,,1,True,True
+260367598,Αναστάσιος,2019-05-07,"Thessaloniki, Greece",within a few hours,100.0,78.0,False,,6,True,False
+45879983,Margaritis,2015-10-06,"Kalamaria, Greece",within an hour,100.0,40.0,False,,0,True,False
+324231063,Christos,2020-01-04,"Cholargos, Greece",,,100.0,True,,1,True,False
+179413481,Mary,2018-03-19,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,19,True,False
+390805081,Καλλιόπη,2021-03-02,GR,,,75.0,False,,0,True,False
+89628559,Sokratis,2016-08-13,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,0,True,False
+391361669,Ifigeneia,2021-03-06,"Thessaloniki, Greece",within a few hours,100.0,80.0,True,,0,True,True
+23525724,Mario,2014-11-09,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+150933689,Malamatenia,2017-09-17,"Thessaloniki, Greece",within an hour,100.0,99.0,True,,1,True,True
+392821466,Χαρης,2021-03-16,"Thessaloniki, Greece",,,,False,,1,True,True
+392489003,George,2021-03-14,"Thessaloniki, Greece",within an hour,90.0,100.0,True,,0,True,True
+67673663,Μαρία-Χριστίνα,2016-04-18,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+68576005,Anna,2016-04-23,"Munich, Bavaria, Germany",within a few hours,100.0,92.0,False,,1,True,True
+373945980,Polis Apartments,2020-10-31,GR,within an hour,89.0,100.0,False,,0,True,True
+196147266,Diana,2018-06-17,GR,,,96.0,True,,2,True,False
+395381812,Δημήτρης,2021-04-03,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,False
+396608291,Ioannis,2021-04-12,"Thessaloniki, Greece",within a day,100.0,100.0,False,,0,True,True
+396634995,Stelios,2021-04-12,"Thessaloniki, Greece",within an hour,100.0,95.0,False,,0,True,True
+397404721,Μαριάννα,2021-04-17,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,True
+398180905,Μαρια,2021-04-22,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+398180786,Anastasia,2021-04-22,GR,within an hour,100.0,100.0,False,,0,True,False
+2884318,Simos,2012-07-09,"Thessaloniki, Greece",within an hour,100.0,97.0,True,,2,True,True
+398570594,Fyllia,2021-04-25,GR,within an hour,100.0,100.0,True,,0,True,True
+91245359,Paris,2016-08-22,"San Francisco, California, United States",within a day,100.0,100.0,False,,0,True,True
+116569336,Christos,2017-02-15,"Thessaloniki, Greece",,,100.0,False,,1,True,False
+154851328,Dimitra,2017-10-16,"Thessaloniki, Greece",within an hour,100.0,100.0,False,Ntepo,0,True,False
+399994221,Around,2021-05-04,"Thessaloniki, Greece",within an hour,100.0,99.0,False,,1,True,True
+400290676,Giorgos,2021-05-06,GR,within an hour,100.0,100.0,True,,0,True,False
+329872169,Lampros,2020-01-22,GR,within an hour,100.0,100.0,True,,0,True,False
+79446546,Dimitrios,2016-06-23,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,0,True,True
+208819581,Peter,2018-08-11,GR,within a few hours,100.0,100.0,False,,0,True,True
+401806585,Zachos,2021-05-16,GR,within an hour,100.0,0.0,False,,2,True,False
+46785896,Kiriakos,2015-10-17,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,75.0,False,,1,True,False
+403341332,Μαρία,2021-05-24,"Kalamaria Municipality, Greece",within an hour,100.0,91.0,False,,0,True,False
+403605771,Βασιλισα,2021-05-26,"Neapoli, Greece",a few days or more,0.0,82.0,False,,1,True,True
+404808174,Foteini & Asterios,2021-06-02,"Stavroupoli, Greece",within an hour,100.0,100.0,True,,0,True,True
+8252044,Theodoros,2013-08-19,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+405260123,Smaro,2021-06-04,GR,within an hour,100.0,100.0,False,,0,True,False
+405779239,Δωρα,2021-06-07,GR,,,100.0,False,,0,True,True
+405789487,Ιωαννης,2021-06-07,GR,within an hour,100.0,100.0,False,,0,True,True
+8357917,Omiros,2013-08-24,"Thessaloniki, Makedonia, Greece",within an hour,100.0,100.0,True,,2,True,True
+379910184,Νικόλαος,2020-12-13,"Thessaloniki, Greece",within an hour,100.0,96.0,False,,0,True,True
+3590744,Daniil,2012-09-17,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,85.0,False,,5,True,True
+100890415,Filippa,2016-10-23,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+39563204,Anastasios,2015-07-26,GB,within an hour,100.0,100.0,True,,0,True,False
+406685663,Phi,2021-06-12,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+177993848,Δημήτριος,2018-03-12,"Thessaloniki, Greece",within a few hours,100.0,78.0,False,,0,True,True
+141294633,Ανέστης,2017-07-19,"Kastoria, Greece",within an hour,100.0,100.0,False,,0,False,False
+179596039,Thor,2018-03-20,"Gothenburg, Västra Götaland County, Sweden",,,,False,,0,True,True
+350343266,Petros,2020-06-16,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,False,True
+408112693,Τανια,2021-06-20,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+13107148,George,2014-03-13,"Sykies, Makedonia Thraki, Greece",within an hour,100.0,89.0,False,,1,True,False
+132658526,Elena,2017-05-30,"Thessaloniki, Greece",within a day,100.0,88.0,False,,0,True,True
+366432818,Konstantinos,2020-09-07,GR,,,100.0,False,,0,True,True
+336527202,Vesta Philoxenia,2020-02-16,"Halkidiki, Greece",within an hour,100.0,95.0,True,,15,True,True
+53167215,Makis,2016-01-03,"Thessaloniki, Greece",,,100.0,False,,0,True,False
+410113839,Panos,2021-06-30,GR,within an hour,97.0,99.0,True,,0,True,True
+410213894,Γεωργια,2021-07-01,"Thessaloniki, Greece",within an hour,100.0,93.0,True,,0,True,True
+410226733,Μαρια,2021-07-01,GR,within an hour,100.0,75.0,False,,0,True,True
+410652631,Marios,2021-07-03,GR,within an hour,100.0,100.0,True,,0,True,True
+123750052,Emily,2017-04-01,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,2,True,True
+410968333,Konstantia,2021-07-05,GR,within a day,50.0,0.0,False,,0,True,False
+411196687,Παναγιωτης,2021-07-06,GR,within an hour,89.0,84.0,False,,0,False,False
+411476046,Anestis,2021-07-07,"Thessaloniki, Greece",,,100.0,False,,0,True,False
+370170967,ViKtor,2020-10-01,RS,within a few hours,100.0,100.0,False,Isle of Dogs,1,True,True
+357486189,Tatiana,2020-07-20,GR,within a few hours,100.0,50.0,False,,0,True,True
+411868638,Progreece,2021-07-09,GR,within an hour,100.0,90.0,False,,0,True,False
+411832497,Isaak,2021-07-09,"Thessaloniki, Greece",within an hour,100.0,87.0,False,,1,True,True
+8008818,Dimitris,2013-08-07,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,3,True,True
+117368170,Dimitrios,2017-02-20,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+261029374,Νικολαος,2019-05-10,"Thessaloniki, Greece",within an hour,100.0,89.0,False,,0,True,False
+412259290,Δημητρης,2021-07-11,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+412416350,Miltos,2021-07-12,GR,within a few hours,100.0,100.0,False,,0,True,False
+48015079,Theocharis,2015-11-02,GR,within an hour,100.0,100.0,True,,0,True,False
+195106949,Sissy,2018-06-12,"Thessaloniki, Greece",within an hour,100.0,89.0,True,,2,True,True
+339483314,Kotryna,2020-02-29,"Kaunas, Kaunas County, Lithuania",within a few hours,100.0,100.0,False,,0,True,True
+407133793,Konstantinos,2021-06-14,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+127232685,Leonidas,2017-04-23,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,True,,2,True,True
+252787688,Anna,2019-04-02,GR,,,100.0,False,,1,True,False
+181766458,Αναστασια,2018-04-01,GR,within an hour,100.0,100.0,False,,1,True,False
+164055172,Dimitrios & Fani,2017-12-24,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+414517785,Θεοδωρος,2021-07-22,GR,within an hour,100.0,100.0,False,,0,True,True
+292649447,Maria,2019-09-06,"Thessaloniki, Greece",within an hour,100.0,20.0,False,,1,True,False
+414761977,Λέανδρος,2021-07-23,"Thessaloniki, Greece",,,0.0,False,,0,False,True
+103334217,Valantis,2016-11-11,"Thessaloniki, Greece",within an hour,100.0,100.0,True,,1,True,False
+415103307,Alexandros,2021-07-25,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+201738738,Your.Rentals,2018-07-12,GB,within a day,100.0,99.0,False,,343,True,True
+78980161,Evaggelia,2016-06-21,"Thessaloniki, Greece",,,0.0,False,,2,True,False
+217110382,Giorgios,2018-09-24,"Thessaloniki, Greece",within an hour,100.0,44.0,False,,1,True,True
+416661677,Αθανασια,2021-08-03,GR,within an hour,100.0,100.0,False,,0,True,True
+416999042,Βασίλης,2021-08-05,"Thessaloniki, Greece",within an hour,100.0,98.0,True,,0,True,True
+417494960,Natalia,2021-08-08,FR,within a day,50.0,33.0,False,,0,True,True
+52202112,Mike,2015-12-25,"Thessaloniki, Makedonia Thraki, Greece",,,,False,,15,True,True
+418129285,Nikolaos,2021-08-12,"Officer, Victoria, Australia",within an hour,90.0,89.0,False,,0,True,False
+45547160,Christos,2015-10-01,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+179529340,Δημητρα,2018-03-20,GR,,,0.0,False,,2,True,False
+304620428,Nina,2019-10-26,GR,within an hour,100.0,100.0,True,,0,True,True
+419575018,Christos,2021-08-22,GR,within a day,100.0,0.0,False,,0,False,False
+419776571,Nikos,2021-08-23,GR,within a day,64.0,42.0,False,,0,True,False
+256391705,Αικατερίνη,2019-04-17,"Thessaloniki, Greece",,,100.0,False,,1,True,True
+161812288,Efi,2017-12-08,GR,within a few hours,100.0,100.0,False,,1,True,True
+206134494,Ioanna,2018-07-30,"Thessaloniki, Greece",within an hour,100.0,,False,,0,True,False
+251780847,Κατερίνα,2019-03-28,"Thessaloniki, Greece",within an hour,100.0,50.0,False,,0,True,True
+404673880,Alexandra,2021-06-01,GR,within an hour,100.0,100.0,False,,2,True,True
+409703629,Theo,2021-06-28,"Athens, Greece",within an hour,100.0,100.0,True,,0,True,True
+421215431,Dimitra,2021-09-02,GR,within an hour,91.0,99.0,False,,0,True,False
+421384764,Mouratios,2021-09-03,GR,within a few hours,100.0,100.0,False,,0,True,True
+68887084,Sofia (Fei),2016-04-25,"Thessaloniki, Greece",,,100.0,False,,0,True,True
+420933254,Evgenia,2021-08-31,GR,within an hour,100.0,100.0,False,,0,True,True
+422069038,Inga,2021-09-07,LT,within an hour,100.0,100.0,False,,0,True,True
+421576095,Erasmia,2021-09-04,"Kalamaria Municipality, Greece",within an hour,100.0,74.0,False,,0,True,False
+271758276,Δημήτριος,2019-06-27,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,False
+287848438,Elpida,2019-08-21,"Serres, Greece",within an hour,100.0,100.0,False,,0,True,True
+423551040,Νίκος,2021-09-18,GR,within an hour,100.0,100.0,False,,0,True,True
+246349731,Kostas,2019-03-02,"Thessaloniki, Greece",within an hour,100.0,90.0,False,,0,True,False
+157925051,Σοφία,2017-11-08,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+86460666,Andreas,2016-07-28,"Thessaloniki, Greece",within an hour,100.0,90.0,False,,7,True,False
+424383717,Thomas,2021-09-24,GR,within an hour,100.0,94.0,False,,0,True,False
+424847666,Giorgos,2021-09-27,GR,within an hour,100.0,100.0,False,,0,True,True
+194224482,George,2018-06-08,"Thessaloniki, Greece",within a few hours,70.0,0.0,False,,1,True,False
+425318291,Γεωργία,2021-09-30,"Sikies, Greece",within an hour,100.0,97.0,False,,0,True,True
+425141880,Απόστολος,2021-09-29,GR,within an hour,100.0,95.0,False,,0,False,False
+81582518,Danae,2016-07-04,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+47179665,Nikos,2015-10-22,GB,within an hour,100.0,67.0,False,,0,True,True
+427467770,Παναγιώτης,2021-10-15,GR,within an hour,100.0,75.0,False,,0,True,False
+48791781,Sofia,2015-11-11,"Thessaloniki, Greece",within an hour,100.0,67.0,False,,1,True,True
+185542685,Nijole,2018-04-21,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+261351008,Vasilis,2019-05-12,Greece,within an hour,80.0,21.0,False,,2,True,True
+25099800,Yiorgos,2014-12-22,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+428927067,Χρήστος,2021-10-25,GR,within an hour,100.0,100.0,False,,0,True,False
+95518250,Μαργαρίτα,2016-09-17,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,1,True,True
+29559321,Αναστασία,2015-03-18,"Kozani, Ipiros Ditiki Makedonia, Greece",within a few hours,100.0,100.0,False,,0,True,True
+429880349,Krystallo,2021-11-01,GR,within an hour,100.0,100.0,False,,1,False,False
+189062876,Georgios,2018-05-11,"Thessaloniki, Greece",within an hour,94.0,92.0,False,,2,True,True
+430120399,Konstantinos,2021-11-02,GR,within a few hours,81.0,87.0,False,,0,True,False
+429605162,Marija,2021-10-30,"Skopje, Greater Skopje, North Macedonia",within an hour,100.0,100.0,False,,0,True,True
+49993134,Anatolia,2015-11-27,"Thessaloniki, Greece",,,0.0,False,,2,True,True
+430766539,Λάκης,2021-11-07,GR,within a few hours,100.0,100.0,False,,0,True,False
+422405528,Γιώργος,2021-09-10,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,False
+306325346,Spyros,2019-11-02,GR,within an hour,100.0,94.0,True,,0,True,True
+151041314,Babis,2017-09-18,"Oraiokastro, Greece",within an hour,100.0,33.0,False,,1,True,True
+431977926,Nilie,2021-11-15,GR,within an hour,93.0,97.0,False,,0,True,False
+104235146,Jelena,2016-11-18,"Thessaloniki, Greece",within an hour,100.0,,False,,0,True,True
+68543219,Christos,2016-04-23,"Kalamaria Municipality, Greece",a few days or more,0.0,,False,,0,True,True
+138326801,Stefanos,2017-07-03,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+432125912,"Loic, Estelle And Co",2021-11-16,FR,,,,False,,0,True,True
+91282372,Dimitris,2016-08-22,"Thessaloniki, Makedonia Thraki, Greece",within an hour,100.0,100.0,False,,0,True,False
+36149597,Sma,2015-06-18,"Thessaloniki, Greece",within an hour,100.0,100.0,False,,0,True,True
+433523252,Amalia,2021-11-26,GR,within a few hours,100.0,60.0,False,,0,True,True
+29643928,Dimitris,2015-03-19,GR,within an hour,100.0,100.0,False,,0,True,True
+434808089,V S R,2021-12-05,CY,within an hour,98.0,100.0,False,,0,False,True
+168602383,Avgoustinos,2018-01-18,"Thessaloniki, Greece",within an hour,100.0,,False,,0,True,False
+436149438,Achilleas,2021-12-15,GR,,,100.0,False,,0,True,False
+436396791,Anatolia,2021-12-17,GR,,,,False,,0,True,False
