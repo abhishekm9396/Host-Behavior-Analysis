@@ -6,11 +6,24 @@
 "Host-Behavior-Analysis" is a project focused on the analysis of property listings for a property rental company. 
 The dataset provided has the information regarding the 2 cities in Canada, Greece, Italy, China and US each. The thorough analysis of the property listings is being done for the data and the meaningful insights have been provided, to comprehend how host behavior varies across a variety of metrics. Also extensive charts have been created to visualize the data in the best possible way.
 
---Problem aimed to solve--
+--Goal & Methodology--
 
-This project aims to leverage historical stock price data and develop predictive models that can forecast the future prices of the Nifty 50 stocks. By analyzing past trends, patterns, and relevant market indicators, the project aims to provide insights into potential price movements and assist investors in making informed decisions. Therefore, the objective of this project is to develop a machine-learning model that can predict the future prices of Nifty stocks. The model will be trained on historical data of the Nifty stocks.
+a. Analyzing different metrics to draw the distinction between Super Host and Other Hosts. To achieve this, following metrics are considered:
 
---Methodology--
+- Acceptance rate, 
+- Response rate, 
+- Instant booking,
+- Profile picture, 
+- Identity verified, 
+- Review scores, 
+- Average no. of bookings per month, etc.
+
+b. Using the above analysis, identify the top 3 crucial metrics one needs to maintain to become a Super Host and also, find their average values.
+
+c. Analyzing if Super Hosts tend to have large property types as compared to other Hosts.
+
+d. Utilize data visualization techniques to present the findings and insights from the analysis. Visualizations help stakeholders understand the data intuitively and aid in decision-making.
+
 <br>
 <br>
 
@@ -19,16 +32,18 @@ This project aims to leverage historical stock price data and develop predictive
 <br>
 <br>
 
---Data Description--
+--Conclusion--
+<br>
 
-1. The project involves several key steps, including data collection of historical stock prices for the Nifty 50 companies, data preprocessing, feature engineering, and model training. Various machine learning techniques, such as regression algorithms or time series analysis can be applied to develop accurate prediction models.
-2. As stock price data is inherently sequential and time-dependent, time series analysis techniques can be employed to explore temporal patterns and trends. This includes analyzing autocorrelation, trend decomposition, stationarity, and seasonality, and identifying potential time series models or components such as ARIMA, GARCH, or exponential smoothing.
-3. Apply statistical techniques and hypothesis testing to evaluate the significance of relationships or patterns identified during the data exploration phase. This may involve conducting tests such as t-tests, ANOVA, or regression analysis to assess the impact of specific variables or market events on stock prices.
-4. The project output includes predicted stock price values, confidence intervals, or trend direction for individual Nifty 50 stocks. The predictions can be visualized through charts, graphs, or interactive dashboards to provide users with a clear understanding of the projected price movements.
-5. Perform exploratory data analysis to understand the characteristics and distributions of the data. This involves generating summary statistics, visualizing the data through histograms, line plots, scatter plots, or correlation matrices, and identifying any interesting patterns, seasonality, or relationships between variables. EDA helps in uncovering initial insights and guiding further analysis.
-6. Utilize data visualization techniques to present the findings and insights from the analysis. This includes creating interactive charts, time series plots, heatmaps, or correlation matrices to effectively communicate the relationships and patterns discovered. Visualizations help stakeholders understand the data intuitively and aid in decision-making.
+![image](https://github.com/abhishekm9396/Host-Behavior-Analysis/assets/126942017/479fbcdd-e99b-4721-a5b0-48507b881e26)
+<br>
 
---Key Insights--
+![image](https://github.com/abhishekm9396/Host-Behavior-Analysis/assets/126942017/aa729f1f-9162-4dcb-bf99-35a9c43b1d45)
+<br>
+
+![image](https://github.com/abhishekm9396/Host-Behavior-Analysis/assets/126942017/440bc1ce-e1c7-4e8e-a06c-11fa6a8bf3e8)
+<br>
+
 
 1. The "response rate > avg response rate" chart demonstrates that around 90% of superhosts have a higher response rate than hosts, indicating that they are more responsive to user queries or problems.
 
@@ -42,11 +57,3 @@ This project aims to leverage historical stock price data and develop predictive
 
 6. In terms of positive comments, hosts have a slightly higher rate than superhosts. Superhosts need to focus more on providing better after-services. The average review score is good for both hosts and superhosts, with scores of 4.6 and 4.9 out of 5, respectively.
 
-
-Challenges faced--
-1. Splitting the data and selecting the appropriate model for time-series analysis are the challenging task for us.
-2. Don’t Know how to use LSTM Model.
-3. Diversification of Ideas.
-
-
-Overall, the "Nifty-50-Stock-Price Prediction" project aims to provide investors and market enthusiasts with a valuable tool for gaining insights into the future price movements of Nifty-50 stocks, facilitating better decision-making in the Indian stock market.
