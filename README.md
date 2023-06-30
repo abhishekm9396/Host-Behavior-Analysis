@@ -34,20 +34,24 @@ d. Utilize data visualization techniques to present the findings and insights fr
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/126942017/250137792-174da553-5521-4209-8271-bc15f4567e37.png" width="800" height="300"/>
+</p>
 
 <br>
 <br>
 
 --Conclusion--
 <br>
-
-![image](https://github.com/abhishekm9396/Host-Behavior-Analysis/assets/126942017/479fbcdd-e99b-4721-a5b0-48507b881e26)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/126942017/250140752-479fbcdd-e99b-4721-a5b0-48507b881e26.png" width="400"/>
+</p>
 <br>
-
-![image](https://github.com/abhishekm9396/Host-Behavior-Analysis/assets/126942017/aa729f1f-9162-4dcb-bf99-35a9c43b1d45)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/126942017/250140785-aa729f1f-9162-4dcb-bf99-35a9c43b1d45.png" width="400"/>
+</p>
 <br>
-
-![image](https://github.com/abhishekm9396/Host-Behavior-Analysis/assets/126942017/440bc1ce-e1c7-4e8e-a06c-11fa6a8bf3e8)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/126942017/250140807-440bc1ce-e1c7-4e8e-a06c-11fa6a8bf3e8.png" width="800"/>
+</p>
 <br>
 
 
