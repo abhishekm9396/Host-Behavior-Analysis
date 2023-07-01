@@ -3,7 +3,18 @@
 "Host-Behavior-Analysis" is a project focused on the analysis of property listings for a property rental company. 
 The dataset provided has the information regarding the 2 cities in Canada, Greece, Italy, China and US each. The thorough analysis of the property listings is being done for the data and the meaningful insights have been provided, to comprehend how host behavior varies across a variety of metrics. Also extensive charts have been created to visualize the data in the best possible way.
 
-## Goal & Methodology
+<br>
+
+##  Data Description
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **Dataset** | This folder contains all the .csv files like host details, listing details, reviews, etc. for different cities within each country |
+| **Host Behavior Analysis PPTX** | This file is the power point presentaion for the project |
+| **SQL Query**  | This file provides SQL queries of the aggregation of the data   |
+<br>
+
+## Methodology
 
 a. Analyzing different metrics to draw the distinction between Super Host and Other Hosts. To achieve this, following metrics are considered:
 
